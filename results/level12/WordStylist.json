@@ -1,0 +1,1101 @@
+{
+ "encoder": "train.py:19 c_classes: 52 латинських літер",
+ "paths": {
+  "sampling.py → train.py:189 label_padding": {
+   "level1": {
+    "C001": {
+     "status": "error",
+     "error": "KeyError: 'а'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C002": {
+     "status": "error",
+     "error": "KeyError: 'А'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C003": {
+     "status": "error",
+     "error": "KeyError: 'б'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C004": {
+     "status": "error",
+     "error": "KeyError: 'Б'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C005": {
+     "status": "error",
+     "error": "KeyError: 'в'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C006": {
+     "status": "error",
+     "error": "KeyError: 'В'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C007": {
+     "status": "error",
+     "error": "KeyError: 'г'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C008": {
+     "status": "error",
+     "error": "KeyError: 'Г'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C009": {
+     "status": "error",
+     "error": "KeyError: 'ґ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C010": {
+     "status": "error",
+     "error": "KeyError: 'Ґ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C011": {
+     "status": "error",
+     "error": "KeyError: 'д'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C012": {
+     "status": "error",
+     "error": "KeyError: 'Д'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C013": {
+     "status": "error",
+     "error": "KeyError: 'е'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C014": {
+     "status": "error",
+     "error": "KeyError: 'Е'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C015": {
+     "status": "error",
+     "error": "KeyError: 'є'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C016": {
+     "status": "error",
+     "error": "KeyError: 'Є'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C017": {
+     "status": "error",
+     "error": "KeyError: 'ж'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C018": {
+     "status": "error",
+     "error": "KeyError: 'Ж'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C019": {
+     "status": "error",
+     "error": "KeyError: 'з'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C020": {
+     "status": "error",
+     "error": "KeyError: 'З'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C021": {
+     "status": "error",
+     "error": "KeyError: 'и'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C022": {
+     "status": "error",
+     "error": "KeyError: 'И'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C023": {
+     "status": "error",
+     "error": "KeyError: 'і'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C024": {
+     "status": "error",
+     "error": "KeyError: 'І'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C025": {
+     "status": "error",
+     "error": "KeyError: 'ї'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C026": {
+     "status": "error",
+     "error": "KeyError: 'Ї'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C027": {
+     "status": "error",
+     "error": "KeyError: 'й'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C028": {
+     "status": "error",
+     "error": "KeyError: 'Й'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C029": {
+     "status": "error",
+     "error": "KeyError: 'к'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C030": {
+     "status": "error",
+     "error": "KeyError: 'К'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C031": {
+     "status": "error",
+     "error": "KeyError: 'л'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C032": {
+     "status": "error",
+     "error": "KeyError: 'Л'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C033": {
+     "status": "error",
+     "error": "KeyError: 'м'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C034": {
+     "status": "error",
+     "error": "KeyError: 'М'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C035": {
+     "status": "error",
+     "error": "KeyError: 'н'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C036": {
+     "status": "error",
+     "error": "KeyError: 'Н'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C037": {
+     "status": "error",
+     "error": "KeyError: 'о'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C038": {
+     "status": "error",
+     "error": "KeyError: 'О'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C039": {
+     "status": "error",
+     "error": "KeyError: 'п'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C040": {
+     "status": "error",
+     "error": "KeyError: 'П'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C041": {
+     "status": "error",
+     "error": "KeyError: 'р'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C042": {
+     "status": "error",
+     "error": "KeyError: 'Р'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C043": {
+     "status": "error",
+     "error": "KeyError: 'с'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C044": {
+     "status": "error",
+     "error": "KeyError: 'С'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C045": {
+     "status": "error",
+     "error": "KeyError: 'т'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C046": {
+     "status": "error",
+     "error": "KeyError: 'Т'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C047": {
+     "status": "error",
+     "error": "KeyError: 'у'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C048": {
+     "status": "error",
+     "error": "KeyError: 'У'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C049": {
+     "status": "error",
+     "error": "KeyError: 'ф'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C050": {
+     "status": "error",
+     "error": "KeyError: 'Ф'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C051": {
+     "status": "error",
+     "error": "KeyError: 'х'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C052": {
+     "status": "error",
+     "error": "KeyError: 'Х'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C053": {
+     "status": "error",
+     "error": "KeyError: 'ц'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C054": {
+     "status": "error",
+     "error": "KeyError: 'Ц'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C055": {
+     "status": "error",
+     "error": "KeyError: 'ч'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C056": {
+     "status": "error",
+     "error": "KeyError: 'Ч'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C057": {
+     "status": "error",
+     "error": "KeyError: 'ш'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C058": {
+     "status": "error",
+     "error": "KeyError: 'Ш'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C059": {
+     "status": "error",
+     "error": "KeyError: 'щ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C060": {
+     "status": "error",
+     "error": "KeyError: 'Щ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C061": {
+     "status": "error",
+     "error": "KeyError: 'ь'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C062": {
+     "status": "error",
+     "error": "KeyError: 'Ь'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C063": {
+     "status": "error",
+     "error": "KeyError: 'ю'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C064": {
+     "status": "error",
+     "error": "KeyError: 'Ю'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C065": {
+     "status": "error",
+     "error": "KeyError: 'я'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C066": {
+     "status": "error",
+     "error": "KeyError: 'Я'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C067": {
+     "status": "error",
+     "error": "KeyError: 'ʼ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C068": {
+     "status": "error",
+     "error": "KeyError: '’'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C069": {
+     "status": "error",
+     "error": "KeyError: \"'\"",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C070": {
+     "status": "error",
+     "error": "KeyError: '.'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C071": {
+     "status": "error",
+     "error": "KeyError: '?'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C072": {
+     "status": "error",
+     "error": "KeyError: '!'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C073": {
+     "status": "error",
+     "error": "KeyError: ','",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C074": {
+     "status": "error",
+     "error": "KeyError: ';'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C075": {
+     "status": "error",
+     "error": "KeyError: ':'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C076": {
+     "status": "error",
+     "error": "KeyError: '—'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C077": {
+     "status": "error",
+     "error": "KeyError: '–'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C078": {
+     "status": "error",
+     "error": "KeyError: '…'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C079": {
+     "status": "error",
+     "error": "KeyError: '('",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C080": {
+     "status": "error",
+     "error": "KeyError: ')'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C081": {
+     "status": "error",
+     "error": "KeyError: '['",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C082": {
+     "status": "error",
+     "error": "KeyError: ']'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C083": {
+     "status": "error",
+     "error": "KeyError: '<'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C084": {
+     "status": "error",
+     "error": "KeyError: '>'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C085": {
+     "status": "error",
+     "error": "KeyError: '«'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C086": {
+     "status": "error",
+     "error": "KeyError: '»'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C087": {
+     "status": "error",
+     "error": "KeyError: '„'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C088": {
+     "status": "error",
+     "error": "KeyError: '“'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C089": {
+     "status": "error",
+     "error": "KeyError: '”'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C090": {
+     "status": "error",
+     "error": "KeyError: '\"'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C091": {
+     "status": "error",
+     "error": "KeyError: '-'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C092": {
+     "status": "error",
+     "error": "KeyError: '‐'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C093": {
+     "status": "error",
+     "error": "KeyError: '/'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C094": {
+     "status": "error",
+     "error": "KeyError: 'ы'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C095": {
+     "status": "error",
+     "error": "KeyError: 'Ы'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C096": {
+     "status": "error",
+     "error": "KeyError: 'ъ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C097": {
+     "status": "error",
+     "error": "KeyError: 'Ъ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C098": {
+     "status": "error",
+     "error": "KeyError: 'ѣ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C099": {
+     "status": "error",
+     "error": "KeyError: 'Ѣ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C100": {
+     "status": "error",
+     "error": "KeyError: 'ѳ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C101": {
+     "status": "error",
+     "error": "KeyError: 'Ѳ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C102": {
+     "status": "error",
+     "error": "KeyError: 'ѵ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C103": {
+     "status": "error",
+     "error": "KeyError: 'Ѵ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C104": {
+     "status": "error",
+     "error": "KeyError: 'ё'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C105": {
+     "status": "error",
+     "error": "KeyError: 'Ё'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C106": {
+     "status": "error",
+     "error": "KeyError: 'э'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C107": {
+     "status": "error",
+     "error": "KeyError: 'Э'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C108": {
+     "status": "ok",
+     "output": "j"
+    },
+    "C109": {
+     "status": "ok",
+     "output": "J"
+    },
+    "C110": {
+     "status": "error",
+     "error": "KeyError: 'ѯ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C111": {
+     "status": "error",
+     "error": "KeyError: 'Ѯ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C112": {
+     "status": "error",
+     "error": "KeyError: 'ѱ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C113": {
+     "status": "error",
+     "error": "KeyError: 'Ѱ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C114": {
+     "status": "error",
+     "error": "KeyError: 'ꙋ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C115": {
+     "status": "error",
+     "error": "KeyError: 'Ꙋ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C116": {
+     "status": "error",
+     "error": "KeyError: 'ѧ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C117": {
+     "status": "error",
+     "error": "KeyError: 'Ѧ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C118": {
+     "status": "error",
+     "error": "KeyError: 'о'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C119": {
+     "status": "error",
+     "error": "KeyError: 'О'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C120": {
+     "status": "error",
+     "error": "KeyError: 'е'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C121": {
+     "status": "error",
+     "error": "KeyError: 'Е'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C122": {
+     "status": "error",
+     "error": "KeyError: 'у'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C123": {
+     "status": "error",
+     "error": "KeyError: 'У'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C124": {
+     "status": "error",
+     "error": "KeyError: 'и'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C125": {
+     "status": "error",
+     "error": "KeyError: 'И'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C126": {
+     "status": "error",
+     "error": "KeyError: 'а'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C127": {
+     "status": "error",
+     "error": "KeyError: 'А'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C128": {
+     "status": "error",
+     "error": "KeyError: 'а'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C129": {
+     "status": "error",
+     "error": "KeyError: 'А'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "C130": {
+     "status": "ok",
+     "output": "g"
+    },
+    "C131": {
+     "status": "ok",
+     "output": "G"
+    }
+   },
+   "level2": {
+    "quick": {
+     "input": "ґєіїʼ ыъѣ",
+     "status": "error",
+     "error": "KeyError: 'ґ'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "pangram": {
+     "input": "Чуєш їх, доцю, га? Кумедна ж ти, прощайся без ґольфів!",
+     "status": "error",
+     "error": "KeyError: 'Ч'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "apostrophe_variants": {
+     "input": "пʼять мʼята п’ять м’ята п'ять м'ята",
+     "status": "error",
+     "error": "KeyError: 'п'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "punctuation_line": {
+     "input": "Він сказав: «Іди сюди — „зараз“ (не завтра)!» Що?! Ну… Ну... Добре, так; гаразд-гаразд [див. <…>] і/або “інше” „рукописне”.",
+     "status": "error",
+     "error": "KeyError: 'В'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    },
+    "historical_line": {
+     "input": "сынъ свѣтъ ѳеодоръ ѵпостась ёго эхо jак ѱалтирь ꙋкраїна ѧкъ мо̂й до́бре",
+     "status": "error",
+     "error": "KeyError: 'с'",
+     "where": {
+      "ref": "train.py:32",
+      "code": "ll = [letter2index[i] for i in labels]"
+     }
+    }
+   }
+  }
+ },
+ "status": "ok",
+ "method": "WordStylist",
+ "inventory_version": "0.3.0",
+ "environment": {
+  "python": "3.12.8",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "torch": "2.14.1",
+  "transformers": "5.20.2",
+  "numpy": "2.5.4"
+ },
+ "checked_at": "2026-10-23T15:38:31+00:00",
+ "source": "github koninik/WordStylist",
+ "revision": "03bb684e0eb26c42bcfc2ed719e73d60db888226"
+}

@@ -1,0 +1,13 @@
+{"case": "latin_mama", "text": "mama", "style": "0000", "style_text": "був Трохи але й принципів", "size": [491, 64], "seconds": 25.5}
+{"case": "latin_mama", "text": "mama", "style": "0002", "style_text": "правописам у за потяга їх", "size": [504, 64], "seconds": 24.1}
+{"case": "latin_hello", "text": "hello", "style": "0000", "style_text": "був Трохи але й принципів", "size": [471, 64], "seconds": 24.2}
+{"case": "latin_hello", "text": "hello", "style": "0002", "style_text": "правописам у за потяга їх", "size": [483, 64], "seconds": 24.7}
+{"case": "cyr_mama", "text": "мама", "style": "0000", "style_text": "був Трохи але й принципів", "size": [491, 64], "seconds": 23.3}
+{"case": "cyr_mama", "text": "мама", "style": "0002", "style_text": "правописам у за потяга їх", "size": [460, 64], "seconds": 24.5}
+{"case": "card_EMURU", "text": "EMURU", "style": "card", "style_text": "THE JOLLY IS \"U\"", "size": [258, 64], "seconds": 12.2}
+{"case": "card_latin_mama", "text": "mama", "style": "card", "style_text": "THE JOLLY IS \"U\"", "size": [239, 64], "seconds": 10.8}
+{"case": "card_cyr_mama", "text": "мама", "style": "card", "style_text": "THE JOLLY IS \"U\"", "size": [386, 64], "seconds": 16.9}
+{"case": "latin_mama_nostyletext", "text": "mama", "style": "0000", "style_text": "", "size": [170, 64], "seconds": 7.6}
+{"case": "latin_mama_nostyletext", "text": "mama", "style": "0002", "style_text": "", "size": [512, 64], "seconds": 22.3}
+{"case": "cyr_mama_nostyletext", "text": "мама", "style": "0000", "style_text": "", "size": [507, 64], "seconds": 22.6}
+{"case": "cyr_mama_nostyletext", "text": "мама", "style": "0002", "style_text": "", "size": [506, 64], "seconds": 22.6}

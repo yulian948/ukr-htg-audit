@@ -1,0 +1,532 @@
+id,font_id,font,group,letter,підсумок,джерело
+L001,F018,Abram,ukrainian-handwriting-synth,в,1,збіг
+L002,F044,Pag,ukrainian-handwriting-synth,п,1,збіг
+L003,F058,koala,doc_gen,и,0,збіг
+L004,F054,LITERPLA,doc_gen,ш,2,збіг
+L005,F003,Caveat,google_fonts,п,1,консенсус
+L006,F022,AllegroScript - AllegroScript - Italic,ukrainian-handwriting-synth,и,1,збіг
+L007,F008,Klee One,google_fonts,т,2,збіг
+L008,F023,AnastasiaScript - AnastasiaScript - Regular,ukrainian-handwriting-synth,б,2,консенсус
+L009,F043,PFScandalPro-Reg,ukrainian-handwriting-synth,п,1,збіг
+L010,F015,Yomogi,google_fonts,в,2,збіг
+L011,F048,ShellyAllegroC - ShellyAllegroC - Regular,ukrainian-handwriting-synth,д,1,збіг
+L012,F019,AdventureC - AdventureC - Regular,ukrainian-handwriting-synth,б,1,збіг
+L013,F021,AllegrettoScriptTwoC - Allegretto Script TwoC - Regular,ukrainian-handwriting-synth,ш,1,збіг
+L014,F049,StudioScriptC,ukrainian-handwriting-synth,т,1,збіг
+L015,F050,Tibalt,ukrainian-handwriting-synth,з,1,консенсус
+L016,F031,EnglishScript - English Script - Regular,ukrainian-handwriting-synth,п,1,збіг
+L017,F051,UkrainianChance - UkrainianChance - Regular,ukrainian-handwriting-synth,ш,1,збіг
+L018,F039,Merkucio,ukrainian-handwriting-synth,з,1,збіг
+L019,F025,Anselmo,ukrainian-handwriting-synth,п,1,консенсус
+L020,F034,Gogol,ukrainian-handwriting-synth,д,2,консенсус
+L021,F059,luckytw,doc_gen,т,0,збіг
+L022,F001,Amatic SC,google_fonts,и,2,збіг
+L023,F054,LITERPLA,doc_gen,з,2,збіг
+L024,F044,Pag,ukrainian-handwriting-synth,ш,1,збіг
+L025,F023,AnastasiaScript - AnastasiaScript - Regular,ukrainian-handwriting-synth,ш,1,збіг
+L026,F051,UkrainianChance - UkrainianChance - Regular,ukrainian-handwriting-synth,п,1,збіг
+L027,F015,Yomogi,google_fonts,п,2,консенсус
+L028,F005,Comforter Brush,google_fonts,т,1,збіг
+L029,F027,Blink-Script,ukrainian-handwriting-synth,п,1,збіг
+L030,F033,Gogol - Gogol - Regular,ukrainian-handwriting-synth,д,2,консенсус
+L031,F011,Neucha,google_fonts,п,2,збіг
+L032,F003,Caveat,google_fonts,ш,1,збіг
+L033,F023,AnastasiaScript - AnastasiaScript - Regular,ukrainian-handwriting-synth,т,1,збіг
+L034,F043,PFScandalPro-Reg,ukrainian-handwriting-synth,з,2,збіг
+L035,F031,EnglishScript - English Script - Regular,ukrainian-handwriting-synth,ш,1,збіг
+L036,F025,Anselmo,ukrainian-handwriting-synth,т,1,збіг
+L037,F055,Melon_Font_-_Free_Trial,doc_gen,ш,0,збіг
+L038,F013,Pangolin,google_fonts,и,2,збіг
+L039,F003,Caveat,google_fonts,т,1,збіг
+L040,F004,Comforter,google_fonts,з,1,збіг
+L041,F030,Djiovanni,ukrainian-handwriting-synth,ш,1,збіг
+L042,F024,AnastasiaScriptC - AnastasiaScriptC - Regular,ukrainian-handwriting-synth,б,1,консенсус
+L043,F035,Gregory,ukrainian-handwriting-synth,т,1,збіг
+L044,F003,Caveat,google_fonts,г,2,збіг
+L045,F053,Finding_Beauty,doc_gen,д,0,збіг
+L046,F001,Amatic SC,google_fonts,д,2,збіг
+L047,F014,Playpen Sans,google_fonts,ш,1,збіг
+L048,F015,Yomogi,google_fonts,д,2,збіг
+L049,F042,NinaCTT - NinaCTT - Normal,ukrainian-handwriting-synth,и,1,збіг
+L050,F019,AdventureC - AdventureC - Regular,ukrainian-handwriting-synth,в,1,збіг
+L051,F020,AllegrettoScriptOneC - Allegretto Script OneC - Regular,ukrainian-handwriting-synth,п,1,збіг
+L052,F054,LITERPLA,doc_gen,т,2,збіг
+L053,F048,ShellyAllegroC - ShellyAllegroC - Regular,ukrainian-handwriting-synth,и,1,збіг
+L054,F035,Gregory,ukrainian-handwriting-synth,б,1,збіг
+L055,F013,Pangolin,google_fonts,т,2,збіг
+L056,F056,comic,doc_gen,д,0,збіг
+L057,F034,Gogol,ukrainian-handwriting-synth,ш,1,збіг
+L058,F014,Playpen Sans,google_fonts,б,1,консенсус
+L059,F040,Montekky,ukrainian-handwriting-synth,б,1,збіг
+L060,F002,Bad Script,google_fonts,г,1,збіг
+L061,F016,Shantell Sans,google_fonts_classification,б,1,консенсус
+L062,F024,AnastasiaScriptC - AnastasiaScriptC - Regular,ukrainian-handwriting-synth,в,1,збіг
+L063,F008,Klee One,google_fonts,г,2,збіг
+L064,F028,Capuletty,ukrainian-handwriting-synth,п,1,збіг
+L065,F035,Gregory,ukrainian-handwriting-synth,и,1,збіг
+L066,F029,Celestina,ukrainian-handwriting-synth,ш,1,консенсус
+L067,F002,Bad Script,google_fonts,т,2,збіг
+L068,F040,Montekky,ukrainian-handwriting-synth,ш,1,збіг
+L069,F039,Merkucio,ukrainian-handwriting-synth,ш,1,збіг
+L070,F039,Merkucio,ukrainian-handwriting-synth,т,1,збіг
+L071,F010,Marck Script,google_fonts,и,1,збіг
+L072,F024,AnastasiaScriptC - AnastasiaScriptC - Regular,ukrainian-handwriting-synth,п,1,збіг
+L073,F025,Anselmo,ukrainian-handwriting-synth,в,1,консенсус
+L074,F032,Eskal,ukrainian-handwriting-synth,т,1,консенсус
+L075,F004,Comforter,google_fonts,в,1,збіг
+L076,F026,Benvolio,ukrainian-handwriting-synth,ш,1,збіг
+L077,F041,NinaC,ukrainian-handwriting-synth,б,1,збіг
+L078,F001,Amatic SC,google_fonts,в,2,збіг
+L079,F016,Shantell Sans,google_fonts_classification,в,2,збіг
+L080,F047,Samson,ukrainian-handwriting-synth,б,1,консенсус
+L081,F037,Lorenco,ukrainian-handwriting-synth,и,1,збіг
+L082,F009,LXGW WenKai TC,google_fonts,и,2,збіг
+L083,F020,AllegrettoScriptOneC - Allegretto Script OneC - Regular,ukrainian-handwriting-synth,и,1,збіг
+L084,F036,Lemon-Tuesday,ukrainian-handwriting-synth,з,1,збіг
+L085,F038,LudvigvanBethoveen - Ludvig van Bethoveen - Regular,ukrainian-handwriting-synth,б,2,консенсус
+L086,F022,AllegroScript - AllegroScript - Italic,ukrainian-handwriting-synth,г,1,збіг
+L087,F059,luckytw,doc_gen,г,0,збіг
+L088,F038,LudvigvanBethoveen - Ludvig van Bethoveen - Regular,ukrainian-handwriting-synth,в,1,збіг
+L089,F021,AllegrettoScriptTwoC - Allegretto Script TwoC - Regular,ukrainian-handwriting-synth,т,1,збіг
+L090,F003,Caveat,google_fonts,б,1,збіг
+L091,F024,AnastasiaScriptC - AnastasiaScriptC - Regular,ukrainian-handwriting-synth,т,1,збіг
+L092,F044,Pag,ukrainian-handwriting-synth,з,1,збіг
+L093,F024,AnastasiaScriptC - AnastasiaScriptC - Regular,ukrainian-handwriting-synth,и,1,збіг
+L094,F043,PFScandalPro-Reg,ukrainian-handwriting-synth,в,2,збіг
+L095,F034,Gogol,ukrainian-handwriting-synth,б,1,збіг
+L096,F017,Kobzar KS,kobzar,г,1,збіг
+L097,F045,Paris,ukrainian-handwriting-synth,б,1,збіг
+L098,F033,Gogol - Gogol - Regular,ukrainian-handwriting-synth,ш,1,збіг
+L099,F012,Pacifico,google_fonts,з,1,збіг
+L100,F007,Hachi Maru Pop,google_fonts,п,2,збіг
+L101,F002,Bad Script,google_fonts,ш,1,збіг
+L102,F002,Bad Script,google_fonts,б,1,збіг
+L103,F032,Eskal,ukrainian-handwriting-synth,б,1,збіг
+L104,F007,Hachi Maru Pop,google_fonts,д,2,збіг
+L105,F037,Lorenco,ukrainian-handwriting-synth,ш,1,збіг
+L106,F025,Anselmo,ukrainian-handwriting-synth,ш,1,консенсус
+L107,F028,Capuletty,ukrainian-handwriting-synth,ш,1,збіг
+L108,F011,Neucha,google_fonts,з,2,збіг
+L109,F045,Paris,ukrainian-handwriting-synth,т,2,збіг
+L110,F020,AllegrettoScriptOneC - Allegretto Script OneC - Regular,ukrainian-handwriting-synth,г,1,збіг
+L111,F018,Abram,ukrainian-handwriting-synth,г,1,збіг
+L112,F045,Paris,ukrainian-handwriting-synth,в,1,збіг
+L113,F040,Montekky,ukrainian-handwriting-synth,з,1,збіг
+L114,F026,Benvolio,ukrainian-handwriting-synth,п,2,збіг
+L115,F010,Marck Script,google_fonts,б,1,збіг
+L116,F045,Paris,ukrainian-handwriting-synth,г,1,збіг
+L117,F047,Samson,ukrainian-handwriting-synth,д,1,збіг
+L118,F053,Finding_Beauty,doc_gen,ш,0,збіг
+L119,F004,Comforter,google_fonts,т,1,консенсус
+L120,F017,Kobzar KS,kobzar,и,1,збіг
+L121,F028,Capuletty,ukrainian-handwriting-synth,в,1,збіг
+L122,F036,Lemon-Tuesday,ukrainian-handwriting-synth,в,1,збіг
+L123,F042,NinaCTT - NinaCTT - Normal,ukrainian-handwriting-synth,з,1,збіг
+L124,F051,UkrainianChance - UkrainianChance - Regular,ukrainian-handwriting-synth,б,1,збіг
+L125,F046,Pinata-Celestina,ukrainian-handwriting-synth,д,1,збіг
+L126,F009,LXGW WenKai TC,google_fonts,б,2,консенсус
+L127,F043,PFScandalPro-Reg,ukrainian-handwriting-synth,г,1,збіг
+L128,F029,Celestina,ukrainian-handwriting-synth,п,1,збіг
+L129,F057,gtw,doc_gen,п,2,збіг
+L130,F012,Pacifico,google_fonts,г,1,збіг
+L131,F038,LudvigvanBethoveen - Ludvig van Bethoveen - Regular,ukrainian-handwriting-synth,т,1,збіг
+L132,F043,PFScandalPro-Reg,ukrainian-handwriting-synth,т,1,консенсус
+L133,F056,comic,doc_gen,ш,0,збіг
+L134,F018,Abram,ukrainian-handwriting-synth,д,1,консенсус
+L135,F044,Pag,ukrainian-handwriting-synth,г,0,збіг
+L136,F004,Comforter,google_fonts,и,1,збіг
+L137,F044,Pag,ukrainian-handwriting-synth,и,1,збіг
+L138,F049,StudioScriptC,ukrainian-handwriting-synth,и,1,збіг
+L139,F032,Eskal,ukrainian-handwriting-synth,и,1,збіг
+L140,F029,Celestina,ukrainian-handwriting-synth,т,1,консенсус
+L141,F003,Caveat,google_fonts,в,1,збіг
+L142,F052,WolfgangAmadeusMozart - Wolfgang Amadeus Mozart - Regular,ukrainian-handwriting-synth,з,1,збіг
+L143,F007,Hachi Maru Pop,google_fonts,т,2,збіг
+L144,F007,Hachi Maru Pop,google_fonts,в,2,збіг
+L145,F032,Eskal,ukrainian-handwriting-synth,д,1,збіг
+L146,F011,Neucha,google_fonts,ш,2,збіг
+L147,F057,gtw,doc_gen,з,2,збіг
+L148,F026,Benvolio,ukrainian-handwriting-synth,д,1,збіг
+L149,F015,Yomogi,google_fonts,ш,2,збіг
+L150,F004,Comforter,google_fonts,б,1,збіг
+L151,F033,Gogol - Gogol - Regular,ukrainian-handwriting-synth,г,1,збіг
+L152,F018,Abram,ukrainian-handwriting-synth,з,1,збіг
+L153,F048,ShellyAllegroC - ShellyAllegroC - Regular,ukrainian-handwriting-synth,б,2,консенсус
+L154,F040,Montekky,ukrainian-handwriting-synth,и,1,збіг
+L155,F014,Playpen Sans,google_fonts,и,1,збіг
+L156,F041,NinaC,ukrainian-handwriting-synth,ш,1,збіг
+L157,F058,koala,doc_gen,д,0,збіг
+L158,F016,Shantell Sans,google_fonts_classification,т,2,збіг
+L159,F026,Benvolio,ukrainian-handwriting-synth,з,1,консенсус
+L160,F007,Hachi Maru Pop,google_fonts,з,2,збіг
+L161,F014,Playpen Sans,google_fonts,з,2,збіг
+L162,F051,UkrainianChance - UkrainianChance - Regular,ukrainian-handwriting-synth,т,1,збіг
+L163,F025,Anselmo,ukrainian-handwriting-synth,з,2,збіг
+L164,F028,Capuletty,ukrainian-handwriting-synth,д,1,збіг
+L165,F053,Finding_Beauty,doc_gen,г,0,збіг
+L166,F056,comic,doc_gen,и,0,збіг
+L167,F006,Great Vibes,google_fonts,п,1,збіг
+L168,F054,LITERPLA,doc_gen,и,2,збіг
+L169,F047,Samson,ukrainian-handwriting-synth,в,1,консенсус
+L170,F047,Samson,ukrainian-handwriting-synth,п,1,збіг
+L171,F011,Neucha,google_fonts,и,2,збіг
+L172,F040,Montekky,ukrainian-handwriting-synth,г,1,консенсус
+L173,F020,AllegrettoScriptOneC - Allegretto Script OneC - Regular,ukrainian-handwriting-synth,з,1,збіг
+L174,F016,Shantell Sans,google_fonts_classification,г,2,збіг
+L175,F009,LXGW WenKai TC,google_fonts,п,2,збіг
+L176,F036,Lemon-Tuesday,ukrainian-handwriting-synth,т,1,консенсус
+L177,F053,Finding_Beauty,doc_gen,в,0,збіг
+L178,F058,koala,doc_gen,б,0,збіг
+L179,F032,Eskal,ukrainian-handwriting-synth,п,1,збіг
+L180,F012,Pacifico,google_fonts,т,1,збіг
+L181,F021,AllegrettoScriptTwoC - Allegretto Script TwoC - Regular,ukrainian-handwriting-synth,г,1,збіг
+L182,F020,AllegrettoScriptOneC - Allegretto Script OneC - Regular,ukrainian-handwriting-synth,б,1,збіг
+L183,F025,Anselmo,ukrainian-handwriting-synth,д,2,консенсус
+L184,F037,Lorenco,ukrainian-handwriting-synth,з,1,збіг
+L185,F045,Paris,ukrainian-handwriting-synth,и,1,збіг
+L186,F003,Caveat,google_fonts,и,1,збіг
+L187,F001,Amatic SC,google_fonts,б,2,збіг
+L188,F029,Celestina,ukrainian-handwriting-synth,в,1,збіг
+L189,F031,EnglishScript - English Script - Regular,ukrainian-handwriting-synth,б,1,збіг
+L190,F014,Playpen Sans,google_fonts,т,2,збіг
+L191,F028,Capuletty,ukrainian-handwriting-synth,и,1,збіг
+L192,F020,AllegrettoScriptOneC - Allegretto Script OneC - Regular,ukrainian-handwriting-synth,т,1,збіг
+L193,F058,koala,doc_gen,з,0,збіг
+L194,F042,NinaCTT - NinaCTT - Normal,ukrainian-handwriting-synth,п,1,консенсус
+L195,F055,Melon_Font_-_Free_Trial,doc_gen,з,0,збіг
+L196,F042,NinaCTT - NinaCTT - Normal,ukrainian-handwriting-synth,ш,1,збіг
+L197,F056,comic,doc_gen,п,0,збіг
+L198,F048,ShellyAllegroC - ShellyAllegroC - Regular,ukrainian-handwriting-synth,ш,1,збіг
+L199,F005,Comforter Brush,google_fonts,п,1,збіг
+L200,F032,Eskal,ukrainian-handwriting-synth,г,1,збіг
+L201,F028,Capuletty,ukrainian-handwriting-synth,б,1,збіг
+L202,F026,Benvolio,ukrainian-handwriting-synth,и,1,збіг
+L203,F052,WolfgangAmadeusMozart - Wolfgang Amadeus Mozart - Regular,ukrainian-handwriting-synth,и,1,збіг
+L204,F029,Celestina,ukrainian-handwriting-synth,г,1,збіг
+L205,F054,LITERPLA,doc_gen,д,2,збіг
+L206,F052,WolfgangAmadeusMozart - Wolfgang Amadeus Mozart - Regular,ukrainian-handwriting-synth,п,1,збіг
+L207,F058,koala,doc_gen,ш,0,збіг
+L208,F039,Merkucio,ukrainian-handwriting-synth,п,1,збіг
+L209,F001,Amatic SC,google_fonts,ш,2,збіг
+L210,F006,Great Vibes,google_fonts,г,1,збіг
+L211,F035,Gregory,ukrainian-handwriting-synth,з,1,збіг
+L212,F040,Montekky,ukrainian-handwriting-synth,в,1,збіг
+L213,F048,ShellyAllegroC - ShellyAllegroC - Regular,ukrainian-handwriting-synth,т,1,збіг
+L214,F055,Melon_Font_-_Free_Trial,doc_gen,т,0,збіг
+L215,F042,NinaCTT - NinaCTT - Normal,ukrainian-handwriting-synth,д,1,збіг
+L216,F036,Lemon-Tuesday,ukrainian-handwriting-synth,ш,1,консенсус
+L217,F016,Shantell Sans,google_fonts_classification,з,2,збіг
+L218,F056,comic,doc_gen,г,0,збіг
+L219,F032,Eskal,ukrainian-handwriting-synth,ш,1,збіг
+L220,F051,UkrainianChance - UkrainianChance - Regular,ukrainian-handwriting-synth,д,1,збіг
+L221,F017,Kobzar KS,kobzar,в,1,збіг
+L222,F023,AnastasiaScript - AnastasiaScript - Regular,ukrainian-handwriting-synth,п,1,збіг
+L223,F025,Anselmo,ukrainian-handwriting-synth,и,1,збіг
+L224,F012,Pacifico,google_fonts,б,1,збіг
+L225,F042,NinaCTT - NinaCTT - Normal,ukrainian-handwriting-synth,в,1,консенсус
+L226,F044,Pag,ukrainian-handwriting-synth,т,1,консенсус
+L227,F029,Celestina,ukrainian-handwriting-synth,и,1,збіг
+L228,F026,Benvolio,ukrainian-handwriting-synth,т,2,збіг
+L229,F013,Pangolin,google_fonts,п,2,збіг
+L230,F035,Gregory,ukrainian-handwriting-synth,д,1,збіг
+L231,F049,StudioScriptC,ukrainian-handwriting-synth,з,2,збіг
+L232,F049,StudioScriptC,ukrainian-handwriting-synth,в,1,збіг
+L233,F053,Finding_Beauty,doc_gen,з,0,збіг
+L234,F034,Gogol,ukrainian-handwriting-synth,г,1,збіг
+L235,F015,Yomogi,google_fonts,г,2,збіг
+L236,F014,Playpen Sans,google_fonts,п,2,збіг
+L237,F004,Comforter,google_fonts,г,1,збіг
+L238,F012,Pacifico,google_fonts,и,1,збіг
+L239,F002,Bad Script,google_fonts,д,1,збіг
+L240,F008,Klee One,google_fonts,з,2,збіг
+L241,F041,NinaC,ukrainian-handwriting-synth,г,1,збіг
+L242,F051,UkrainianChance - UkrainianChance - Regular,ukrainian-handwriting-synth,и,1,збіг
+L243,F036,Lemon-Tuesday,ukrainian-handwriting-synth,и,1,консенсус
+L244,F047,Samson,ukrainian-handwriting-synth,т,2,консенсус
+L245,F038,LudvigvanBethoveen - Ludvig van Bethoveen - Regular,ukrainian-handwriting-synth,з,1,збіг
+L246,F010,Marck Script,google_fonts,з,2,збіг
+L247,F015,Yomogi,google_fonts,з,2,збіг
+L248,F052,WolfgangAmadeusMozart - Wolfgang Amadeus Mozart - Regular,ukrainian-handwriting-synth,б,1,збіг
+L249,F018,Abram,ukrainian-handwriting-synth,б,1,збіг
+L250,F027,Blink-Script,ukrainian-handwriting-synth,в,1,консенсус
+L251,F002,Bad Script,google_fonts,и,1,збіг
+L252,F039,Merkucio,ukrainian-handwriting-synth,в,1,збіг
+L253,F052,WolfgangAmadeusMozart - Wolfgang Amadeus Mozart - Regular,ukrainian-handwriting-synth,ш,1,збіг
+L254,F027,Blink-Script,ukrainian-handwriting-synth,и,1,збіг
+L255,F022,AllegroScript - AllegroScript - Italic,ukrainian-handwriting-synth,д,1,збіг
+L256,F035,Gregory,ukrainian-handwriting-synth,г,1,збіг
+L257,F045,Paris,ukrainian-handwriting-synth,д,1,збіг
+L258,F056,comic,doc_gen,з,0,збіг
+L259,F033,Gogol - Gogol - Regular,ukrainian-handwriting-synth,п,1,збіг
+L260,F046,Pinata-Celestina,ukrainian-handwriting-synth,п,1,збіг
+L261,F044,Pag,ukrainian-handwriting-synth,в,1,збіг
+L262,F057,gtw,doc_gen,ш,0,збіг
+L263,F002,Bad Script,google_fonts,в,1,збіг
+L264,F055,Melon_Font_-_Free_Trial,doc_gen,г,0,збіг
+L265,F042,NinaCTT - NinaCTT - Normal,ukrainian-handwriting-synth,г,1,консенсус
+L266,F029,Celestina,ukrainian-handwriting-synth,д,1,збіг
+L267,F054,LITERPLA,doc_gen,в,2,збіг
+L268,F005,Comforter Brush,google_fonts,ш,1,консенсус
+L269,F052,WolfgangAmadeusMozart - Wolfgang Amadeus Mozart - Regular,ukrainian-handwriting-synth,г,1,консенсус
+L270,F007,Hachi Maru Pop,google_fonts,ш,2,збіг
+L271,F040,Montekky,ukrainian-handwriting-synth,п,1,збіг
+L272,F006,Great Vibes,google_fonts,д,2,збіг
+L273,F025,Anselmo,ukrainian-handwriting-synth,г,1,консенсус
+L274,F027,Blink-Script,ukrainian-handwriting-synth,т,1,збіг
+L275,F058,koala,doc_gen,п,0,збіг
+L276,F034,Gogol,ukrainian-handwriting-synth,т,1,збіг
+L277,F027,Blink-Script,ukrainian-handwriting-synth,б,2,консенсус
+L278,F026,Benvolio,ukrainian-handwriting-synth,г,1,консенсус
+L279,F032,Eskal,ukrainian-handwriting-synth,з,1,збіг
+L280,F043,PFScandalPro-Reg,ukrainian-handwriting-synth,д,0,консенсус
+L281,F046,Pinata-Celestina,ukrainian-handwriting-synth,ш,2,консенсус
+L282,F050,Tibalt,ukrainian-handwriting-synth,т,1,збіг
+L283,F050,Tibalt,ukrainian-handwriting-synth,ш,1,збіг
+L284,F050,Tibalt,ukrainian-handwriting-synth,г,1,збіг
+L285,F059,luckytw,doc_gen,и,0,збіг
+L286,F039,Merkucio,ukrainian-handwriting-synth,г,1,консенсус
+L287,F046,Pinata-Celestina,ukrainian-handwriting-synth,з,1,збіг
+L288,F033,Gogol - Gogol - Regular,ukrainian-handwriting-synth,в,1,збіг
+L289,F006,Great Vibes,google_fonts,т,1,збіг
+L290,F016,Shantell Sans,google_fonts_classification,ш,2,збіг
+L291,F006,Great Vibes,google_fonts,з,1,збіг
+L292,F011,Neucha,google_fonts,д,2,збіг
+L293,F019,AdventureC - AdventureC - Regular,ukrainian-handwriting-synth,т,1,збіг
+L294,F055,Melon_Font_-_Free_Trial,doc_gen,б,0,збіг
+L295,F001,Amatic SC,google_fonts,з,2,збіг
+L296,F059,luckytw,doc_gen,в,0,збіг
+L297,F018,Abram,ukrainian-handwriting-synth,ш,1,збіг
+L298,F026,Benvolio,ukrainian-handwriting-synth,б,1,збіг
+L299,F022,AllegroScript - AllegroScript - Italic,ukrainian-handwriting-synth,з,1,збіг
+L300,F006,Great Vibes,google_fonts,и,1,збіг
+L301,F037,Lorenco,ukrainian-handwriting-synth,г,1,збіг
+L302,F010,Marck Script,google_fonts,п,1,збіг
+L303,F023,AnastasiaScript - AnastasiaScript - Regular,ukrainian-handwriting-synth,и,1,збіг
+L304,F009,LXGW WenKai TC,google_fonts,т,2,збіг
+L305,F010,Marck Script,google_fonts,т,1,збіг
+L306,F008,Klee One,google_fonts,д,2,збіг
+L307,F022,AllegroScript - AllegroScript - Italic,ukrainian-handwriting-synth,ш,1,збіг
+L308,F009,LXGW WenKai TC,google_fonts,в,2,збіг
+L309,F035,Gregory,ukrainian-handwriting-synth,ш,1,збіг
+L310,F058,koala,doc_gen,т,0,збіг
+L311,F038,LudvigvanBethoveen - Ludvig van Bethoveen - Regular,ukrainian-handwriting-synth,г,1,збіг
+L312,F032,Eskal,ukrainian-handwriting-synth,в,1,збіг
+L313,F017,Kobzar KS,kobzar,д,2,консенсус
+L314,F056,comic,doc_gen,б,0,збіг
+L315,F049,StudioScriptC,ukrainian-handwriting-synth,д,2,консенсус
+L316,F021,AllegrettoScriptTwoC - Allegretto Script TwoC - Regular,ukrainian-handwriting-synth,б,1,збіг
+L317,F010,Marck Script,google_fonts,г,1,збіг
+L318,F027,Blink-Script,ukrainian-handwriting-synth,д,1,збіг
+L319,F011,Neucha,google_fonts,г,2,збіг
+L320,F015,Yomogi,google_fonts,т,2,збіг
+L321,F043,PFScandalPro-Reg,ukrainian-handwriting-synth,и,1,збіг
+L322,F016,Shantell Sans,google_fonts_classification,и,1,збіг
+L323,F045,Paris,ukrainian-handwriting-synth,з,1,збіг
+L324,F008,Klee One,google_fonts,в,2,збіг
+L325,F019,AdventureC - AdventureC - Regular,ukrainian-handwriting-synth,ш,1,збіг
+L326,F039,Merkucio,ukrainian-handwriting-synth,д,1,збіг
+L327,F006,Great Vibes,google_fonts,в,1,збіг
+L328,F023,AnastasiaScript - AnastasiaScript - Regular,ukrainian-handwriting-synth,г,1,збіг
+L329,F021,AllegrettoScriptTwoC - Allegretto Script TwoC - Regular,ukrainian-handwriting-synth,и,1,збіг
+L330,F036,Lemon-Tuesday,ukrainian-handwriting-synth,п,1,збіг
+L331,F007,Hachi Maru Pop,google_fonts,и,2,збіг
+L332,F037,Lorenco,ukrainian-handwriting-synth,п,1,збіг
+L333,F009,LXGW WenKai TC,google_fonts,г,2,збіг
+L334,F001,Amatic SC,google_fonts,т,2,збіг
+L335,F034,Gogol,ukrainian-handwriting-synth,п,1,збіг
+L336,F030,Djiovanni,ukrainian-handwriting-synth,г,1,консенсус
+L337,F028,Capuletty,ukrainian-handwriting-synth,т,2,збіг
+L338,F024,AnastasiaScriptC - AnastasiaScriptC - Regular,ukrainian-handwriting-synth,ш,1,збіг
+L339,F011,Neucha,google_fonts,т,2,збіг
+L340,F046,Pinata-Celestina,ukrainian-handwriting-synth,в,1,консенсус
+L341,F022,AllegroScript - AllegroScript - Italic,ukrainian-handwriting-synth,т,1,збіг
+L342,F051,UkrainianChance - UkrainianChance - Regular,ukrainian-handwriting-synth,в,1,консенсус
+L343,F042,NinaCTT - NinaCTT - Normal,ukrainian-handwriting-synth,т,1,консенсус
+L344,F056,comic,doc_gen,т,0,збіг
+L345,F030,Djiovanni,ukrainian-handwriting-synth,д,1,консенсус
+L346,F013,Pangolin,google_fonts,з,2,збіг
+L347,F010,Marck Script,google_fonts,д,1,збіг
+L348,F024,AnastasiaScriptC - AnastasiaScriptC - Regular,ukrainian-handwriting-synth,з,1,збіг
+L349,F059,luckytw,doc_gen,п,0,збіг
+L350,F049,StudioScriptC,ukrainian-handwriting-synth,г,1,збіг
+L351,F019,AdventureC - AdventureC - Regular,ukrainian-handwriting-synth,з,1,збіг
+L352,F041,NinaC,ukrainian-handwriting-synth,т,1,консенсус
+L353,F056,comic,doc_gen,в,0,збіг
+L354,F015,Yomogi,google_fonts,и,2,збіг
+L355,F029,Celestina,ukrainian-handwriting-synth,з,1,збіг
+L356,F043,PFScandalPro-Reg,ukrainian-handwriting-synth,ш,1,консенсус
+L357,F053,Finding_Beauty,doc_gen,т,0,збіг
+L358,F011,Neucha,google_fonts,в,2,збіг
+L359,F051,UkrainianChance - UkrainianChance - Regular,ukrainian-handwriting-synth,з,2,збіг
+L360,F050,Tibalt,ukrainian-handwriting-synth,б,1,збіг
+L361,F038,LudvigvanBethoveen - Ludvig van Bethoveen - Regular,ukrainian-handwriting-synth,ш,1,збіг
+L362,F054,LITERPLA,doc_gen,г,2,збіг
+L363,F038,LudvigvanBethoveen - Ludvig van Bethoveen - Regular,ukrainian-handwriting-synth,и,1,збіг
+L364,F042,NinaCTT - NinaCTT - Normal,ukrainian-handwriting-synth,б,1,збіг
+L365,F017,Kobzar KS,kobzar,ш,1,консенсус
+L366,F052,WolfgangAmadeusMozart - Wolfgang Amadeus Mozart - Regular,ukrainian-handwriting-synth,т,1,збіг
+L367,F059,luckytw,doc_gen,д,0,збіг
+L368,F044,Pag,ukrainian-handwriting-synth,д,1,консенсус
+L369,F047,Samson,ukrainian-handwriting-synth,г,1,консенсус
+L370,F012,Pacifico,google_fonts,в,1,збіг
+L371,F014,Playpen Sans,google_fonts,д,2,збіг
+L372,F014,Playpen Sans,google_fonts,г,2,збіг
+L373,F029,Celestina,ukrainian-handwriting-synth,б,1,консенсус
+L374,F005,Comforter Brush,google_fonts,д,1,збіг
+L375,F013,Pangolin,google_fonts,ш,2,збіг
+L376,F008,Klee One,google_fonts,б,2,збіг
+L377,F050,Tibalt,ukrainian-handwriting-synth,п,1,збіг
+L378,F039,Merkucio,ukrainian-handwriting-synth,б,1,збіг
+L379,F049,StudioScriptC,ukrainian-handwriting-synth,б,1,збіг
+L380,F017,Kobzar KS,kobzar,б,1,збіг
+L381,F010,Marck Script,google_fonts,ш,1,збіг
+L382,F047,Samson,ukrainian-handwriting-synth,з,1,збіг
+L383,F002,Bad Script,google_fonts,з,1,збіг
+L384,F058,koala,doc_gen,г,0,збіг
+L385,F021,AllegrettoScriptTwoC - Allegretto Script TwoC - Regular,ukrainian-handwriting-synth,п,1,збіг
+L386,F057,gtw,doc_gen,г,2,збіг
+L387,F030,Djiovanni,ukrainian-handwriting-synth,п,1,консенсус
+L388,F013,Pangolin,google_fonts,б,2,збіг
+L389,F031,EnglishScript - English Script - Regular,ukrainian-handwriting-synth,т,1,збіг
+L390,F057,gtw,doc_gen,д,2,збіг
+L391,F005,Comforter Brush,google_fonts,и,1,збіг
+L392,F001,Amatic SC,google_fonts,п,2,збіг
+L393,F049,StudioScriptC,ukrainian-handwriting-synth,п,1,збіг
+L394,F031,EnglishScript - English Script - Regular,ukrainian-handwriting-synth,д,2,збіг
+L395,F057,gtw,doc_gen,в,2,збіг
+L396,F028,Capuletty,ukrainian-handwriting-synth,з,1,консенсус
+L397,F017,Kobzar KS,kobzar,т,1,збіг
+L398,F020,AllegrettoScriptOneC - Allegretto Script OneC - Regular,ukrainian-handwriting-synth,в,1,збіг
+L399,F023,AnastasiaScript - AnastasiaScript - Regular,ukrainian-handwriting-synth,в,1,збіг
+L400,F007,Hachi Maru Pop,google_fonts,г,2,збіг
+L401,F038,LudvigvanBethoveen - Ludvig van Bethoveen - Regular,ukrainian-handwriting-synth,д,1,збіг
+L402,F050,Tibalt,ukrainian-handwriting-synth,д,1,збіг
+L403,F040,Montekky,ukrainian-handwriting-synth,д,1,збіг
+L404,F046,Pinata-Celestina,ukrainian-handwriting-synth,т,1,консенсус
+L405,F041,NinaC,ukrainian-handwriting-synth,и,1,збіг
+L406,F023,AnastasiaScript - AnastasiaScript - Regular,ukrainian-handwriting-synth,з,1,збіг
+L407,F052,WolfgangAmadeusMozart - Wolfgang Amadeus Mozart - Regular,ukrainian-handwriting-synth,д,1,збіг
+L408,F020,AllegrettoScriptOneC - Allegretto Script OneC - Regular,ukrainian-handwriting-synth,ш,1,збіг
+L409,F031,EnglishScript - English Script - Regular,ukrainian-handwriting-synth,и,1,збіг
+L410,F019,AdventureC - AdventureC - Regular,ukrainian-handwriting-synth,и,1,збіг
+L411,F031,EnglishScript - English Script - Regular,ukrainian-handwriting-synth,г,1,збіг
+L412,F034,Gogol,ukrainian-handwriting-synth,в,1,збіг
+L413,F005,Comforter Brush,google_fonts,в,1,збіг
+L414,F049,StudioScriptC,ukrainian-handwriting-synth,ш,1,збіг
+L415,F044,Pag,ukrainian-handwriting-synth,б,1,консенсус
+L416,F040,Montekky,ukrainian-handwriting-synth,т,1,збіг
+L417,F027,Blink-Script,ukrainian-handwriting-synth,г,2,консенсус
+L418,F013,Pangolin,google_fonts,в,2,збіг
+L419,F039,Merkucio,ukrainian-handwriting-synth,и,1,збіг
+L420,F033,Gogol - Gogol - Regular,ukrainian-handwriting-synth,б,1,збіг
+L421,F055,Melon_Font_-_Free_Trial,doc_gen,д,0,збіг
+L422,F054,LITERPLA,doc_gen,п,2,збіг
+L423,F033,Gogol - Gogol - Regular,ukrainian-handwriting-synth,з,1,збіг
+L424,F017,Kobzar KS,kobzar,з,1,консенсус
+L425,F050,Tibalt,ukrainian-handwriting-synth,в,1,збіг
+L426,F008,Klee One,google_fonts,и,2,збіг
+L427,F041,NinaC,ukrainian-handwriting-synth,в,1,консенсус
+L428,F031,EnglishScript - English Script - Regular,ukrainian-handwriting-synth,з,2,збіг
+L429,F046,Pinata-Celestina,ukrainian-handwriting-synth,г,1,збіг
+L430,F008,Klee One,google_fonts,ш,2,збіг
+L431,F027,Blink-Script,ukrainian-handwriting-synth,з,2,збіг
+L432,F002,Bad Script,google_fonts,п,1,збіг
+L433,F013,Pangolin,google_fonts,г,2,збіг
+L434,F004,Comforter,google_fonts,ш,1,збіг
+L435,F036,Lemon-Tuesday,ukrainian-handwriting-synth,д,1,збіг
+L436,F030,Djiovanni,ukrainian-handwriting-synth,б,1,консенсус
+L437,F037,Lorenco,ukrainian-handwriting-synth,т,1,збіг
+L438,F030,Djiovanni,ukrainian-handwriting-synth,з,1,збіг
+L439,F004,Comforter,google_fonts,п,1,консенсус
+L440,F048,ShellyAllegroC - ShellyAllegroC - Regular,ukrainian-handwriting-synth,п,1,збіг
+L441,F035,Gregory,ukrainian-handwriting-synth,в,1,збіг
+L442,F012,Pacifico,google_fonts,д,1,збіг
+L443,F046,Pinata-Celestina,ukrainian-handwriting-synth,и,1,збіг
+L444,F018,Abram,ukrainian-handwriting-synth,т,1,збіг
+L445,F020,AllegrettoScriptOneC - Allegretto Script OneC - Regular,ukrainian-handwriting-synth,д,1,збіг
+L446,F055,Melon_Font_-_Free_Trial,doc_gen,в,0,збіг
+L447,F030,Djiovanni,ukrainian-handwriting-synth,и,1,збіг
+L448,F059,luckytw,doc_gen,ш,0,збіг
+L449,F014,Playpen Sans,google_fonts,в,1,консенсус
+L450,F003,Caveat,google_fonts,д,2,збіг
+L451,F009,LXGW WenKai TC,google_fonts,д,2,збіг
+L452,F035,Gregory,ukrainian-handwriting-synth,п,1,збіг
+L453,F017,Kobzar KS,kobzar,п,1,збіг
+L454,F036,Lemon-Tuesday,ukrainian-handwriting-synth,б,1,збіг
+L455,F025,Anselmo,ukrainian-handwriting-synth,б,1,консенсус
+L456,F021,AllegrettoScriptTwoC - Allegretto Script TwoC - Regular,ukrainian-handwriting-synth,д,1,збіг
+L457,F045,Paris,ukrainian-handwriting-synth,ш,1,збіг
+L458,F058,koala,doc_gen,в,0,збіг
+L459,F053,Finding_Beauty,doc_gen,б,0,збіг
+L460,F037,Lorenco,ukrainian-handwriting-synth,д,1,збіг
+L461,F052,WolfgangAmadeusMozart - Wolfgang Amadeus Mozart - Regular,ukrainian-handwriting-synth,в,1,збіг
+L462,F037,Lorenco,ukrainian-handwriting-synth,б,1,збіг
+L463,F041,NinaC,ukrainian-handwriting-synth,з,1,збіг
+L464,F041,NinaC,ukrainian-handwriting-synth,д,1,збіг
+L465,F034,Gogol,ukrainian-handwriting-synth,з,1,збіг
+L466,F033,Gogol - Gogol - Regular,ukrainian-handwriting-synth,и,1,збіг
+L467,F057,gtw,doc_gen,б,2,збіг
+L468,F006,Great Vibes,google_fonts,ш,1,збіг
+L469,F053,Finding_Beauty,doc_gen,п,0,збіг
+L470,F041,NinaC,ukrainian-handwriting-synth,п,1,збіг
+L471,F021,AllegrettoScriptTwoC - Allegretto Script TwoC - Regular,ukrainian-handwriting-synth,в,1,збіг
+L472,F034,Gogol,ukrainian-handwriting-synth,и,1,збіг
+L473,F019,AdventureC - AdventureC - Regular,ukrainian-handwriting-synth,п,1,збіг
+L474,F023,AnastasiaScript - AnastasiaScript - Regular,ukrainian-handwriting-synth,д,1,збіг
+L475,F043,PFScandalPro-Reg,ukrainian-handwriting-synth,б,1,збіг
+L476,F030,Djiovanni,ukrainian-handwriting-synth,в,1,збіг
+L477,F009,LXGW WenKai TC,google_fonts,ш,2,збіг
+L478,F018,Abram,ukrainian-handwriting-synth,и,1,збіг
+L479,F005,Comforter Brush,google_fonts,б,1,збіг
+L480,F016,Shantell Sans,google_fonts_classification,п,2,збіг
+L481,F011,Neucha,google_fonts,б,2,збіг
+L482,F036,Lemon-Tuesday,ukrainian-handwriting-synth,г,1,збіг
+L483,F031,EnglishScript - English Script - Regular,ukrainian-handwriting-synth,в,1,збіг
+L484,F037,Lorenco,ukrainian-handwriting-synth,в,1,збіг
+L485,F033,Gogol - Gogol - Regular,ukrainian-handwriting-synth,т,1,збіг
+L486,F059,luckytw,doc_gen,з,0,збіг
+L487,F055,Melon_Font_-_Free_Trial,doc_gen,п,0,збіг
+L488,F016,Shantell Sans,google_fonts_classification,д,2,збіг
+L489,F054,LITERPLA,doc_gen,б,2,збіг
+L490,F053,Finding_Beauty,doc_gen,и,0,збіг
+L491,F013,Pangolin,google_fonts,д,2,збіг
+L492,F038,LudvigvanBethoveen - Ludvig van Bethoveen - Regular,ukrainian-handwriting-synth,п,1,збіг
+L493,F007,Hachi Maru Pop,google_fonts,б,2,збіг
+L494,F046,Pinata-Celestina,ukrainian-handwriting-synth,б,1,консенсус
+L495,F048,ShellyAllegroC - ShellyAllegroC - Regular,ukrainian-handwriting-synth,г,1,збіг
+L496,F001,Amatic SC,google_fonts,г,2,консенсус
+L497,F005,Comforter Brush,google_fonts,з,1,збіг
+L498,F019,AdventureC - AdventureC - Regular,ukrainian-handwriting-synth,д,2,збіг
+L499,F055,Melon_Font_-_Free_Trial,doc_gen,и,0,збіг
+L500,F051,UkrainianChance - UkrainianChance - Regular,ukrainian-handwriting-synth,г,1,консенсус
+L501,F021,AllegrettoScriptTwoC - Allegretto Script TwoC - Regular,ukrainian-handwriting-synth,з,2,збіг
+L502,F059,luckytw,doc_gen,б,0,збіг
+L503,F008,Klee One,google_fonts,п,2,збіг
+L504,F024,AnastasiaScriptC - AnastasiaScriptC - Regular,ukrainian-handwriting-synth,д,1,збіг
+L505,F019,AdventureC - AdventureC - Regular,ukrainian-handwriting-synth,г,1,збіг
+L506,F045,Paris,ukrainian-handwriting-synth,п,1,збіг
+L507,F028,Capuletty,ukrainian-handwriting-synth,г,1,збіг
+L508,F012,Pacifico,google_fonts,п,1,збіг
+L509,F010,Marck Script,google_fonts,в,1,збіг
+L510,F047,Samson,ukrainian-handwriting-synth,и,1,збіг
+L511,F022,AllegroScript - AllegroScript - Italic,ukrainian-handwriting-synth,в,1,збіг
+L512,F030,Djiovanni,ukrainian-handwriting-synth,т,1,збіг
+L513,F024,AnastasiaScriptC - AnastasiaScriptC - Regular,ukrainian-handwriting-synth,г,1,збіг
+L514,F057,gtw,doc_gen,и,2,збіг
+L515,F027,Blink-Script,ukrainian-handwriting-synth,ш,1,збіг
+L516,F050,Tibalt,ukrainian-handwriting-synth,и,1,збіг
+L517,F009,LXGW WenKai TC,google_fonts,з,2,збіг
+L518,F005,Comforter Brush,google_fonts,г,1,збіг
+L519,F048,ShellyAllegroC - ShellyAllegroC - Regular,ukrainian-handwriting-synth,в,1,збіг
+L520,F048,ShellyAllegroC - ShellyAllegroC - Regular,ukrainian-handwriting-synth,з,1,збіг
+L521,F057,gtw,doc_gen,т,2,збіг
+L522,F004,Comforter,google_fonts,д,1,збіг
+L523,F003,Caveat,google_fonts,з,1,збіг
+L524,F026,Benvolio,ukrainian-handwriting-synth,в,1,збіг
+L525,F012,Pacifico,google_fonts,ш,1,збіг
+L526,F047,Samson,ukrainian-handwriting-synth,ш,1,збіг
+L527,F022,AllegroScript - AllegroScript - Italic,ukrainian-handwriting-synth,п,1,збіг
+L528,F022,AllegroScript - AllegroScript - Italic,ukrainian-handwriting-synth,б,2,збіг
+L529,F015,Yomogi,google_fonts,б,2,збіг
+L530,F006,Great Vibes,google_fonts,б,1,збіг
+L531,F018,Abram,ukrainian-handwriting-synth,п,1,збіг

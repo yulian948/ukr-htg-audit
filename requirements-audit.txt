@@ -1,0 +1,26 @@
+# Середовище аудиту (локально на CPU і в Colab). torch/torchvision у Colab вже є.
+torch
+torchvision
+transformers
+diffusers
+accelerate
+huggingface_hub
+sentencepiece
+timm
+einops
+omegaconf
+numpy
+pillow
+opencv-python-headless
+scikit-image
+scipy
+pandas
+h5py
+matplotlib
+tqdm
+lmdb
+msgpack
+wandb
+gdown
+fonttools
+uharfbuzz

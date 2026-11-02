@@ -1,0 +1,1584 @@
+{
+ "encoder": "data_loader/loader.py:25 letters: 81 символів (IAM)",
+ "paths": {
+  "test.py → ContentData.get_content": {
+   "level1": {
+    "C001": {
+     "status": "error",
+     "error": "KeyError: 'а'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C002": {
+     "status": "error",
+     "error": "KeyError: 'А'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C003": {
+     "status": "error",
+     "error": "KeyError: 'б'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C004": {
+     "status": "error",
+     "error": "KeyError: 'Б'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C005": {
+     "status": "error",
+     "error": "KeyError: 'в'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C006": {
+     "status": "error",
+     "error": "KeyError: 'В'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C007": {
+     "status": "error",
+     "error": "KeyError: 'г'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C008": {
+     "status": "error",
+     "error": "KeyError: 'Г'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C009": {
+     "status": "error",
+     "error": "KeyError: 'ґ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C010": {
+     "status": "error",
+     "error": "KeyError: 'Ґ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C011": {
+     "status": "error",
+     "error": "KeyError: 'д'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C012": {
+     "status": "error",
+     "error": "KeyError: 'Д'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C013": {
+     "status": "error",
+     "error": "KeyError: 'е'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C014": {
+     "status": "error",
+     "error": "KeyError: 'Е'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C015": {
+     "status": "error",
+     "error": "KeyError: 'є'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C016": {
+     "status": "error",
+     "error": "KeyError: 'Є'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C017": {
+     "status": "error",
+     "error": "KeyError: 'ж'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C018": {
+     "status": "error",
+     "error": "KeyError: 'Ж'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C019": {
+     "status": "error",
+     "error": "KeyError: 'з'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C020": {
+     "status": "error",
+     "error": "KeyError: 'З'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C021": {
+     "status": "error",
+     "error": "KeyError: 'и'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C022": {
+     "status": "error",
+     "error": "KeyError: 'И'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C023": {
+     "status": "error",
+     "error": "KeyError: 'і'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C024": {
+     "status": "error",
+     "error": "KeyError: 'І'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C025": {
+     "status": "error",
+     "error": "KeyError: 'ї'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C026": {
+     "status": "error",
+     "error": "KeyError: 'Ї'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C027": {
+     "status": "error",
+     "error": "KeyError: 'й'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C028": {
+     "status": "error",
+     "error": "KeyError: 'Й'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C029": {
+     "status": "error",
+     "error": "KeyError: 'к'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C030": {
+     "status": "error",
+     "error": "KeyError: 'К'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C031": {
+     "status": "error",
+     "error": "KeyError: 'л'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C032": {
+     "status": "error",
+     "error": "KeyError: 'Л'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C033": {
+     "status": "error",
+     "error": "KeyError: 'м'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C034": {
+     "status": "error",
+     "error": "KeyError: 'М'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C035": {
+     "status": "error",
+     "error": "KeyError: 'н'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C036": {
+     "status": "error",
+     "error": "KeyError: 'Н'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C037": {
+     "status": "error",
+     "error": "KeyError: 'о'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C038": {
+     "status": "error",
+     "error": "KeyError: 'О'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C039": {
+     "status": "error",
+     "error": "KeyError: 'п'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C040": {
+     "status": "error",
+     "error": "KeyError: 'П'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C041": {
+     "status": "error",
+     "error": "KeyError: 'р'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C042": {
+     "status": "error",
+     "error": "KeyError: 'Р'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C043": {
+     "status": "error",
+     "error": "KeyError: 'с'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C044": {
+     "status": "error",
+     "error": "KeyError: 'С'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C045": {
+     "status": "error",
+     "error": "KeyError: 'т'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C046": {
+     "status": "error",
+     "error": "KeyError: 'Т'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C047": {
+     "status": "error",
+     "error": "KeyError: 'у'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C048": {
+     "status": "error",
+     "error": "KeyError: 'У'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C049": {
+     "status": "error",
+     "error": "KeyError: 'ф'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C050": {
+     "status": "error",
+     "error": "KeyError: 'Ф'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C051": {
+     "status": "error",
+     "error": "KeyError: 'х'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C052": {
+     "status": "error",
+     "error": "KeyError: 'Х'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C053": {
+     "status": "error",
+     "error": "KeyError: 'ц'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C054": {
+     "status": "error",
+     "error": "KeyError: 'Ц'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C055": {
+     "status": "error",
+     "error": "KeyError: 'ч'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C056": {
+     "status": "error",
+     "error": "KeyError: 'Ч'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C057": {
+     "status": "error",
+     "error": "KeyError: 'ш'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C058": {
+     "status": "error",
+     "error": "KeyError: 'Ш'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C059": {
+     "status": "error",
+     "error": "KeyError: 'щ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C060": {
+     "status": "error",
+     "error": "KeyError: 'Щ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C061": {
+     "status": "error",
+     "error": "KeyError: 'ь'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C062": {
+     "status": "error",
+     "error": "KeyError: 'Ь'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C063": {
+     "status": "error",
+     "error": "KeyError: 'ю'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C064": {
+     "status": "error",
+     "error": "KeyError: 'Ю'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C065": {
+     "status": "error",
+     "error": "KeyError: 'я'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C066": {
+     "status": "error",
+     "error": "KeyError: 'Я'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C067": {
+     "status": "error",
+     "error": "KeyError: 'ʼ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C068": {
+     "status": "error",
+     "error": "KeyError: '’'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C069": {
+     "status": "ok",
+     "output": "'"
+    },
+    "C070": {
+     "status": "ok",
+     "output": "."
+    },
+    "C071": {
+     "status": "ok",
+     "output": "?"
+    },
+    "C072": {
+     "status": "ok",
+     "output": "!"
+    },
+    "C073": {
+     "status": "ok",
+     "output": ","
+    },
+    "C074": {
+     "status": "ok",
+     "output": ";"
+    },
+    "C075": {
+     "status": "ok",
+     "output": ":"
+    },
+    "C076": {
+     "status": "error",
+     "error": "KeyError: '—'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C077": {
+     "status": "error",
+     "error": "KeyError: '–'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C078": {
+     "status": "error",
+     "error": "KeyError: '…'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C079": {
+     "status": "ok",
+     "output": "("
+    },
+    "C080": {
+     "status": "ok",
+     "output": ")"
+    },
+    "C081": {
+     "status": "error",
+     "error": "KeyError: '['",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C082": {
+     "status": "error",
+     "error": "KeyError: ']'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C083": {
+     "status": "error",
+     "error": "KeyError: '<'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C084": {
+     "status": "error",
+     "error": "KeyError: '>'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C085": {
+     "status": "error",
+     "error": "KeyError: '«'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C086": {
+     "status": "error",
+     "error": "KeyError: '»'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C087": {
+     "status": "error",
+     "error": "KeyError: '„'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C088": {
+     "status": "error",
+     "error": "KeyError: '“'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C089": {
+     "status": "error",
+     "error": "KeyError: '”'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C090": {
+     "status": "ok",
+     "output": "\""
+    },
+    "C091": {
+     "status": "ok",
+     "output": "-"
+    },
+    "C092": {
+     "status": "error",
+     "error": "KeyError: '‐'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C093": {
+     "status": "ok",
+     "output": "/"
+    },
+    "C094": {
+     "status": "error",
+     "error": "KeyError: 'ы'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C095": {
+     "status": "error",
+     "error": "KeyError: 'Ы'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C096": {
+     "status": "error",
+     "error": "KeyError: 'ъ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C097": {
+     "status": "error",
+     "error": "KeyError: 'Ъ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C098": {
+     "status": "error",
+     "error": "KeyError: 'ѣ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C099": {
+     "status": "error",
+     "error": "KeyError: 'Ѣ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C100": {
+     "status": "error",
+     "error": "KeyError: 'ѳ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C101": {
+     "status": "error",
+     "error": "KeyError: 'Ѳ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C102": {
+     "status": "error",
+     "error": "KeyError: 'ѵ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C103": {
+     "status": "error",
+     "error": "KeyError: 'Ѵ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C104": {
+     "status": "error",
+     "error": "KeyError: 'ё'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C105": {
+     "status": "error",
+     "error": "KeyError: 'Ё'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C106": {
+     "status": "error",
+     "error": "KeyError: 'э'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C107": {
+     "status": "error",
+     "error": "KeyError: 'Э'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C108": {
+     "status": "ok",
+     "output": "j"
+    },
+    "C109": {
+     "status": "ok",
+     "output": "J"
+    },
+    "C110": {
+     "status": "error",
+     "error": "KeyError: 'ѯ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C111": {
+     "status": "error",
+     "error": "KeyError: 'Ѯ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C112": {
+     "status": "error",
+     "error": "KeyError: 'ѱ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C113": {
+     "status": "error",
+     "error": "KeyError: 'Ѱ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C114": {
+     "status": "error",
+     "error": "KeyError: 'ꙋ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C115": {
+     "status": "error",
+     "error": "KeyError: 'Ꙋ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C116": {
+     "status": "error",
+     "error": "KeyError: 'ѧ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C117": {
+     "status": "error",
+     "error": "KeyError: 'Ѧ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C118": {
+     "status": "error",
+     "error": "KeyError: 'о'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C119": {
+     "status": "error",
+     "error": "KeyError: 'О'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C120": {
+     "status": "error",
+     "error": "KeyError: 'е'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C121": {
+     "status": "error",
+     "error": "KeyError: 'Е'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C122": {
+     "status": "error",
+     "error": "KeyError: 'у'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C123": {
+     "status": "error",
+     "error": "KeyError: 'У'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C124": {
+     "status": "error",
+     "error": "KeyError: 'и'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C125": {
+     "status": "error",
+     "error": "KeyError: 'И'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C126": {
+     "status": "error",
+     "error": "KeyError: 'а'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C127": {
+     "status": "error",
+     "error": "KeyError: 'А'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C128": {
+     "status": "error",
+     "error": "KeyError: 'а'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C129": {
+     "status": "error",
+     "error": "KeyError: 'А'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "C130": {
+     "status": "ok",
+     "output": "g"
+    },
+    "C131": {
+     "status": "ok",
+     "output": "G"
+    }
+   },
+   "level2": {
+    "quick": {
+     "input": "ґєіїʼ ыъѣ",
+     "status": "error",
+     "error": "KeyError: 'ґ'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "pangram": {
+     "input": "Чуєш їх, доцю, га? Кумедна ж ти, прощайся без ґольфів!",
+     "status": "error",
+     "error": "KeyError: 'Ч'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "apostrophe_variants": {
+     "input": "пʼять мʼята п’ять м’ята п'ять м'ята",
+     "status": "error",
+     "error": "KeyError: 'п'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "punctuation_line": {
+     "input": "Він сказав: «Іди сюди — „зараз“ (не завтра)!» Що?! Ну… Ну... Добре, так; гаразд-гаразд [див. <…>] і/або “інше” „рукописне”.",
+     "status": "error",
+     "error": "KeyError: 'В'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    },
+    "historical_line": {
+     "input": "сынъ свѣтъ ѳеодоръ ѵпостась ёго эхо jак ѱалтирь ꙋкраїна ѧкъ мо̂й до́бре",
+     "status": "error",
+     "error": "KeyError: 'с'",
+     "where": {
+      "ref": "data_loader/loader.py:260",
+      "code": "word_arch = [self.letter2index[i] for i in label]"
+     }
+    }
+   }
+  }
+ },
+ "glyphs": {
+  "file": "English_data.zip: unifont.pickle",
+  "n_symbols": 55659,
+  "entries": {
+   "C001": {
+    "status": "ok",
+    "missing": []
+   },
+   "C002": {
+    "status": "ok",
+    "missing": []
+   },
+   "C003": {
+    "status": "ok",
+    "missing": []
+   },
+   "C004": {
+    "status": "ok",
+    "missing": []
+   },
+   "C005": {
+    "status": "ok",
+    "missing": []
+   },
+   "C006": {
+    "status": "ok",
+    "missing": []
+   },
+   "C007": {
+    "status": "ok",
+    "missing": []
+   },
+   "C008": {
+    "status": "ok",
+    "missing": []
+   },
+   "C009": {
+    "status": "ok",
+    "missing": []
+   },
+   "C010": {
+    "status": "ok",
+    "missing": []
+   },
+   "C011": {
+    "status": "ok",
+    "missing": []
+   },
+   "C012": {
+    "status": "ok",
+    "missing": []
+   },
+   "C013": {
+    "status": "ok",
+    "missing": []
+   },
+   "C014": {
+    "status": "ok",
+    "missing": []
+   },
+   "C015": {
+    "status": "ok",
+    "missing": []
+   },
+   "C016": {
+    "status": "ok",
+    "missing": []
+   },
+   "C017": {
+    "status": "ok",
+    "missing": []
+   },
+   "C018": {
+    "status": "ok",
+    "missing": []
+   },
+   "C019": {
+    "status": "ok",
+    "missing": []
+   },
+   "C020": {
+    "status": "ok",
+    "missing": []
+   },
+   "C021": {
+    "status": "ok",
+    "missing": []
+   },
+   "C022": {
+    "status": "ok",
+    "missing": []
+   },
+   "C023": {
+    "status": "ok",
+    "missing": []
+   },
+   "C024": {
+    "status": "ok",
+    "missing": []
+   },
+   "C025": {
+    "status": "ok",
+    "missing": []
+   },
+   "C026": {
+    "status": "ok",
+    "missing": []
+   },
+   "C027": {
+    "status": "ok",
+    "missing": []
+   },
+   "C028": {
+    "status": "ok",
+    "missing": []
+   },
+   "C029": {
+    "status": "ok",
+    "missing": []
+   },
+   "C030": {
+    "status": "ok",
+    "missing": []
+   },
+   "C031": {
+    "status": "ok",
+    "missing": []
+   },
+   "C032": {
+    "status": "ok",
+    "missing": []
+   },
+   "C033": {
+    "status": "ok",
+    "missing": []
+   },
+   "C034": {
+    "status": "ok",
+    "missing": []
+   },
+   "C035": {
+    "status": "ok",
+    "missing": []
+   },
+   "C036": {
+    "status": "ok",
+    "missing": []
+   },
+   "C037": {
+    "status": "ok",
+    "missing": []
+   },
+   "C038": {
+    "status": "ok",
+    "missing": []
+   },
+   "C039": {
+    "status": "ok",
+    "missing": []
+   },
+   "C040": {
+    "status": "ok",
+    "missing": []
+   },
+   "C041": {
+    "status": "ok",
+    "missing": []
+   },
+   "C042": {
+    "status": "ok",
+    "missing": []
+   },
+   "C043": {
+    "status": "ok",
+    "missing": []
+   },
+   "C044": {
+    "status": "ok",
+    "missing": []
+   },
+   "C045": {
+    "status": "ok",
+    "missing": []
+   },
+   "C046": {
+    "status": "ok",
+    "missing": []
+   },
+   "C047": {
+    "status": "ok",
+    "missing": []
+   },
+   "C048": {
+    "status": "ok",
+    "missing": []
+   },
+   "C049": {
+    "status": "ok",
+    "missing": []
+   },
+   "C050": {
+    "status": "ok",
+    "missing": []
+   },
+   "C051": {
+    "status": "ok",
+    "missing": []
+   },
+   "C052": {
+    "status": "ok",
+    "missing": []
+   },
+   "C053": {
+    "status": "ok",
+    "missing": []
+   },
+   "C054": {
+    "status": "ok",
+    "missing": []
+   },
+   "C055": {
+    "status": "ok",
+    "missing": []
+   },
+   "C056": {
+    "status": "ok",
+    "missing": []
+   },
+   "C057": {
+    "status": "ok",
+    "missing": []
+   },
+   "C058": {
+    "status": "ok",
+    "missing": []
+   },
+   "C059": {
+    "status": "ok",
+    "missing": []
+   },
+   "C060": {
+    "status": "ok",
+    "missing": []
+   },
+   "C061": {
+    "status": "ok",
+    "missing": []
+   },
+   "C062": {
+    "status": "ok",
+    "missing": []
+   },
+   "C063": {
+    "status": "ok",
+    "missing": []
+   },
+   "C064": {
+    "status": "ok",
+    "missing": []
+   },
+   "C065": {
+    "status": "ok",
+    "missing": []
+   },
+   "C066": {
+    "status": "ok",
+    "missing": []
+   },
+   "C067": {
+    "status": "ok",
+    "missing": []
+   },
+   "C068": {
+    "status": "ok",
+    "missing": []
+   },
+   "C069": {
+    "status": "ok",
+    "missing": []
+   },
+   "C070": {
+    "status": "ok",
+    "missing": []
+   },
+   "C071": {
+    "status": "ok",
+    "missing": []
+   },
+   "C072": {
+    "status": "ok",
+    "missing": []
+   },
+   "C073": {
+    "status": "ok",
+    "missing": []
+   },
+   "C074": {
+    "status": "ok",
+    "missing": []
+   },
+   "C075": {
+    "status": "ok",
+    "missing": []
+   },
+   "C076": {
+    "status": "ok",
+    "missing": []
+   },
+   "C077": {
+    "status": "ok",
+    "missing": []
+   },
+   "C078": {
+    "status": "ok",
+    "missing": []
+   },
+   "C079": {
+    "status": "ok",
+    "missing": []
+   },
+   "C080": {
+    "status": "ok",
+    "missing": []
+   },
+   "C081": {
+    "status": "ok",
+    "missing": []
+   },
+   "C082": {
+    "status": "ok",
+    "missing": []
+   },
+   "C083": {
+    "status": "ok",
+    "missing": []
+   },
+   "C084": {
+    "status": "ok",
+    "missing": []
+   },
+   "C085": {
+    "status": "ok",
+    "missing": []
+   },
+   "C086": {
+    "status": "ok",
+    "missing": []
+   },
+   "C087": {
+    "status": "ok",
+    "missing": []
+   },
+   "C088": {
+    "status": "ok",
+    "missing": []
+   },
+   "C089": {
+    "status": "ok",
+    "missing": []
+   },
+   "C090": {
+    "status": "ok",
+    "missing": []
+   },
+   "C091": {
+    "status": "ok",
+    "missing": []
+   },
+   "C092": {
+    "status": "ok",
+    "missing": []
+   },
+   "C093": {
+    "status": "ok",
+    "missing": []
+   },
+   "C094": {
+    "status": "ok",
+    "missing": []
+   },
+   "C095": {
+    "status": "ok",
+    "missing": []
+   },
+   "C096": {
+    "status": "ok",
+    "missing": []
+   },
+   "C097": {
+    "status": "ok",
+    "missing": []
+   },
+   "C098": {
+    "status": "ok",
+    "missing": []
+   },
+   "C099": {
+    "status": "ok",
+    "missing": []
+   },
+   "C100": {
+    "status": "ok",
+    "missing": []
+   },
+   "C101": {
+    "status": "ok",
+    "missing": []
+   },
+   "C102": {
+    "status": "ok",
+    "missing": []
+   },
+   "C103": {
+    "status": "ok",
+    "missing": []
+   },
+   "C104": {
+    "status": "ok",
+    "missing": []
+   },
+   "C105": {
+    "status": "ok",
+    "missing": []
+   },
+   "C106": {
+    "status": "ok",
+    "missing": []
+   },
+   "C107": {
+    "status": "ok",
+    "missing": []
+   },
+   "C108": {
+    "status": "ok",
+    "missing": []
+   },
+   "C109": {
+    "status": "ok",
+    "missing": []
+   },
+   "C110": {
+    "status": "ok",
+    "missing": []
+   },
+   "C111": {
+    "status": "ok",
+    "missing": []
+   },
+   "C112": {
+    "status": "ok",
+    "missing": []
+   },
+   "C113": {
+    "status": "ok",
+    "missing": []
+   },
+   "C114": {
+    "status": "ok",
+    "missing": []
+   },
+   "C115": {
+    "status": "ok",
+    "missing": []
+   },
+   "C116": {
+    "status": "ok",
+    "missing": []
+   },
+   "C117": {
+    "status": "ok",
+    "missing": []
+   },
+   "C118": {
+    "status": "ok",
+    "missing": []
+   },
+   "C119": {
+    "status": "ok",
+    "missing": []
+   },
+   "C120": {
+    "status": "ok",
+    "missing": []
+   },
+   "C121": {
+    "status": "ok",
+    "missing": []
+   },
+   "C122": {
+    "status": "ok",
+    "missing": []
+   },
+   "C123": {
+    "status": "ok",
+    "missing": []
+   },
+   "C124": {
+    "status": "ok",
+    "missing": []
+   },
+   "C125": {
+    "status": "ok",
+    "missing": []
+   },
+   "C126": {
+    "status": "ok",
+    "missing": []
+   },
+   "C127": {
+    "status": "ok",
+    "missing": []
+   },
+   "C128": {
+    "status": "ok",
+    "missing": []
+   },
+   "C129": {
+    "status": "ok",
+    "missing": []
+   },
+   "C130": {
+    "status": "ok",
+    "missing": []
+   },
+   "C131": {
+    "status": "ok",
+    "missing": []
+   }
+  },
+  "note": "Файл байт у байт збігається з files/unifont.pickle VATr"
+ },
+ "status": "ok",
+ "method": "One-DM",
+ "inventory_version": "0.3.0",
+ "environment": {
+  "python": "3.12.8",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "torch": "2.14.1",
+  "transformers": "5.20.2",
+  "numpy": "2.5.4"
+ },
+ "checked_at": "2026-10-23T15:38:26+00:00",
+ "source": "github dailenson/One-DM",
+ "revision": "dde2205a70a2c70d1786503d198a795358c80ee4"
+}

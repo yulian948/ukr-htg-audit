@@ -1,0 +1,249 @@
+{
+  "about": "Що фіксуємо для аудиту статті 1. Правило: найновіший коміт на дату аудиту (23.10.2026), заморожений повним SHA; короткі коміти з пропозиції розв'язано через GitHub API. Скрипт scripts/pin_versions.py перевіряє їх і записує versions/pinned.json.",
+  "git": [
+    {
+      "name": "GANwriting",
+      "repo": "omni-us/research-GANwriting",
+      "role": "method",
+      "commit": "9e0d8a3a8327f00c67029dbf4a2fc1b0a88f730d",
+      "commit_in_proposal": "9e0d8a3"
+    },
+    {
+      "name": "HiGAN+",
+      "repo": "ganji15/HiGANplus",
+      "role": "method",
+      "commit": "5d37de733f79e2a72a79c0f66e1865329ff56b4e",
+      "commit_in_proposal": "5d37de7"
+    },
+    {
+      "name": "HWT",
+      "repo": "ankanbhunia/Handwriting-Transformers",
+      "role": "method",
+      "commit": "fbc66bf33da446fbb32ca19aaa403b6f1d28dbe7",
+      "commit_in_proposal": "fbc66bf"
+    },
+    {
+      "name": "VATr",
+      "repo": "aimagelab/VATr",
+      "role": "method",
+      "commit": "183501e02113a3b4b636f2a2c5443771501c8f2b",
+      "commit_in_proposal": "183501e"
+    },
+    {
+      "name": "VATr++",
+      "repo": "EDM-Research/VATr-pp",
+      "role": "method",
+      "commit": "a32d6fd39d74fecbc3c99dcbcfc397c17fc9fc32",
+      "commit_in_proposal": "a32d6fd"
+    },
+    {
+      "name": "WordStylist",
+      "repo": "koninik/WordStylist",
+      "role": "method",
+      "commit": "03bb684e0eb26c42bcfc2ed719e73d60db888226",
+      "commit_in_proposal": "03bb684"
+    },
+    {
+      "name": "One-DM",
+      "repo": "dailenson/One-DM",
+      "role": "method",
+      "commit": "dde2205a70a2c70d1786503d198a795358c80ee4",
+      "commit_in_proposal": "dde2205"
+    },
+    {
+      "name": "DiffusionPen",
+      "repo": "koninik/DiffusionPen",
+      "role": "method",
+      "commit": "059e2f2bcb7372231038719e955597917c1a8783",
+      "commit_in_proposal": "059e2f2"
+    },
+    {
+      "name": "Eruku",
+      "repo": "Blowing-Up-Groundhogs/Eruku",
+      "role": "method",
+      "note": "Найновіша версія на 23.10.2026: ліцензія MIT, виправлення style context (09.09.2026)",
+      "commit": "3bcddbd1dc65ff9c8ccea96830982b61b2986d3d"
+    },
+    {
+      "name": "Eruku (aimagelab, версія пропозиції)",
+      "repo": "aimagelab/Eruku",
+      "role": "related",
+      "note": "Версія, переглянута в пропозиції (ced978a); без файлу ліцензії. Для порівняння підготовки тексту",
+      "commit": "ced978aae0f4277eacb89dc95f9442922ee345c8",
+      "commit_in_proposal": "ced978a"
+    },
+    {
+      "name": "Emuru",
+      "repo": "aimagelab/Emuru-autoregressive-text-img",
+      "role": "method",
+      "note": "У пропозиції коміт не вказано; зафіксовано HEAD на 23.10.2026",
+      "commit": "d8db91a606297ae0b173ec90de03e31fd927ba91"
+    },
+    {
+      "name": "google/fonts",
+      "repo": "google/fonts",
+      "role": "fonts",
+      "commit": "e7db6ca603fd4862010383ff17ffd6cc4ffac1c0",
+      "commit_in_proposal": "47d54ca1",
+      "note": "Найновіший коміт на 23.10.2026; у пропозиції — 47d54ca1 (16.10.2026), підрахунок 355/15 перераховуємо на кроці 5"
+    },
+    {
+      "name": "ukrainian-handwriting-synth",
+      "repo": "ValeriiSielikhov/ukrainian-handwriting-synth",
+      "role": "synthesis_tool",
+      "commit": "ce2022f3fbd6b666f4efaa2e16858628a1866318",
+      "note": "Інструмент синтетики для української: 35 рукописних шрифтів у fonts/; рендеринг рядка через Pillow (src/ukr_synth/renderer.py)"
+    },
+    {
+      "name": "doc_gen",
+      "repo": "mhlzcu/doc_gen",
+      "role": "synthesis_tool",
+      "commit": "40062f0189a618ee12a50cfb442669b841800165",
+      "note": "Gruber et al. 2023, синтетика кириличного рукопису; 7 шрифтів у корені; рендеринг по одному символу (document_generator.py:361)"
+    }
+  ],
+  "huggingface": [
+    {
+      "id": "konnik/DiffusionPen",
+      "kind": "model",
+      "used_by": [
+        "DiffusionPen"
+      ],
+      "role": "weights"
+    },
+    {
+      "id": "kdonitz/diffusionpen-ukrainian",
+      "kind": "model",
+      "used_by": [
+        "Українська DiffusionPen"
+      ],
+      "role": "weights"
+    },
+    {
+      "id": "kdonitz/diffusionpen-ukrainian",
+      "kind": "space",
+      "used_by": [
+        "Українська DiffusionPen"
+      ],
+      "role": "inference code (app.py, generate_sentence.py)"
+    },
+    {
+      "id": "google/canine-c",
+      "kind": "model",
+      "used_by": [
+        "DiffusionPen",
+        "Українська DiffusionPen"
+      ],
+      "role": "text encoder / tokenizer"
+    },
+    {
+      "id": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+      "kind": "model",
+      "used_by": [
+        "DiffusionPen",
+        "WordStylist",
+        "One-DM"
+      ],
+      "role": "VAE, scheduler"
+    },
+    {
+      "id": "runwayml/stable-diffusion-v1-5",
+      "kind": "model",
+      "used_by": [
+        "One-DM"
+      ],
+      "role": "VAE (шлях у коді One-DM)"
+    },
+    {
+      "id": "blowing-up-groundhogs/emuru",
+      "kind": "model",
+      "used_by": [
+        "Emuru"
+      ],
+      "role": "weights"
+    },
+    {
+      "id": "blowing-up-groundhogs/emuru_vae",
+      "kind": "model",
+      "used_by": [
+        "Emuru",
+        "Eruku"
+      ],
+      "role": "VAE"
+    },
+    {
+      "id": "Blowing-Up-Groundhogs/Eruku",
+      "kind": "model",
+      "used_by": [
+        "Eruku"
+      ],
+      "role": "weights"
+    },
+    {
+      "id": "google/byt5-small",
+      "kind": "model",
+      "used_by": [
+        "Emuru",
+        "Eruku"
+      ],
+      "role": "tokenizer"
+    },
+    {
+      "id": "blowing-up-groundhogs/vatrpp",
+      "kind": "model",
+      "used_by": [
+        "VATr++"
+      ],
+      "role": "weights (посилання з README VATr)"
+    }
+  ],
+  "weights_outside_hf": [
+    {
+      "method": "HiGAN+",
+      "url": "https://github.com/ganji15/HiGANplus/tree/5d37de733f79e2a72a79c0f66e1865329ff56b4e/HiGAN%2B/pretrained",
+      "note": "Ваги в самому репозиторії (HiGAN+/pretrained/deploy_HiGAN+.pth) — зафіксовано комітом; у релізах лише дані IAM"
+    },
+    {
+      "method": "HWT",
+      "url": "https://drive.google.com/file/d/16g9zgysQnWk7-353_tMig92KsZsrcM6k/view",
+      "note": "Google Drive: ревізії немає, фіксуємо SHA-256 файлу"
+    },
+    {
+      "method": "VATr",
+      "url": "https://drive.google.com/drive/folders/1FGJe2uCuK8T9HrFzY_Zc-KMIo0oPJGGY",
+      "note": "Google Drive: фіксуємо SHA-256 файлів"
+    },
+    {
+      "method": "VATr++",
+      "url": "https://drive.google.com/drive/folders/13rJhjl7VsyiXlPTBvnp1EKkKEhckLalr",
+      "note": "Google Drive: фіксуємо SHA-256 файлів"
+    },
+    {
+      "method": "WordStylist",
+      "url": "https://drive.google.com/drive/folders/15jdDCoYuWAohKW_OEjD2LXWce0pxM7ux",
+      "note": "Google Drive: фіксуємо SHA-256 файлів"
+    },
+    {
+      "method": "One-DM",
+      "url": "https://drive.google.com/drive/folders/108TB-z2ytAZSIEzND94dyufybjpqVyn6",
+      "note": "Google Drive: фіксуємо SHA-256 файлів"
+    },
+    {
+      "method": "GANwriting",
+      "url": null,
+      "note": "Ваги не опубліковано: README пропонує навчити модель самостійно"
+    }
+  ],
+  "external": [
+    {
+      "name": "Kobzar KS",
+      "version": "1.020",
+      "url": "https://web.archive.org/web/20150123034457id_/http://kobzar.kyivstar.ua/main/assets/files/kobzarKS.zip",
+      "sha256_zip": "b9c1ccb1c99a1812156914cd5722ab7515909f4acd3604c03a6bd687d584117e",
+      "file": "KobzarKS_v1-020.otf",
+      "sha256_file": "ff64b568b5ecd601be27b5012a1f0181bf386245e33358d8efef60144d7c8a7f",
+      "license_url": "https://web.archive.org/web/20140922091814id_/http://kobzar.kyivstar.ua:80/main/assets/files/kobzarks_license-uk.pdf",
+      "note": "Офіційний сайт kobzar.kyivstar.ua недоступний; архів — знімок Wayback Machine 23.01.2015. Ліцензія ПрАТ «Київстар»: безоплатна, невиключна; заборонено модифікацію і розбір (1.3.2, 3.1), вбудовування в ПЗ (1.3.1), використання ШІ у зв'язку з користуванням шрифтом (3.2). Файл шрифту в репозиторій аудиту не включаємо"
+    }
+  ]
+}

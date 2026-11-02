@@ -1,0 +1,31 @@
+# Середовище й кеші (за замовчуванням лежать у ~/.cache/ukr-htg-audit, див. scripts/level12/common.py)
+work/
+.venv/
+__pycache__/
+.DS_Store
+
+# Текст статті до публікації, її збірка й рисунки
+article/
+
+# Не поширюємо: зображення гліфів шрифтів без ліцензії на поширення (Kobzar KS, шрифти
+# ukrainian-handwriting-synth і doc_gen), сторінки прописів (авторське право), зразки почерку
+# UkrHandwritten і бланки з вбудованими зображеннями. Скрипти створюють їх локально.
+results/fonts/sheets/
+results/fonts/key_letters.png
+results/fonts/kobzar_opentype.png
+coding_kit/step6/images/
+coding_kit/step6/*.png
+coding_kit/step6/*.xlsx
+coding_kit/step6_consensus/*.xlsx
+coding_kit/returned/
+level3/styles/**/*.png
+
+# Службові журнали Colab
+results/level3/drive/*.log
+
+# Чернетки блокнотів (актуальна версія — notebooks/ukr_htg_audit_colab.ipynb)
+notebooks/Стаття1_*.ipynb
+
+# Побічний вивід DiffusionPen (train.py:55 пише ці файли в поточну теку)
+letter2index.json
+index2letter.json

@@ -1,0 +1,719 @@
+{
+ "encoder": "ByT5 (google/byt5-small): байти UTF-8",
+ "paths": {
+  "models/emuru.py generate → tokenizer(style_text + ' ' + gen_text)": {
+   "level1": {
+    "C001": {
+     "status": "ok",
+     "output": "а"
+    },
+    "C002": {
+     "status": "ok",
+     "output": "А"
+    },
+    "C003": {
+     "status": "ok",
+     "output": "б"
+    },
+    "C004": {
+     "status": "ok",
+     "output": "Б"
+    },
+    "C005": {
+     "status": "ok",
+     "output": "в"
+    },
+    "C006": {
+     "status": "ok",
+     "output": "В"
+    },
+    "C007": {
+     "status": "ok",
+     "output": "г"
+    },
+    "C008": {
+     "status": "ok",
+     "output": "Г"
+    },
+    "C009": {
+     "status": "ok",
+     "output": "ґ"
+    },
+    "C010": {
+     "status": "ok",
+     "output": "Ґ"
+    },
+    "C011": {
+     "status": "ok",
+     "output": "д"
+    },
+    "C012": {
+     "status": "ok",
+     "output": "Д"
+    },
+    "C013": {
+     "status": "ok",
+     "output": "е"
+    },
+    "C014": {
+     "status": "ok",
+     "output": "Е"
+    },
+    "C015": {
+     "status": "ok",
+     "output": "є"
+    },
+    "C016": {
+     "status": "ok",
+     "output": "Є"
+    },
+    "C017": {
+     "status": "ok",
+     "output": "ж"
+    },
+    "C018": {
+     "status": "ok",
+     "output": "Ж"
+    },
+    "C019": {
+     "status": "ok",
+     "output": "з"
+    },
+    "C020": {
+     "status": "ok",
+     "output": "З"
+    },
+    "C021": {
+     "status": "ok",
+     "output": "и"
+    },
+    "C022": {
+     "status": "ok",
+     "output": "И"
+    },
+    "C023": {
+     "status": "ok",
+     "output": "і"
+    },
+    "C024": {
+     "status": "ok",
+     "output": "І"
+    },
+    "C025": {
+     "status": "ok",
+     "output": "ї"
+    },
+    "C026": {
+     "status": "ok",
+     "output": "Ї"
+    },
+    "C027": {
+     "status": "ok",
+     "output": "й"
+    },
+    "C028": {
+     "status": "ok",
+     "output": "Й"
+    },
+    "C029": {
+     "status": "ok",
+     "output": "к"
+    },
+    "C030": {
+     "status": "ok",
+     "output": "К"
+    },
+    "C031": {
+     "status": "ok",
+     "output": "л"
+    },
+    "C032": {
+     "status": "ok",
+     "output": "Л"
+    },
+    "C033": {
+     "status": "ok",
+     "output": "м"
+    },
+    "C034": {
+     "status": "ok",
+     "output": "М"
+    },
+    "C035": {
+     "status": "ok",
+     "output": "н"
+    },
+    "C036": {
+     "status": "ok",
+     "output": "Н"
+    },
+    "C037": {
+     "status": "ok",
+     "output": "о"
+    },
+    "C038": {
+     "status": "ok",
+     "output": "О"
+    },
+    "C039": {
+     "status": "ok",
+     "output": "п"
+    },
+    "C040": {
+     "status": "ok",
+     "output": "П"
+    },
+    "C041": {
+     "status": "ok",
+     "output": "р"
+    },
+    "C042": {
+     "status": "ok",
+     "output": "Р"
+    },
+    "C043": {
+     "status": "ok",
+     "output": "с"
+    },
+    "C044": {
+     "status": "ok",
+     "output": "С"
+    },
+    "C045": {
+     "status": "ok",
+     "output": "т"
+    },
+    "C046": {
+     "status": "ok",
+     "output": "Т"
+    },
+    "C047": {
+     "status": "ok",
+     "output": "у"
+    },
+    "C048": {
+     "status": "ok",
+     "output": "У"
+    },
+    "C049": {
+     "status": "ok",
+     "output": "ф"
+    },
+    "C050": {
+     "status": "ok",
+     "output": "Ф"
+    },
+    "C051": {
+     "status": "ok",
+     "output": "х"
+    },
+    "C052": {
+     "status": "ok",
+     "output": "Х"
+    },
+    "C053": {
+     "status": "ok",
+     "output": "ц"
+    },
+    "C054": {
+     "status": "ok",
+     "output": "Ц"
+    },
+    "C055": {
+     "status": "ok",
+     "output": "ч"
+    },
+    "C056": {
+     "status": "ok",
+     "output": "Ч"
+    },
+    "C057": {
+     "status": "ok",
+     "output": "ш"
+    },
+    "C058": {
+     "status": "ok",
+     "output": "Ш"
+    },
+    "C059": {
+     "status": "ok",
+     "output": "щ"
+    },
+    "C060": {
+     "status": "ok",
+     "output": "Щ"
+    },
+    "C061": {
+     "status": "ok",
+     "output": "ь"
+    },
+    "C062": {
+     "status": "ok",
+     "output": "Ь"
+    },
+    "C063": {
+     "status": "ok",
+     "output": "ю"
+    },
+    "C064": {
+     "status": "ok",
+     "output": "Ю"
+    },
+    "C065": {
+     "status": "ok",
+     "output": "я"
+    },
+    "C066": {
+     "status": "ok",
+     "output": "Я"
+    },
+    "C067": {
+     "status": "ok",
+     "output": "ʼ"
+    },
+    "C068": {
+     "status": "ok",
+     "output": "’"
+    },
+    "C069": {
+     "status": "ok",
+     "output": "'"
+    },
+    "C070": {
+     "status": "ok",
+     "output": "."
+    },
+    "C071": {
+     "status": "ok",
+     "output": "?"
+    },
+    "C072": {
+     "status": "ok",
+     "output": "!"
+    },
+    "C073": {
+     "status": "ok",
+     "output": ","
+    },
+    "C074": {
+     "status": "ok",
+     "output": ";"
+    },
+    "C075": {
+     "status": "ok",
+     "output": ":"
+    },
+    "C076": {
+     "status": "ok",
+     "output": "—"
+    },
+    "C077": {
+     "status": "ok",
+     "output": "–"
+    },
+    "C078": {
+     "status": "ok",
+     "output": "…"
+    },
+    "C079": {
+     "status": "ok",
+     "output": "("
+    },
+    "C080": {
+     "status": "ok",
+     "output": ")"
+    },
+    "C081": {
+     "status": "ok",
+     "output": "["
+    },
+    "C082": {
+     "status": "ok",
+     "output": "]"
+    },
+    "C083": {
+     "status": "ok",
+     "output": "<"
+    },
+    "C084": {
+     "status": "ok",
+     "output": ">"
+    },
+    "C085": {
+     "status": "ok",
+     "output": "«"
+    },
+    "C086": {
+     "status": "ok",
+     "output": "»"
+    },
+    "C087": {
+     "status": "ok",
+     "output": "„"
+    },
+    "C088": {
+     "status": "ok",
+     "output": "“"
+    },
+    "C089": {
+     "status": "ok",
+     "output": "”"
+    },
+    "C090": {
+     "status": "ok",
+     "output": "\""
+    },
+    "C091": {
+     "status": "ok",
+     "output": "-"
+    },
+    "C092": {
+     "status": "ok",
+     "output": "‐"
+    },
+    "C093": {
+     "status": "ok",
+     "output": "/"
+    },
+    "C094": {
+     "status": "ok",
+     "output": "ы"
+    },
+    "C095": {
+     "status": "ok",
+     "output": "Ы"
+    },
+    "C096": {
+     "status": "ok",
+     "output": "ъ"
+    },
+    "C097": {
+     "status": "ok",
+     "output": "Ъ"
+    },
+    "C098": {
+     "status": "ok",
+     "output": "ѣ"
+    },
+    "C099": {
+     "status": "ok",
+     "output": "Ѣ"
+    },
+    "C100": {
+     "status": "ok",
+     "output": "ѳ"
+    },
+    "C101": {
+     "status": "ok",
+     "output": "Ѳ"
+    },
+    "C102": {
+     "status": "ok",
+     "output": "ѵ"
+    },
+    "C103": {
+     "status": "ok",
+     "output": "Ѵ"
+    },
+    "C104": {
+     "status": "ok",
+     "output": "ё"
+    },
+    "C105": {
+     "status": "ok",
+     "output": "Ё"
+    },
+    "C106": {
+     "status": "ok",
+     "output": "э"
+    },
+    "C107": {
+     "status": "ok",
+     "output": "Э"
+    },
+    "C108": {
+     "status": "ok",
+     "output": "j"
+    },
+    "C109": {
+     "status": "ok",
+     "output": "J"
+    },
+    "C110": {
+     "status": "ok",
+     "output": "ѯ"
+    },
+    "C111": {
+     "status": "ok",
+     "output": "Ѯ"
+    },
+    "C112": {
+     "status": "ok",
+     "output": "ѱ"
+    },
+    "C113": {
+     "status": "ok",
+     "output": "Ѱ"
+    },
+    "C114": {
+     "status": "ok",
+     "output": "ꙋ"
+    },
+    "C115": {
+     "status": "ok",
+     "output": "Ꙋ"
+    },
+    "C116": {
+     "status": "ok",
+     "output": "ѧ"
+    },
+    "C117": {
+     "status": "ok",
+     "output": "Ѧ"
+    },
+    "C118": {
+     "status": "ok",
+     "output": "о̂"
+    },
+    "C119": {
+     "status": "ok",
+     "output": "О̂"
+    },
+    "C120": {
+     "status": "ok",
+     "output": "е̂"
+    },
+    "C121": {
+     "status": "ok",
+     "output": "Е̂"
+    },
+    "C122": {
+     "status": "ok",
+     "output": "у̂"
+    },
+    "C123": {
+     "status": "ok",
+     "output": "У̂"
+    },
+    "C124": {
+     "status": "ok",
+     "output": "и̂"
+    },
+    "C125": {
+     "status": "ok",
+     "output": "И̂"
+    },
+    "C126": {
+     "status": "ok",
+     "output": "а́"
+    },
+    "C127": {
+     "status": "ok",
+     "output": "А́"
+    },
+    "C128": {
+     "status": "ok",
+     "output": "а̀"
+    },
+    "C129": {
+     "status": "ok",
+     "output": "А̀"
+    },
+    "C130": {
+     "status": "ok",
+     "output": "g"
+    },
+    "C131": {
+     "status": "ok",
+     "output": "G"
+    }
+   },
+   "level2": {
+    "quick": {
+     "input": "ґєіїʼ ыъѣ",
+     "output": "ґєіїʼ ыъѣ",
+     "lost": [],
+     "changed": [],
+     "status": "ok"
+    },
+    "pangram": {
+     "input": "Чуєш їх, доцю, га? Кумедна ж ти, прощайся без ґольфів!",
+     "output": "Чуєш їх, доцю, га? Кумедна ж ти, прощайся без ґольфів!",
+     "lost": [],
+     "changed": [],
+     "status": "ok"
+    },
+    "apostrophe_variants": {
+     "input": "пʼять мʼята п’ять м’ята п'ять м'ята",
+     "output": "пʼять мʼята п’ять м’ята п'ять м'ята",
+     "lost": [],
+     "changed": [],
+     "status": "ok"
+    },
+    "punctuation_line": {
+     "input": "Він сказав: «Іди сюди — „зараз“ (не завтра)!» Що?! Ну… Ну... Добре, так; гаразд-гаразд [див. <…>] і/або “інше” „рукописне”.",
+     "output": "Він сказав: «Іди сюди — „зараз“ (не завтра)!» Що?! Ну… Ну... Добре, так; гаразд-гаразд [див. <…>] і/або “інше” „рукописне”.",
+     "lost": [],
+     "changed": [],
+     "status": "ok"
+    },
+    "historical_line": {
+     "input": "сынъ свѣтъ ѳеодоръ ѵпостась ёго эхо jак ѱалтирь ꙋкраїна ѧкъ мо̂й до́бре",
+     "output": "сынъ свѣтъ ѳеодоръ ѵпостась ёго эхо jак ѱалтирь ꙋкраїна ѧкъ мо̂й до́бре",
+     "lost": [],
+     "changed": [],
+     "status": "ok"
+    }
+   }
+  }
+ },
+ "utf8_bytes": {
+  "C001": 2,
+  "C002": 2,
+  "C003": 2,
+  "C004": 2,
+  "C005": 2,
+  "C006": 2,
+  "C007": 2,
+  "C008": 2,
+  "C009": 2,
+  "C010": 2,
+  "C011": 2,
+  "C012": 2,
+  "C013": 2,
+  "C014": 2,
+  "C015": 2,
+  "C016": 2,
+  "C017": 2,
+  "C018": 2,
+  "C019": 2,
+  "C020": 2,
+  "C021": 2,
+  "C022": 2,
+  "C023": 2,
+  "C024": 2,
+  "C025": 2,
+  "C026": 2,
+  "C027": 2,
+  "C028": 2,
+  "C029": 2,
+  "C030": 2,
+  "C031": 2,
+  "C032": 2,
+  "C033": 2,
+  "C034": 2,
+  "C035": 2,
+  "C036": 2,
+  "C037": 2,
+  "C038": 2,
+  "C039": 2,
+  "C040": 2,
+  "C041": 2,
+  "C042": 2,
+  "C043": 2,
+  "C044": 2,
+  "C045": 2,
+  "C046": 2,
+  "C047": 2,
+  "C048": 2,
+  "C049": 2,
+  "C050": 2,
+  "C051": 2,
+  "C052": 2,
+  "C053": 2,
+  "C054": 2,
+  "C055": 2,
+  "C056": 2,
+  "C057": 2,
+  "C058": 2,
+  "C059": 2,
+  "C060": 2,
+  "C061": 2,
+  "C062": 2,
+  "C063": 2,
+  "C064": 2,
+  "C065": 2,
+  "C066": 2,
+  "C067": 2,
+  "C068": 3,
+  "C069": 1,
+  "C070": 1,
+  "C071": 1,
+  "C072": 1,
+  "C073": 1,
+  "C074": 1,
+  "C075": 1,
+  "C076": 3,
+  "C077": 3,
+  "C078": 3,
+  "C079": 1,
+  "C080": 1,
+  "C081": 1,
+  "C082": 1,
+  "C083": 1,
+  "C084": 1,
+  "C085": 2,
+  "C086": 2,
+  "C087": 3,
+  "C088": 3,
+  "C089": 3,
+  "C090": 1,
+  "C091": 1,
+  "C092": 3,
+  "C093": 1,
+  "C094": 2,
+  "C095": 2,
+  "C096": 2,
+  "C097": 2,
+  "C098": 2,
+  "C099": 2,
+  "C100": 2,
+  "C101": 2,
+  "C102": 2,
+  "C103": 2,
+  "C104": 2,
+  "C105": 2,
+  "C106": 2,
+  "C107": 2,
+  "C108": 1,
+  "C109": 1,
+  "C110": 2,
+  "C111": 2,
+  "C112": 2,
+  "C113": 2,
+  "C114": 3,
+  "C115": 3,
+  "C116": 2,
+  "C117": 2,
+  "C118": 4,
+  "C119": 4,
+  "C120": 4,
+  "C121": 4,
+  "C122": 4,
+  "C123": 4,
+  "C124": 4,
+  "C125": 4,
+  "C126": 4,
+  "C127": 4,
+  "C128": 4,
+  "C129": 4,
+  "C130": 1,
+  "C131": 1
+ },
+ "notes": [
+  "Кирилична літера — 2 байти UTF-8, ꙋ і ʼ — 2–3: кодується без втрат, але як послідовності байтів, яких у латинському навчанні не було"
+ ],
+ "status": "ok",
+ "method": "Emuru",
+ "inventory_version": "0.3.0",
+ "environment": {
+  "python": "3.12.8",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "torch": "2.14.1",
+  "transformers": "5.20.2",
+  "numpy": "2.5.4"
+ },
+ "checked_at": "2026-10-23T15:38:34+00:00",
+ "source": "github aimagelab/Emuru-autoregressive-text-img",
+ "revision": "d8db91a606297ae0b173ec90de03e31fd927ba91"
+}

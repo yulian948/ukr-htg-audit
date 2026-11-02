@@ -1,0 +1,14 @@
+{
+ "weights": "kdonitz/diffusionpen-ukrainian@a96778d870cf357b71276f4f275b2f4dfaa6011d",
+ "code": "Space generate_sentence.generate_single_word",
+ "settings": "50 кроків DDIM, cfg_scale 5.0 (як у app.py)",
+ "deviations": [],
+ "model": "ukr_diffusionpen",
+ "status": "loaded",
+ "device": "cuda",
+ "torch": "2.11.0+cu130",
+ "transformers": "5.20.2",
+ "diffusers": "0.41.0",
+ "python": "/usr/bin/python3",
+ "started": "2026-10-24T16:35:32+00:00"
+}

@@ -1,0 +1,6 @@
+{
+  "about": "Підрахунок 5а на коміті пропозиції й на зафіксованому коміті (критерій: category = HANDWRITING, subsets ∋ cyrillic)",
+  "47d54ca1ebb14fd864695f1d39dc734f39017c33": {"families": 2039, "handwriting": 355, "handwriting_cyrillic": 15},
+  "e7db6ca603fd4862010383ff17ffd6cc4ffac1c0": {"families": 2040, "handwriting": 356, "handwriting_cyrillic": 15},
+  "difference": "Додано Agrave Pro (HANDWRITING, без кирилиці); список шрифтів із кирилицею не змінився"
+}

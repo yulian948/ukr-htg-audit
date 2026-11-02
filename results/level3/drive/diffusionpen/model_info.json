@@ -1,0 +1,17 @@
+{
+ "weights": "konnik/DiffusionPen@5636a68365001435ec76553114313c22c6f1ca07",
+ "code": "train.py Diffusion.sampling (відтворено)",
+ "settings": "50 кроків DDIM, без CFG (як у train.py)",
+ "deviations": [
+  "Зразки стилю — наші 5 слів замість 5 випадкових слів автора IAM (IAM для запуску не потрібен)",
+  "Мітка автора IAM фіксована: 12 для стилю 0000, 1 для 0002 (train.py:302–303)"
+ ],
+ "model": "diffusionpen",
+ "status": "loaded",
+ "device": "cuda",
+ "torch": "2.11.0+cu130",
+ "transformers": "5.20.2",
+ "diffusers": "0.41.0",
+ "python": "/usr/bin/python3",
+ "started": "2026-10-24T18:16:49+00:00"
+}

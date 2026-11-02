@@ -1,0 +1,265 @@
+{
+ "font": "Wayback 2015-01-23: KobzarKS_v1-020.otf",
+ "sha256": "ff64b568b5ecd601be27b5012a1f0181bf386245e33358d8efef60144d7c8a7f",
+ "harfbuzz": "15.0.0",
+ "gsub_features": [
+  "aalt",
+  "dlig",
+  "dnom",
+  "fina",
+  "frac",
+  "init",
+  "liga",
+  "numr",
+  "ornm",
+  "salt",
+  "ss01",
+  "ss02",
+  "ss03",
+  "ss04"
+ ],
+ "gpos_features": [
+  "cpsp"
+ ],
+ "per_feature": {
+  "aalt": {
+   "default_on": false,
+   "texts_changed_when_off": 0,
+   "texts_changed_when_forced_on": 14
+  },
+  "dlig": {
+   "default_on": false,
+   "texts_changed_when_off": 0,
+   "texts_changed_when_forced_on": 0
+  },
+  "dnom": {
+   "default_on": false,
+   "texts_changed_when_off": 0,
+   "texts_changed_when_forced_on": 1
+  },
+  "fina": {
+   "default_on": false,
+   "texts_changed_when_off": 0,
+   "texts_changed_when_forced_on": 13
+  },
+  "frac": {
+   "default_on": false,
+   "texts_changed_when_off": 0,
+   "texts_changed_when_forced_on": 0
+  },
+  "init": {
+   "default_on": false,
+   "texts_changed_when_off": 0,
+   "texts_changed_when_forced_on": 12
+  },
+  "liga": {
+   "default_on": true,
+   "texts_changed_when_off": 3,
+   "texts_changed_when_forced_on": 0
+  },
+  "numr": {
+   "default_on": false,
+   "texts_changed_when_off": 0,
+   "texts_changed_when_forced_on": 1
+  },
+  "ornm": {
+   "default_on": false,
+   "texts_changed_when_off": 0,
+   "texts_changed_when_forced_on": 1
+  },
+  "salt": {
+   "default_on": false,
+   "texts_changed_when_off": 0,
+   "texts_changed_when_forced_on": 12
+  },
+  "ss01": {
+   "default_on": false,
+   "texts_changed_when_off": 0,
+   "texts_changed_when_forced_on": 3
+  },
+  "ss02": {
+   "default_on": false,
+   "texts_changed_when_off": 0,
+   "texts_changed_when_forced_on": 0
+  },
+  "ss03": {
+   "default_on": false,
+   "texts_changed_when_off": 0,
+   "texts_changed_when_forced_on": 12
+  },
+  "ss04": {
+   "default_on": false,
+   "texts_changed_when_off": 0,
+   "texts_changed_when_forced_on": 0
+  }
+ },
+ "chars_with_contextual_variants_default": {
+  "с": 2,
+  "т": 2,
+  "і": 2
+ },
+ "chars_with_variants_all_gsub_off": {},
+ "chars_with_variants_when_forced_on": {
+  "aalt": {},
+  "dnom": {
+   "с": 2,
+   "т": 2,
+   "і": 2
+  },
+  "fina": {
+   "с": 2,
+   "т": 2,
+   "і": 2
+  },
+  "init": {
+   "с": 2,
+   "т": 2,
+   "і": 2
+  },
+  "numr": {
+   "с": 2,
+   "т": 2,
+   "і": 2
+  },
+  "ornm": {
+   "с": 2,
+   "т": 2,
+   "і": 2
+  },
+  "salt": {
+   "с": 2,
+   "т": 2,
+   "і": 2
+  },
+  "ss01": {
+   "с": 2,
+   "т": 2,
+   "і": 2
+  },
+  "ss03": {
+   "с": 2,
+   "т": 2,
+   "і": 2
+  }
+ },
+ "chars_with_variants_init_fina_salt": {
+  "с": 2,
+  "т": 2,
+  "і": 2
+ },
+ "forms_per_letter_across_features": {
+  "а": 4,
+  "А": 2,
+  "б": 2,
+  "Б": 1,
+  "в": 1,
+  "В": 1,
+  "г": 2,
+  "Г": 1,
+  "ґ": 1,
+  "Ґ": 1,
+  "д": 2,
+  "Д": 1,
+  "е": 2,
+  "Е": 1,
+  "є": 1,
+  "Є": 1,
+  "ж": 2,
+  "Ж": 2,
+  "з": 1,
+  "З": 1,
+  "и": 3,
+  "И": 1,
+  "і": 2,
+  "І": 2,
+  "ї": 1,
+  "Ї": 1,
+  "й": 2,
+  "Й": 1,
+  "к": 2,
+  "К": 2,
+  "л": 1,
+  "Л": 1,
+  "м": 1,
+  "М": 1,
+  "н": 2,
+  "Н": 2,
+  "о": 2,
+  "О": 1,
+  "п": 2,
+  "П": 1,
+  "р": 2,
+  "Р": 1,
+  "с": 2,
+  "С": 2,
+  "т": 2,
+  "Т": 1,
+  "у": 3,
+  "У": 1,
+  "ф": 2,
+  "Ф": 1,
+  "х": 2,
+  "Х": 2,
+  "ц": 2,
+  "Ц": 1,
+  "ч": 3,
+  "Ч": 1,
+  "ш": 1,
+  "Ш": 1,
+  "щ": 1,
+  "Щ": 2,
+  "ь": 2,
+  "Ь": 1,
+  "ю": 1,
+  "Ю": 1,
+  "я": 3,
+  "Я": 2
+ },
+ "pillow_pixel_difference": {
+  "Тараса": {
+   "no_gsub_features": 0.0,
+   "per_char_doc_gen": 0.0
+  },
+  "Шевченка": {
+   "no_gsub_features": 0.0,
+   "per_char_doc_gen": 0.0
+  },
+  "аааа": {
+   "no_gsub_features": 0.0,
+   "per_char_doc_gen": 0.0
+  },
+  "ннн": {
+   "no_gsub_features": 0.0,
+   "per_char_doc_gen": 0.0
+  },
+  "мама": {
+   "no_gsub_features": 0.0,
+   "per_char_doc_gen": 0.0
+  },
+  "оборона": {
+   "no_gsub_features": 0.0,
+   "per_char_doc_gen": 0.0
+  },
+  "щастя": {
+   "no_gsub_features": 0.488,
+   "per_char_doc_gen": 0.488
+  },
+  "пʼять": {
+   "no_gsub_features": 0.633,
+   "per_char_doc_gen": 0.633
+  },
+  "мережа": {
+   "no_gsub_features": 0.0,
+   "per_char_doc_gen": 0.0
+  },
+  "Кобзар": {
+   "no_gsub_features": 0.0,
+   "per_char_doc_gen": 0.0
+  },
+  "садок вишневий коло хати": {
+   "no_gsub_features": 0.0,
+   "per_char_doc_gen": 0.0
+  }
+ },
+ "note": "pixel difference = частка пікселів чорнила, що різняться, відносно типового рендерингу Pillow (libraqm)"
+}

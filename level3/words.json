@@ -1,0 +1,1717 @@
+{
+ "inventory_version": "0.3.0",
+ "units": [
+  {
+   "unit": "C001_w0",
+   "entry_id": "C001",
+   "char": "а",
+   "group": "alphabet",
+   "word": "мама",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C001_w1",
+   "entry_id": "C001",
+   "char": "а",
+   "group": "alphabet",
+   "word": "вода",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C002_w0",
+   "entry_id": "C002",
+   "char": "А",
+   "group": "alphabet",
+   "word": "Анна",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C002_w1",
+   "entry_id": "C002",
+   "char": "А",
+   "group": "alphabet",
+   "word": "Астра",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C003_w0",
+   "entry_id": "C003",
+   "char": "б",
+   "group": "alphabet",
+   "word": "хліб",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C003_w1",
+   "entry_id": "C003",
+   "char": "б",
+   "group": "alphabet",
+   "word": "небо",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C004_w0",
+   "entry_id": "C004",
+   "char": "Б",
+   "group": "alphabet",
+   "word": "Борщ",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C004_w1",
+   "entry_id": "C004",
+   "char": "Б",
+   "group": "alphabet",
+   "word": "Буря",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C005_w0",
+   "entry_id": "C005",
+   "char": "в",
+   "group": "alphabet",
+   "word": "вовк",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C005_w1",
+   "entry_id": "C005",
+   "char": "в",
+   "group": "alphabet",
+   "word": "трава",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C006_w0",
+   "entry_id": "C006",
+   "char": "В",
+   "group": "alphabet",
+   "word": "Весна",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C006_w1",
+   "entry_id": "C006",
+   "char": "В",
+   "group": "alphabet",
+   "word": "Вітер",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C007_w0",
+   "entry_id": "C007",
+   "char": "г",
+   "group": "alphabet",
+   "word": "нога",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C007_w1",
+   "entry_id": "C007",
+   "char": "г",
+   "group": "alphabet",
+   "word": "гора",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C008_w0",
+   "entry_id": "C008",
+   "char": "Г",
+   "group": "alphabet",
+   "word": "Голос",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C008_w1",
+   "entry_id": "C008",
+   "char": "Г",
+   "group": "alphabet",
+   "word": "Гарно",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C009_w0",
+   "entry_id": "C009",
+   "char": "ґ",
+   "group": "alphabet",
+   "word": "ґанок",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C009_w1",
+   "entry_id": "C009",
+   "char": "ґ",
+   "group": "alphabet",
+   "word": "аґрус",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C010_w0",
+   "entry_id": "C010",
+   "char": "Ґ",
+   "group": "alphabet",
+   "word": "Ґанок",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C010_w1",
+   "entry_id": "C010",
+   "char": "Ґ",
+   "group": "alphabet",
+   "word": "Ґудзик",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C011_w0",
+   "entry_id": "C011",
+   "char": "д",
+   "group": "alphabet",
+   "word": "дуб",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C011_w1",
+   "entry_id": "C011",
+   "char": "д",
+   "group": "alphabet",
+   "word": "вода",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C012_w0",
+   "entry_id": "C012",
+   "char": "Д",
+   "group": "alphabet",
+   "word": "Дім",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C012_w1",
+   "entry_id": "C012",
+   "char": "Д",
+   "group": "alphabet",
+   "word": "Дорога",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C013_w0",
+   "entry_id": "C013",
+   "char": "е",
+   "group": "alphabet",
+   "word": "село",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C013_w1",
+   "entry_id": "C013",
+   "char": "е",
+   "group": "alphabet",
+   "word": "небо",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C014_w0",
+   "entry_id": "C014",
+   "char": "Е",
+   "group": "alphabet",
+   "word": "Еней",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C014_w1",
+   "entry_id": "C014",
+   "char": "Е",
+   "group": "alphabet",
+   "word": "Етап",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C015_w0",
+   "entry_id": "C015",
+   "char": "є",
+   "group": "alphabet",
+   "word": "моє",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C015_w1",
+   "entry_id": "C015",
+   "char": "є",
+   "group": "alphabet",
+   "word": "твоє",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C016_w0",
+   "entry_id": "C016",
+   "char": "Є",
+   "group": "alphabet",
+   "word": "Європа",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C016_w1",
+   "entry_id": "C016",
+   "char": "Є",
+   "group": "alphabet",
+   "word": "Єва",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C017_w0",
+   "entry_id": "C017",
+   "char": "ж",
+   "group": "alphabet",
+   "word": "ніж",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C017_w1",
+   "entry_id": "C017",
+   "char": "ж",
+   "group": "alphabet",
+   "word": "жито",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C018_w0",
+   "entry_id": "C018",
+   "char": "Ж",
+   "group": "alphabet",
+   "word": "Жито",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C018_w1",
+   "entry_id": "C018",
+   "char": "Ж",
+   "group": "alphabet",
+   "word": "Жук",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C019_w0",
+   "entry_id": "C019",
+   "char": "з",
+   "group": "alphabet",
+   "word": "зима",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C019_w1",
+   "entry_id": "C019",
+   "char": "з",
+   "group": "alphabet",
+   "word": "коза",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C020_w0",
+   "entry_id": "C020",
+   "char": "З",
+   "group": "alphabet",
+   "word": "Зима",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C020_w1",
+   "entry_id": "C020",
+   "char": "З",
+   "group": "alphabet",
+   "word": "Зірка",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C021_w0",
+   "entry_id": "C021",
+   "char": "и",
+   "group": "alphabet",
+   "word": "липа",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C021_w1",
+   "entry_id": "C021",
+   "char": "и",
+   "group": "alphabet",
+   "word": "син",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C022_w0",
+   "entry_id": "C022",
+   "char": "И",
+   "group": "alphabet",
+   "word": "Ирій",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C022_w1",
+   "entry_id": "C022",
+   "char": "И",
+   "group": "alphabet",
+   "word": "Индик",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C023_w0",
+   "entry_id": "C023",
+   "char": "і",
+   "group": "alphabet",
+   "word": "літо",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C023_w1",
+   "entry_id": "C023",
+   "char": "і",
+   "group": "alphabet",
+   "word": "сік",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C024_w0",
+   "entry_id": "C024",
+   "char": "І",
+   "group": "alphabet",
+   "word": "Іван",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C024_w1",
+   "entry_id": "C024",
+   "char": "І",
+   "group": "alphabet",
+   "word": "Ігор",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C025_w0",
+   "entry_id": "C025",
+   "char": "ї",
+   "group": "alphabet",
+   "word": "їжак",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C025_w1",
+   "entry_id": "C025",
+   "char": "ї",
+   "group": "alphabet",
+   "word": "мої",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C026_w0",
+   "entry_id": "C026",
+   "char": "Ї",
+   "group": "alphabet",
+   "word": "Їжак",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C026_w1",
+   "entry_id": "C026",
+   "char": "Ї",
+   "group": "alphabet",
+   "word": "Їжа",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C027_w0",
+   "entry_id": "C027",
+   "char": "й",
+   "group": "alphabet",
+   "word": "край",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C027_w1",
+   "entry_id": "C027",
+   "char": "й",
+   "group": "alphabet",
+   "word": "мій",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C028_w0",
+   "entry_id": "C028",
+   "char": "Й",
+   "group": "alphabet",
+   "word": "Йосип",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C028_w1",
+   "entry_id": "C028",
+   "char": "Й",
+   "group": "alphabet",
+   "word": "Йод",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C029_w0",
+   "entry_id": "C029",
+   "char": "к",
+   "group": "alphabet",
+   "word": "рука",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C029_w1",
+   "entry_id": "C029",
+   "char": "к",
+   "group": "alphabet",
+   "word": "сокіл",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C030_w0",
+   "entry_id": "C030",
+   "char": "К",
+   "group": "alphabet",
+   "word": "Кіт",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C030_w1",
+   "entry_id": "C030",
+   "char": "К",
+   "group": "alphabet",
+   "word": "Київ",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C031_w0",
+   "entry_id": "C031",
+   "char": "л",
+   "group": "alphabet",
+   "word": "стіл",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C031_w1",
+   "entry_id": "C031",
+   "char": "л",
+   "group": "alphabet",
+   "word": "липа",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C032_w0",
+   "entry_id": "C032",
+   "char": "Л",
+   "group": "alphabet",
+   "word": "Липа",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C032_w1",
+   "entry_id": "C032",
+   "char": "Л",
+   "group": "alphabet",
+   "word": "Ліс",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C033_w0",
+   "entry_id": "C033",
+   "char": "м",
+   "group": "alphabet",
+   "word": "дім",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C033_w1",
+   "entry_id": "C033",
+   "char": "м",
+   "group": "alphabet",
+   "word": "мама",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C034_w0",
+   "entry_id": "C034",
+   "char": "М",
+   "group": "alphabet",
+   "word": "Мама",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C034_w1",
+   "entry_id": "C034",
+   "char": "М",
+   "group": "alphabet",
+   "word": "Море",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C035_w0",
+   "entry_id": "C035",
+   "char": "н",
+   "group": "alphabet",
+   "word": "сон",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C035_w1",
+   "entry_id": "C035",
+   "char": "н",
+   "group": "alphabet",
+   "word": "небо",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C036_w0",
+   "entry_id": "C036",
+   "char": "Н",
+   "group": "alphabet",
+   "word": "Небо",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C036_w1",
+   "entry_id": "C036",
+   "char": "Н",
+   "group": "alphabet",
+   "word": "Ніч",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C037_w0",
+   "entry_id": "C037",
+   "char": "о",
+   "group": "alphabet",
+   "word": "око",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C037_w1",
+   "entry_id": "C037",
+   "char": "о",
+   "group": "alphabet",
+   "word": "сон",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C038_w0",
+   "entry_id": "C038",
+   "char": "О",
+   "group": "alphabet",
+   "word": "Осінь",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C038_w1",
+   "entry_id": "C038",
+   "char": "О",
+   "group": "alphabet",
+   "word": "Око",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C039_w0",
+   "entry_id": "C039",
+   "char": "п",
+   "group": "alphabet",
+   "word": "липа",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C039_w1",
+   "entry_id": "C039",
+   "char": "п",
+   "group": "alphabet",
+   "word": "суп",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C040_w0",
+   "entry_id": "C040",
+   "char": "П",
+   "group": "alphabet",
+   "word": "Поле",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C040_w1",
+   "entry_id": "C040",
+   "char": "П",
+   "group": "alphabet",
+   "word": "Пісня",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C041_w0",
+   "entry_id": "C041",
+   "char": "р",
+   "group": "alphabet",
+   "word": "рука",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C041_w1",
+   "entry_id": "C041",
+   "char": "р",
+   "group": "alphabet",
+   "word": "море",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C042_w0",
+   "entry_id": "C042",
+   "char": "Р",
+   "group": "alphabet",
+   "word": "Ранок",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C042_w1",
+   "entry_id": "C042",
+   "char": "Р",
+   "group": "alphabet",
+   "word": "Річка",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C043_w0",
+   "entry_id": "C043",
+   "char": "с",
+   "group": "alphabet",
+   "word": "сон",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C043_w1",
+   "entry_id": "C043",
+   "char": "с",
+   "group": "alphabet",
+   "word": "ліс",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C044_w0",
+   "entry_id": "C044",
+   "char": "С",
+   "group": "alphabet",
+   "word": "Сонце",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C044_w1",
+   "entry_id": "C044",
+   "char": "С",
+   "group": "alphabet",
+   "word": "Село",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C045_w0",
+   "entry_id": "C045",
+   "char": "т",
+   "group": "alphabet",
+   "word": "тато",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C045_w1",
+   "entry_id": "C045",
+   "char": "т",
+   "group": "alphabet",
+   "word": "літо",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C046_w0",
+   "entry_id": "C046",
+   "char": "Т",
+   "group": "alphabet",
+   "word": "Тато",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C046_w1",
+   "entry_id": "C046",
+   "char": "Т",
+   "group": "alphabet",
+   "word": "Тиша",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C047_w0",
+   "entry_id": "C047",
+   "char": "у",
+   "group": "alphabet",
+   "word": "рука",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C047_w1",
+   "entry_id": "C047",
+   "char": "у",
+   "group": "alphabet",
+   "word": "дуб",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C048_w0",
+   "entry_id": "C048",
+   "char": "У",
+   "group": "alphabet",
+   "word": "Україна",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C048_w1",
+   "entry_id": "C048",
+   "char": "У",
+   "group": "alphabet",
+   "word": "Урок",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C049_w0",
+   "entry_id": "C049",
+   "char": "ф",
+   "group": "alphabet",
+   "word": "фарба",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C049_w1",
+   "entry_id": "C049",
+   "char": "ф",
+   "group": "alphabet",
+   "word": "кафе",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C050_w0",
+   "entry_id": "C050",
+   "char": "Ф",
+   "group": "alphabet",
+   "word": "Фарба",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C050_w1",
+   "entry_id": "C050",
+   "char": "Ф",
+   "group": "alphabet",
+   "word": "Форма",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C051_w0",
+   "entry_id": "C051",
+   "char": "х",
+   "group": "alphabet",
+   "word": "хата",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C051_w1",
+   "entry_id": "C051",
+   "char": "х",
+   "group": "alphabet",
+   "word": "дах",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C052_w0",
+   "entry_id": "C052",
+   "char": "Х",
+   "group": "alphabet",
+   "word": "Хата",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C052_w1",
+   "entry_id": "C052",
+   "char": "Х",
+   "group": "alphabet",
+   "word": "Хліб",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C053_w0",
+   "entry_id": "C053",
+   "char": "ц",
+   "group": "alphabet",
+   "word": "вулиця",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C053_w1",
+   "entry_id": "C053",
+   "char": "ц",
+   "group": "alphabet",
+   "word": "цукор",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C054_w0",
+   "entry_id": "C054",
+   "char": "Ц",
+   "group": "alphabet",
+   "word": "Цукор",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C054_w1",
+   "entry_id": "C054",
+   "char": "Ц",
+   "group": "alphabet",
+   "word": "Церква",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C055_w0",
+   "entry_id": "C055",
+   "char": "ч",
+   "group": "alphabet",
+   "word": "ніч",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C055_w1",
+   "entry_id": "C055",
+   "char": "ч",
+   "group": "alphabet",
+   "word": "чай",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C056_w0",
+   "entry_id": "C056",
+   "char": "Ч",
+   "group": "alphabet",
+   "word": "Чай",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C056_w1",
+   "entry_id": "C056",
+   "char": "Ч",
+   "group": "alphabet",
+   "word": "Час",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C057_w0",
+   "entry_id": "C057",
+   "char": "ш",
+   "group": "alphabet",
+   "word": "шапка",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C057_w1",
+   "entry_id": "C057",
+   "char": "ш",
+   "group": "alphabet",
+   "word": "миша",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C058_w0",
+   "entry_id": "C058",
+   "char": "Ш",
+   "group": "alphabet",
+   "word": "Школа",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C058_w1",
+   "entry_id": "C058",
+   "char": "Ш",
+   "group": "alphabet",
+   "word": "Шлях",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C059_w0",
+   "entry_id": "C059",
+   "char": "щ",
+   "group": "alphabet",
+   "word": "щастя",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C059_w1",
+   "entry_id": "C059",
+   "char": "щ",
+   "group": "alphabet",
+   "word": "кущ",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C060_w0",
+   "entry_id": "C060",
+   "char": "Щ",
+   "group": "alphabet",
+   "word": "Щастя",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C060_w1",
+   "entry_id": "C060",
+   "char": "Щ",
+   "group": "alphabet",
+   "word": "Щука",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C061_w0",
+   "entry_id": "C061",
+   "char": "ь",
+   "group": "alphabet",
+   "word": "день",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C061_w1",
+   "entry_id": "C061",
+   "char": "ь",
+   "group": "alphabet",
+   "word": "сіль",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C062_w0",
+   "entry_id": "C062",
+   "char": "Ь",
+   "group": "alphabet",
+   "word": "ДЕНЬ",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C062_w1",
+   "entry_id": "C062",
+   "char": "Ь",
+   "group": "alphabet",
+   "word": "СІЛЬ",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C063_w0",
+   "entry_id": "C063",
+   "char": "ю",
+   "group": "alphabet",
+   "word": "пісню",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C063_w1",
+   "entry_id": "C063",
+   "char": "ю",
+   "group": "alphabet",
+   "word": "юшка",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C064_w0",
+   "entry_id": "C064",
+   "char": "Ю",
+   "group": "alphabet",
+   "word": "Юшка",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C064_w1",
+   "entry_id": "C064",
+   "char": "Ю",
+   "group": "alphabet",
+   "word": "Юність",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C065_w0",
+   "entry_id": "C065",
+   "char": "я",
+   "group": "alphabet",
+   "word": "земля",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C065_w1",
+   "entry_id": "C065",
+   "char": "я",
+   "group": "alphabet",
+   "word": "ясно",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C066_w0",
+   "entry_id": "C066",
+   "char": "Я",
+   "group": "alphabet",
+   "word": "Ясно",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C066_w1",
+   "entry_id": "C066",
+   "char": "Я",
+   "group": "alphabet",
+   "word": "Яблуко",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C067_w0",
+   "entry_id": "C067",
+   "char": "ʼ",
+   "group": "apostrophe",
+   "word": "пʼять",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C067_w1",
+   "entry_id": "C067",
+   "char": "ʼ",
+   "group": "apostrophe",
+   "word": "мʼята",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C068_w0",
+   "entry_id": "C068",
+   "char": "’",
+   "group": "apostrophe",
+   "word": "п’ять",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C068_w1",
+   "entry_id": "C068",
+   "char": "’",
+   "group": "apostrophe",
+   "word": "м’ята",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C069_w0",
+   "entry_id": "C069",
+   "char": "'",
+   "group": "apostrophe",
+   "word": "п'ять",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C069_w1",
+   "entry_id": "C069",
+   "char": "'",
+   "group": "apostrophe",
+   "word": "м'ята",
+   "source": "сучасна лексика"
+  },
+  {
+   "unit": "C094_w0",
+   "entry_id": "C094",
+   "char": "ы",
+   "group": "historical",
+   "word": "лыстъ",
+   "source": "Павловський 1818, с. 40"
+  },
+  {
+   "unit": "C094_w1",
+   "entry_id": "C094",
+   "char": "ы",
+   "group": "historical",
+   "word": "сыній",
+   "source": "Павловський 1818, с. 40"
+  },
+  {
+   "unit": "C095_w0",
+   "entry_id": "C095",
+   "char": "Ы",
+   "group": "historical",
+   "word": "СЫНЪ",
+   "source": "капітель; сынъ — пропозиція"
+  },
+  {
+   "unit": "C095_w1",
+   "entry_id": "C095",
+   "char": "Ы",
+   "group": "historical",
+   "word": "СТЫХЪ",
+   "source": "капітель; «Стыхъ», Шевченко 1861, с. 69"
+  },
+  {
+   "unit": "C096_w0",
+   "entry_id": "C096",
+   "char": "ъ",
+   "group": "historical",
+   "word": "стыхъ",
+   "source": "Шевченко 1861, с. 69"
+  },
+  {
+   "unit": "C096_w1",
+   "entry_id": "C096",
+   "char": "ъ",
+   "group": "historical",
+   "word": "хлѣбъ",
+   "source": "Максимович, с. 89"
+  },
+  {
+   "unit": "C097_w0",
+   "entry_id": "C097",
+   "char": "Ъ",
+   "group": "historical",
+   "word": "ХЛѢБЪ",
+   "source": "капітель; Максимович, с. 89"
+  },
+  {
+   "unit": "C097_w1",
+   "entry_id": "C097",
+   "char": "Ъ",
+   "group": "historical",
+   "word": "СТЫХЪ",
+   "source": "капітель; Шевченко 1861, с. 69"
+  },
+  {
+   "unit": "C098_w0",
+   "entry_id": "C098",
+   "char": "ѣ",
+   "group": "historical",
+   "word": "снѣгъ",
+   "source": "Максимович, с. 89"
+  },
+  {
+   "unit": "C098_w1",
+   "entry_id": "C098",
+   "char": "ѣ",
+   "group": "historical",
+   "word": "свѣти",
+   "source": "Шевченко 1861, с. 69"
+  },
+  {
+   "unit": "C099_w0",
+   "entry_id": "C099",
+   "char": "Ѣ",
+   "group": "historical",
+   "word": "Ѣда",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C099_w1",
+   "entry_id": "C099",
+   "char": "Ѣ",
+   "group": "historical",
+   "word": "СВѢТЪ",
+   "source": "капітель; Шевченко 1861, с. 69"
+  },
+  {
+   "unit": "C100_w0",
+   "entry_id": "C100",
+   "char": "ѳ",
+   "group": "historical",
+   "word": "ариѳметика",
+   "source": "Куліш 1857, с. 75"
+  },
+  {
+   "unit": "C100_w1",
+   "entry_id": "C100",
+   "char": "ѳ",
+   "group": "historical",
+   "word": "каѳедра",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C101_w0",
+   "entry_id": "C101",
+   "char": "Ѳ",
+   "group": "historical",
+   "word": "Ѳедоръ",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C101_w1",
+   "entry_id": "C101",
+   "char": "Ѳ",
+   "group": "historical",
+   "word": "Ѳома",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C102_w0",
+   "entry_id": "C102",
+   "char": "ѵ",
+   "group": "historical",
+   "word": "мѵро",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C102_w1",
+   "entry_id": "C102",
+   "char": "ѵ",
+   "group": "historical",
+   "word": "ѵпостась",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C103_w0",
+   "entry_id": "C103",
+   "char": "Ѵ",
+   "group": "historical",
+   "word": "Ѵпостась",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C103_w1",
+   "entry_id": "C103",
+   "char": "Ѵ",
+   "group": "historical",
+   "word": "Ѵподіакон",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C104_w0",
+   "entry_id": "C104",
+   "char": "ё",
+   "group": "historical",
+   "word": "сёго",
+   "source": "Куліш 1857, с. 75"
+  },
+  {
+   "unit": "C104_w1",
+   "entry_id": "C104",
+   "char": "ё",
+   "group": "historical",
+   "word": "ёго",
+   "source": "Куліш 1857, с. 75 («Ёго»)"
+  },
+  {
+   "unit": "C105_w0",
+   "entry_id": "C105",
+   "char": "Ё",
+   "group": "historical",
+   "word": "Ёго",
+   "source": "Куліш 1857, с. 75"
+  },
+  {
+   "unit": "C105_w1",
+   "entry_id": "C105",
+   "char": "Ё",
+   "group": "historical",
+   "word": "Ёлка",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C106_w0",
+   "entry_id": "C106",
+   "char": "э",
+   "group": "historical",
+   "word": "эхъ",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C106_w1",
+   "entry_id": "C106",
+   "char": "э",
+   "group": "historical",
+   "word": "эй",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C107_w0",
+   "entry_id": "C107",
+   "char": "Э",
+   "group": "historical",
+   "word": "Эй",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C107_w1",
+   "entry_id": "C107",
+   "char": "Э",
+   "group": "historical",
+   "word": "Эхъ",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C108_w0",
+   "entry_id": "C108",
+   "char": "j",
+   "group": "historical",
+   "word": "jак",
+   "source": "драгоманівка, с. 161 (ja)"
+  },
+  {
+   "unit": "C108_w1",
+   "entry_id": "C108",
+   "char": "j",
+   "group": "historical",
+   "word": "моjа",
+   "source": "драгоманівка, с. 161 (ja)"
+  },
+  {
+   "unit": "C109_w0",
+   "entry_id": "C109",
+   "char": "J",
+   "group": "historical",
+   "word": "Jак",
+   "source": "драгоманівка, с. 161"
+  },
+  {
+   "unit": "C109_w1",
+   "entry_id": "C109",
+   "char": "J",
+   "group": "historical",
+   "word": "Jевген",
+   "source": "драгоманівка, с. 161 (je)"
+  },
+  {
+   "unit": "C110_w0",
+   "entry_id": "C110",
+   "char": "ѯ",
+   "group": "historical",
+   "word": "Алеѯандръ",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C110_w1",
+   "entry_id": "C110",
+   "char": "ѯ",
+   "group": "historical",
+   "word": "ѯенія",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C111_w0",
+   "entry_id": "C111",
+   "char": "Ѯ",
+   "group": "historical",
+   "word": "Ѯенія",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C111_w1",
+   "entry_id": "C111",
+   "char": "Ѯ",
+   "group": "historical",
+   "word": "Ѯеноѳонтъ",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C112_w0",
+   "entry_id": "C112",
+   "char": "ѱ",
+   "group": "historical",
+   "word": "ѱалтирь",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C112_w1",
+   "entry_id": "C112",
+   "char": "ѱ",
+   "group": "historical",
+   "word": "ѱаломъ",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C113_w0",
+   "entry_id": "C113",
+   "char": "Ѱ",
+   "group": "historical",
+   "word": "Ѱалтирь",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C113_w1",
+   "entry_id": "C113",
+   "char": "Ѱ",
+   "group": "historical",
+   "word": "Ѱаломъ",
+   "source": "традиційне написання"
+  },
+  {
+   "unit": "C114_w0",
+   "entry_id": "C114",
+   "char": "ꙋ",
+   "group": "historical",
+   "word": "мꙋшꙋ",
+   "source": "Гатцук 1861, с. 83"
+  },
+  {
+   "unit": "C114_w1",
+   "entry_id": "C114",
+   "char": "ꙋ",
+   "group": "historical",
+   "word": "бꙋкварів",
+   "source": "Гатцук 1861, с. 83"
+  },
+  {
+   "unit": "C115_w0",
+   "entry_id": "C115",
+   "char": "Ꙋ",
+   "group": "historical",
+   "word": "Ꙋкраінска",
+   "source": "Гатцук 1861, с. 83 (назва)"
+  },
+  {
+   "unit": "C115_w1",
+   "entry_id": "C115",
+   "char": "Ꙋ",
+   "group": "historical",
+   "word": "Ꙋсе",
+   "source": "Гатцук 1861, с. 83"
+  },
+  {
+   "unit": "C116_w0",
+   "entry_id": "C116",
+   "char": "ѧ",
+   "group": "historical",
+   "word": "ѧка",
+   "source": "Гатцук 1861, с. 83"
+  },
+  {
+   "unit": "C116_w1",
+   "entry_id": "C116",
+   "char": "ѧ",
+   "group": "historical",
+   "word": "траплѧлосѧ",
+   "source": "Гатцук 1861, с. 83"
+  },
+  {
+   "unit": "C117_w0",
+   "entry_id": "C117",
+   "char": "Ѧ",
+   "group": "historical",
+   "word": "Ѧк",
+   "source": "Гатцук 1861, с. 83"
+  },
+  {
+   "unit": "C117_w1",
+   "entry_id": "C117",
+   "char": "Ѧ",
+   "group": "historical",
+   "word": "Ѧка",
+   "source": "Гатцук 1861, с. 83"
+  },
+  {
+   "unit": "C118_w0",
+   "entry_id": "C118",
+   "char": "о̂",
+   "group": "historical",
+   "word": "но̂съ",
+   "source": "Максимович, с. 89"
+  },
+  {
+   "unit": "C118_w1",
+   "entry_id": "C118",
+   "char": "о̂",
+   "group": "historical",
+   "word": "мо̂й",
+   "source": "Максимович"
+  },
+  {
+   "unit": "C119_w0",
+   "entry_id": "C119",
+   "char": "О̂",
+   "group": "historical",
+   "word": "О̂нъ",
+   "source": "Максимович"
+  },
+  {
+   "unit": "C119_w1",
+   "entry_id": "C119",
+   "char": "О̂",
+   "group": "historical",
+   "word": "НО̂СЪ",
+   "source": "капітель; Максимович, с. 89"
+  },
+  {
+   "unit": "C120_w0",
+   "entry_id": "C120",
+   "char": "е̂",
+   "group": "historical",
+   "word": "ме̂дъ",
+   "source": "Максимович, с. 89"
+  },
+  {
+   "unit": "C120_w1",
+   "entry_id": "C120",
+   "char": "е̂",
+   "group": "historical",
+   "word": "пле̂чи",
+   "source": "Максимович"
+  },
+  {
+   "unit": "C121_w0",
+   "entry_id": "C121",
+   "char": "Е̂",
+   "group": "historical",
+   "word": "МЕ̂ДЪ",
+   "source": "капітель; Максимович, с. 89"
+  },
+  {
+   "unit": "C121_w1",
+   "entry_id": "C121",
+   "char": "Е̂",
+   "group": "historical",
+   "word": "Е̂дъ",
+   "source": "Максимович"
+  },
+  {
+   "unit": "C122_w0",
+   "entry_id": "C122",
+   "char": "у̂",
+   "group": "historical",
+   "word": "заму̂жъ",
+   "source": "Максимович, с. 89"
+  },
+  {
+   "unit": "C122_w1",
+   "entry_id": "C122",
+   "char": "у̂",
+   "group": "historical",
+   "word": "ду̂мка",
+   "source": "Максимович"
+  },
+  {
+   "unit": "C123_w0",
+   "entry_id": "C123",
+   "char": "У̂",
+   "group": "historical",
+   "word": "ЗАМУ̂ЖЪ",
+   "source": "капітель; Максимович, с. 89"
+  },
+  {
+   "unit": "C123_w1",
+   "entry_id": "C123",
+   "char": "У̂",
+   "group": "historical",
+   "word": "У̂жъ",
+   "source": "Максимович"
+  },
+  {
+   "unit": "C124_w0",
+   "entry_id": "C124",
+   "char": "и̂",
+   "group": "historical",
+   "word": "добри̂",
+   "source": "Максимович, с. 89"
+  },
+  {
+   "unit": "C124_w1",
+   "entry_id": "C124",
+   "char": "и̂",
+   "group": "historical",
+   "word": "женци̂",
+   "source": "Максимович"
+  },
+  {
+   "unit": "C125_w0",
+   "entry_id": "C125",
+   "char": "И̂",
+   "group": "historical",
+   "word": "ДОБРИ̂",
+   "source": "капітель; Максимович, с. 89"
+  },
+  {
+   "unit": "C125_w1",
+   "entry_id": "C125",
+   "char": "И̂",
+   "group": "historical",
+   "word": "ЖЕНЦИ̂",
+   "source": "капітель; Максимович"
+  },
+  {
+   "unit": "C126_w0",
+   "entry_id": "C126",
+   "char": "а́",
+   "group": "historical",
+   "word": "ла́вочныця",
+   "source": "Павловський 1818, с. 40"
+  },
+  {
+   "unit": "C126_w1",
+   "entry_id": "C126",
+   "char": "а́",
+   "group": "historical",
+   "word": "хва́рба",
+   "source": "Павловський 1818, с. 40"
+  },
+  {
+   "unit": "C127_w0",
+   "entry_id": "C127",
+   "char": "А́",
+   "group": "historical",
+   "word": "А́збука",
+   "source": "Куліш 1857, с. 75"
+  },
+  {
+   "unit": "C127_w1",
+   "entry_id": "C127",
+   "char": "А́",
+   "group": "historical",
+   "word": "А́нна",
+   "source": "наголос на початку"
+  },
+  {
+   "unit": "C128_w0",
+   "entry_id": "C128",
+   "char": "а̀",
+   "group": "historical",
+   "word": "кра̀ще",
+   "source": "Шевченко 1861, с. 69"
+  },
+  {
+   "unit": "C128_w1",
+   "entry_id": "C128",
+   "char": "а̀",
+   "group": "historical",
+   "word": "бра̀томъ",
+   "source": "Шевченко 1861, с. 69"
+  },
+  {
+   "unit": "C129_w0",
+   "entry_id": "C129",
+   "char": "А̀",
+   "group": "historical",
+   "word": "А̀нна",
+   "source": "наголос на початку"
+  },
+  {
+   "unit": "C129_w1",
+   "entry_id": "C129",
+   "char": "А̀",
+   "group": "historical",
+   "word": "КРА̀ЩЕ",
+   "source": "капітель; Шевченко 1861, с. 69"
+  },
+  {
+   "unit": "C130_w0",
+   "entry_id": "C130",
+   "char": "g",
+   "group": "historical",
+   "word": "gвалтъ",
+   "source": "кулішівка (латинська g), Вікіпедія"
+  },
+  {
+   "unit": "C130_w1",
+   "entry_id": "C130",
+   "char": "g",
+   "group": "historical",
+   "word": "gудзь",
+   "source": "кулішівка (латинська g), Вікіпедія"
+  },
+  {
+   "unit": "C131_w0",
+   "entry_id": "C131",
+   "char": "G",
+   "group": "historical",
+   "word": "Gвалтъ",
+   "source": "кулішівка"
+  },
+  {
+   "unit": "C131_w1",
+   "entry_id": "C131",
+   "char": "G",
+   "group": "historical",
+   "word": "Gанокъ",
+   "source": "кулішівка"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "weights": "Google Drive 1cn0t_I3mUDjKSx9Na0dNHB0nPa0fDf1I (vatr.pth), sha256 65b67f1738bf74d5bf612f7f35e2c8c9560568d7efe422beb9132e1bb68bbef8",
+ "code": "aimagelab/VATr@183501e02113 generator.py VATr_writer",
+ "settings": "алфавіт розширено на 93 символів: ʼ̀́̂ЁЄІЇАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёєіїѢѣѦѧѮѯѰѱѲѳѴѵҐґ’Ꙋꙋ",
+ "deviations": [
+  "15 зразків стилю — 5 слів, кожне тричі (FolderDataset бере 15 без повторень)"
+ ],
+ "model": "vatr_extended",
+ "status": "loaded",
+ "device": "cuda",
+ "torch": "2.11.0+cu130",
+ "transformers": "5.20.2",
+ "diffusers": "0.41.0",
+ "python": "/usr/bin/python3",
+ "started": "2026-10-24T18:25:19+00:00"
+}

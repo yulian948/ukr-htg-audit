@@ -1,0 +1,594 @@
+{
+ "fonts": [
+  {
+   "name": "Amatic SC",
+   "source": "google_fonts",
+   "group": "google_fonts",
+   "path": "repos/google-fonts/ofl/amaticsc/AmaticSC-Regular.ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/amaticsc/AmaticSC-Regular.ttf",
+   "id": "F001",
+   "sha256": "513a76f96d39a5366bd27c258674aaea35ee51c42b8f3060387f74649ee8c8aa"
+  },
+  {
+   "name": "Bad Script",
+   "source": "google_fonts",
+   "group": "google_fonts",
+   "path": "repos/google-fonts/ofl/badscript/BadScript-Regular.ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/badscript/BadScript-Regular.ttf",
+   "id": "F002",
+   "sha256": "40ec737eee65ec4efbc24ae636fa31d7d84d1ccca83ab54cd555edb72cb3eaf0"
+  },
+  {
+   "name": "Caveat",
+   "source": "google_fonts",
+   "group": "google_fonts",
+   "path": "repos/google-fonts/ofl/caveat/Caveat[wght].ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/caveat/Caveat[wght].ttf",
+   "id": "F003",
+   "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+  },
+  {
+   "name": "Comforter",
+   "source": "google_fonts",
+   "group": "google_fonts",
+   "path": "repos/google-fonts/ofl/comforter/Comforter-Regular.ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/comforter/Comforter-Regular.ttf",
+   "id": "F004",
+   "sha256": "2852da85b2fbfd37ccd87387f3578a251cb9a8814fbab22c4487f792936a2267"
+  },
+  {
+   "name": "Comforter Brush",
+   "source": "google_fonts",
+   "group": "google_fonts",
+   "path": "repos/google-fonts/ofl/comforterbrush/ComforterBrush-Regular.ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/comforterbrush/ComforterBrush-Regular.ttf",
+   "id": "F005",
+   "sha256": "7bd357dc8bf83d71f27fd5155ece5c8c100a2042d4530e4487635473c5836f95"
+  },
+  {
+   "name": "Great Vibes",
+   "source": "google_fonts",
+   "group": "google_fonts",
+   "path": "repos/google-fonts/ofl/greatvibes/GreatVibes-Regular.ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/greatvibes/GreatVibes-Regular.ttf",
+   "id": "F006",
+   "sha256": "8d509802186f1b51572531ecf313e8098f9a5bfdfaca93f0c9b34467f9982d15"
+  },
+  {
+   "name": "Hachi Maru Pop",
+   "source": "google_fonts",
+   "group": "google_fonts",
+   "path": "repos/google-fonts/ofl/hachimarupop/HachiMaruPop-Regular.ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/hachimarupop/HachiMaruPop-Regular.ttf",
+   "id": "F007",
+   "sha256": "78408910c8f1a2f174a279cbc1484b48b71780039eba3fe1be2bfcc5d4df3f98"
+  },
+  {
+   "name": "Klee One",
+   "source": "google_fonts",
+   "group": "google_fonts",
+   "path": "repos/google-fonts/ofl/kleeone/KleeOne-Regular.ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/kleeone/KleeOne-Regular.ttf",
+   "id": "F008",
+   "sha256": "bf4063f030cc2ae6adf0a11424a1888e5c0eb4438f1f6d02f52294af868e9b3a"
+  },
+  {
+   "name": "LXGW WenKai TC",
+   "source": "google_fonts",
+   "group": "google_fonts",
+   "path": "repos/google-fonts/ofl/lxgwwenkaitc/LXGWWenKaiTC-Regular.ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/lxgwwenkaitc/LXGWWenKaiTC-Regular.ttf",
+   "id": "F009",
+   "sha256": "4fcc5aec11cbbf737b0cfab7b63796f7f280087a7a656b2f13342cd5e5318d95"
+  },
+  {
+   "name": "Marck Script",
+   "source": "google_fonts",
+   "group": "google_fonts",
+   "path": "repos/google-fonts/ofl/marckscript/MarckScript-Regular.ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/marckscript/MarckScript-Regular.ttf",
+   "id": "F010",
+   "sha256": "504de8cc6f919163bc9afb67b9bc208d258230c5e8d00cb82ec52474f9fafc3b"
+  },
+  {
+   "name": "Neucha",
+   "source": "google_fonts",
+   "group": "google_fonts",
+   "path": "repos/google-fonts/ofl/neucha/Neucha.ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/neucha/Neucha.ttf",
+   "id": "F011",
+   "sha256": "7927bd6ce090fa032857dcbc3ad0e8b765c462d0a72a8779068132496b4e087d"
+  },
+  {
+   "name": "Pacifico",
+   "source": "google_fonts",
+   "group": "google_fonts",
+   "path": "repos/google-fonts/ofl/pacifico/Pacifico-Regular.ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/pacifico/Pacifico-Regular.ttf",
+   "id": "F012",
+   "sha256": "5b6c0d5334a7bf77dea52b975c5a0c408878c0f7115ed5b6fb151f634b7bf701"
+  },
+  {
+   "name": "Pangolin",
+   "source": "google_fonts",
+   "group": "google_fonts",
+   "path": "repos/google-fonts/ofl/pangolin/Pangolin-Regular.ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/pangolin/Pangolin-Regular.ttf",
+   "id": "F013",
+   "sha256": "cf4f0a46704c7859d4943320fce6c6d06cc7dc450ef971c3676ef36f9f482299"
+  },
+  {
+   "name": "Playpen Sans",
+   "source": "google_fonts",
+   "group": "google_fonts",
+   "path": "repos/google-fonts/ofl/playpensans/PlaypenSans[wght].ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/playpensans/PlaypenSans[wght].ttf",
+   "id": "F014",
+   "sha256": "e083f9da8be210e08ea982ab510894641aab37590e70620d6db73f8de881ec4a"
+  },
+  {
+   "name": "Yomogi",
+   "source": "google_fonts",
+   "group": "google_fonts",
+   "path": "repos/google-fonts/ofl/yomogi/Yomogi-Regular.ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/yomogi/Yomogi-Regular.ttf",
+   "id": "F015",
+   "sha256": "ec280f473a03187292905618f24fdb08a6dcbf8620b52637e3b589fe745259b9"
+  },
+  {
+   "name": "Shantell Sans",
+   "source": "google_fonts",
+   "group": "google_fonts_classification",
+   "path": "repos/google-fonts/ofl/shantellsans/ShantellSans[BNCE,INFM,SPAC,wght].ttf",
+   "license": "OFL",
+   "ref": "google/fonts@e7db6ca603fd:ofl/shantellsans/ShantellSans[BNCE,INFM,SPAC,wght].ttf",
+   "id": "F016",
+   "sha256": "d98a7913853f78d71aa0b86daf66b5eddb5a3266c07bfd51ef70632b88c41084"
+  },
+  {
+   "name": "Kobzar KS",
+   "source": "kobzar",
+   "group": "kobzar",
+   "path": "kobzar/KobzarKS_v1-020.otf",
+   "license": "Київстар (безоплатна, з обмеженнями)",
+   "ref": "Wayback 2015-01-23: KobzarKS_v1-020.otf",
+   "id": "F017",
+   "sha256": "ff64b568b5ecd601be27b5012a1f0181bf386245e33358d8efef60144d7c8a7f"
+  },
+  {
+   "name": "Abram",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Abram.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Abram.ttf",
+   "id": "F018",
+   "sha256": "d4df465c1a2a6c7f1b79c83b91ac14946380326d452f46236e4bae23b181f6d6"
+  },
+  {
+   "name": "AdventureC - AdventureC - Regular",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/AdventureC - AdventureC - Regular.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/AdventureC - AdventureC - Regular.ttf",
+   "id": "F019",
+   "sha256": "bd50ba55dec26251e773f34a902fc91650457de23399b4aa75447a0d9d4e2ce9"
+  },
+  {
+   "name": "AllegrettoScriptOneC - Allegretto Script OneC - Regular",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/AllegrettoScriptOneC - Allegretto Script OneC - Regular.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/AllegrettoScriptOneC - Allegretto Script OneC - Regular.ttf",
+   "id": "F020",
+   "sha256": "46861d8fecd61a452333b4c6b1018a7e52edd8b7a21c47ab227f1b9099f26041"
+  },
+  {
+   "name": "AllegrettoScriptTwoC - Allegretto Script TwoC - Regular",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/AllegrettoScriptTwoC - Allegretto Script TwoC - Regular.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/AllegrettoScriptTwoC - Allegretto Script TwoC - Regular.ttf",
+   "id": "F021",
+   "sha256": "aac029c7c8e4a8cf843b660c47d795b4e884aaf170040d6ac6c6534dde96786f"
+  },
+  {
+   "name": "AllegroScript - AllegroScript - Italic",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/AllegroScript - AllegroScript - Italic.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/AllegroScript - AllegroScript - Italic.ttf",
+   "id": "F022",
+   "sha256": "190bf24b0971a3cfddaa1d7d9ff7527f43926177891e61c56f4df25c1d6a584e"
+  },
+  {
+   "name": "AnastasiaScript - AnastasiaScript - Regular",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/AnastasiaScript - AnastasiaScript - Regular.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/AnastasiaScript - AnastasiaScript - Regular.ttf",
+   "id": "F023",
+   "sha256": "099853a8282d6f99566a6feaf2fd5612cbb0553326a5fa8dff1bd45134b6b9db"
+  },
+  {
+   "name": "AnastasiaScriptC - AnastasiaScriptC - Regular",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/AnastasiaScriptC - AnastasiaScriptC - Regular.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/AnastasiaScriptC - AnastasiaScriptC - Regular.ttf",
+   "id": "F024",
+   "sha256": "7ddbf8cacc11f9184ec0b1ffe703417ede33f7dec5d0fbd133d39f6e6ff09fac"
+  },
+  {
+   "name": "Anselmo",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Anselmo.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Anselmo.ttf",
+   "id": "F025",
+   "sha256": "39e35ab3e1117fb1a4714ef2756c8ac853eb0a43ffc94910fce57189b6414e35"
+  },
+  {
+   "name": "Benvolio",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Benvolio.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Benvolio.ttf",
+   "id": "F026",
+   "sha256": "f53803d90dc65bc43aa752c974fd9648b81a061285254825fc6caf6494fb6295"
+  },
+  {
+   "name": "Blink-Script",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Blink-Script.otf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Blink-Script.otf",
+   "id": "F027",
+   "sha256": "d63a30859bad1464e8c2ee7b641f00435229764a179a30f34de7d60c40182cc8"
+  },
+  {
+   "name": "Capuletty",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Capuletty.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Capuletty.ttf",
+   "id": "F028",
+   "sha256": "81dcbcd7c6d001e69822e7deef33b22254572792c7c5d2867b4bf2b507fa83f3"
+  },
+  {
+   "name": "Celestina",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Celestina.otf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Celestina.otf",
+   "id": "F029",
+   "sha256": "e5a1ff3f2eee06c01b4c5b13c6b0374ce3cc1a7a134a485f2663cae5ebe1fb20"
+  },
+  {
+   "name": "Djiovanni",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Djiovanni.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Djiovanni.ttf",
+   "id": "F030",
+   "sha256": "08caff8eb36810ce9893d177b60e33170652d6426f8aa1eb06e41e462e35932f"
+  },
+  {
+   "name": "EnglishScript - English Script - Regular",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/EnglishScript - English Script - Regular.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/EnglishScript - English Script - Regular.ttf",
+   "id": "F031",
+   "sha256": "48bf4be8fae6420f1889dc2c857f823f348e31216fc593c39ff162b507d5876b"
+  },
+  {
+   "name": "Eskal",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Eskal.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Eskal.ttf",
+   "id": "F032",
+   "sha256": "463100cc567bf84feca237e39fc7851c327352540ad527b17e41dc1d82c9736a"
+  },
+  {
+   "name": "Gogol - Gogol - Regular",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Gogol - Gogol - Regular.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Gogol - Gogol - Regular.ttf",
+   "id": "F033",
+   "sha256": "47b43d67b051b1c41387547fe12eb4822ab963feb2a88c7ffc2d1796287293a2"
+  },
+  {
+   "name": "Gogol",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Gogol.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Gogol.ttf",
+   "id": "F034",
+   "sha256": "47b43d67b051b1c41387547fe12eb4822ab963feb2a88c7ffc2d1796287293a2"
+  },
+  {
+   "name": "Gregory",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Gregory.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Gregory.ttf",
+   "id": "F035",
+   "sha256": "f28b4653514021d3ed89a6df96cafc5759fc57e5f58562d6a260656f5ec20a3a"
+  },
+  {
+   "name": "Lemon-Tuesday",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Lemon-Tuesday.otf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Lemon-Tuesday.otf",
+   "id": "F036",
+   "sha256": "26f9cbab96aae4ddddb0159ffa0b96d34463262652754d1bcc84e683b517fa74"
+  },
+  {
+   "name": "Lorenco",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Lorenco.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Lorenco.ttf",
+   "id": "F037",
+   "sha256": "105121f8649eca899e6913eff7e9106e482e76ff7a20aaae566f9055a4a13e93"
+  },
+  {
+   "name": "LudvigvanBethoveen - Ludvig van Bethoveen - Regular",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/LudvigvanBethoveen - Ludvig van Bethoveen - Regular.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/LudvigvanBethoveen - Ludvig van Bethoveen - Regular.ttf",
+   "id": "F038",
+   "sha256": "d24e1a13a66e84773dfdc3472b4899c04733c2e1e5ddf809f1f25da47fbc4c02"
+  },
+  {
+   "name": "Merkucio",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Merkucio.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Merkucio.ttf",
+   "id": "F039",
+   "sha256": "e768a975c82dac96956121d4bb73739e5101ce495ff6f667d85ecddb7f6f0155"
+  },
+  {
+   "name": "Montekky",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Montekky.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Montekky.ttf",
+   "id": "F040",
+   "sha256": "b8944a344f593bc4c26cac15e2f91e2113adde6fa62422e50038ed5f8bf7bd74"
+  },
+  {
+   "name": "NinaC",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/NinaC.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/NinaC.ttf",
+   "id": "F041",
+   "sha256": "f0cc6294ea78700ac57b0753fb8d3aad4775b337840cd2b9fa483243f5598a64"
+  },
+  {
+   "name": "NinaCTT - NinaCTT - Normal",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/NinaCTT - NinaCTT - Normal.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/NinaCTT - NinaCTT - Normal.ttf",
+   "id": "F042",
+   "sha256": "7faab9912af1e33d320609d312fc667b32d49a13353734bbcc222189d07db712"
+  },
+  {
+   "name": "PFScandalPro-Reg",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/PFScandalPro-Reg.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/PFScandalPro-Reg.ttf",
+   "id": "F043",
+   "sha256": "93f027e638de318b6743429bc1d451b495859c88fa3f04c1e793bb0136c4d53d"
+  },
+  {
+   "name": "Pag",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Pag.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Pag.ttf",
+   "id": "F044",
+   "sha256": "a8c8ab140cc3e7da7c12841817d7cf294bd91db689a3f86d3cb412cac8a2bb7d"
+  },
+  {
+   "name": "Paris",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Paris.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Paris.ttf",
+   "id": "F045",
+   "sha256": "e251be8d69aced1286f86cb291e5e25b7eb9cfb8bb66d43ca1e53583f225c3b5"
+  },
+  {
+   "name": "Pinata-Celestina",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Pinata-Celestina.otf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Pinata-Celestina.otf",
+   "id": "F046",
+   "sha256": "e5a1ff3f2eee06c01b4c5b13c6b0374ce3cc1a7a134a485f2663cae5ebe1fb20"
+  },
+  {
+   "name": "Samson",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Samson.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Samson.ttf",
+   "id": "F047",
+   "sha256": "fefd0f536a8753eff48add0d1ba6c69191ef696cd9b27e779282be372ccb345d"
+  },
+  {
+   "name": "ShellyAllegroC - ShellyAllegroC - Regular",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/ShellyAllegroC - ShellyAllegroC - Regular.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/ShellyAllegroC - ShellyAllegroC - Regular.ttf",
+   "id": "F048",
+   "sha256": "ef8c243c2735cc51104b0f0465958e34c048bc8c9eb75c17db729c23f281907b"
+  },
+  {
+   "name": "StudioScriptC",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/StudioScriptC.otf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/StudioScriptC.otf",
+   "id": "F049",
+   "sha256": "e1033f4d22ff5bfbc523bfc51dd0853984ed8e900a18865cf36c619cde3f6bdf"
+  },
+  {
+   "name": "Tibalt",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/Tibalt.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/Tibalt.ttf",
+   "id": "F050",
+   "sha256": "d569233a9405270c645da5ee742b89de39c731c05547cff2e168ec7e54eb16b1"
+  },
+  {
+   "name": "UkrainianChance - UkrainianChance - Regular",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/UkrainianChance - UkrainianChance - Regular.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/UkrainianChance - UkrainianChance - Regular.ttf",
+   "id": "F051",
+   "sha256": "794e28e5e8391107b1179e85a19d67b59ac60513ff34a452be739ccce2bb5077"
+  },
+  {
+   "name": "WolfgangAmadeusMozart - Wolfgang Amadeus Mozart - Regular",
+   "source": "ukrainian-handwriting-synth",
+   "group": "ukrainian-handwriting-synth",
+   "path": "repos/ukrainian-handwriting-synth/fonts/WolfgangAmadeusMozart - Wolfgang Amadeus Mozart - Regular.ttf",
+   "license": "не вказано",
+   "ref": "ukrainian-handwriting-synth@ce2022f3fbd6:fonts/WolfgangAmadeusMozart - Wolfgang Amadeus Mozart - Regular.ttf",
+   "id": "F052",
+   "sha256": "1a4ecc0c700d47116eb17117e469f529b1751268051fae94e956fc70091b2dd6"
+  },
+  {
+   "name": "Finding_Beauty",
+   "source": "doc_gen",
+   "group": "doc_gen",
+   "path": "repos/doc-gen/Finding_Beauty.ttf",
+   "license": "не вказано",
+   "ref": "doc_gen@40062f0189a6:Finding_Beauty.ttf",
+   "id": "F053",
+   "sha256": "666147d9977382022b0e7ec2891bbd0c95832280cf9026b901afa3f31280d8f3"
+  },
+  {
+   "name": "LITERPLA",
+   "source": "doc_gen",
+   "group": "doc_gen",
+   "path": "repos/doc-gen/LITERPLA.ttf",
+   "license": "не вказано",
+   "ref": "doc_gen@40062f0189a6:LITERPLA.ttf",
+   "id": "F054",
+   "sha256": "d541b48333f13b0101a4986d8f03844be1f48c2f74e04de2e708df2316042705"
+  },
+  {
+   "name": "Melon_Font_-_Free_Trial",
+   "source": "doc_gen",
+   "group": "doc_gen",
+   "path": "repos/doc-gen/Melon_Font_-_Free_Trial.ttf",
+   "license": "не вказано",
+   "ref": "doc_gen@40062f0189a6:Melon_Font_-_Free_Trial.ttf",
+   "id": "F055",
+   "sha256": "e9976c3a43aab67b3add676d3a1d3a1de577ac78c8f99c2d89901d16668885f5"
+  },
+  {
+   "name": "comic",
+   "source": "doc_gen",
+   "group": "doc_gen",
+   "path": "repos/doc-gen/comic.ttf",
+   "license": "не вказано",
+   "ref": "doc_gen@40062f0189a6:comic.ttf",
+   "id": "F056",
+   "sha256": "50bcf0e276b680ba64c0a9faf33de9bc074dc92b43a9c2590e838acbc10cfce2"
+  },
+  {
+   "name": "gtw",
+   "source": "doc_gen",
+   "group": "doc_gen",
+   "path": "repos/doc-gen/gtw.ttf",
+   "license": "не вказано",
+   "ref": "doc_gen@40062f0189a6:gtw.ttf",
+   "id": "F057",
+   "sha256": "820a2ba4885aae303170b7e76d81d41c98a45ae18f124a5fda9255019ec48d4c"
+  },
+  {
+   "name": "koala",
+   "source": "doc_gen",
+   "group": "doc_gen",
+   "path": "repos/doc-gen/koala.ttf",
+   "license": "не вказано",
+   "ref": "doc_gen@40062f0189a6:koala.ttf",
+   "id": "F058",
+   "sha256": "f7399f889ce5518396c986452a3b51c2f007baf568bf226daa4c4ed431830393"
+  },
+  {
+   "name": "luckytw",
+   "source": "doc_gen",
+   "group": "doc_gen",
+   "path": "repos/doc-gen/luckytw.ttf",
+   "license": "не вказано",
+   "ref": "doc_gen@40062f0189a6:luckytw.ttf",
+   "id": "F059",
+   "sha256": "b9d49a0ad5e92d264877b05893bdb2b4718c129670e48c3d8cc006a38251cad7"
+  }
+ ]
+}

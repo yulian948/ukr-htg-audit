@@ -1,0 +1,16 @@
+{
+ "weights": "blowing-up-groundhogs/emuru@c75b78dd6ea0306123ad5a12b18b9ae4a927e149",
+ "code": "AutoModel (trust_remote_code), model.generate",
+ "settings": "max_new_tokens 64 (картка моделі)",
+ "deviations": [
+  "Стиль — наш рядок із 5 слів, складених з окремих зображень, і його транскрипція"
+ ],
+ "model": "emuru",
+ "status": "loaded",
+ "device": "cuda",
+ "torch": "2.11.0+cu130",
+ "transformers": "4.54.0",
+ "diffusers": "0.34.0",
+ "python": "/content/venv_emuru/bin/python",
+ "started": "2026-10-24T16:40:54+00:00"
+}

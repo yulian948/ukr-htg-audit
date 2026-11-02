@@ -1,0 +1,2664 @@
+{
+ "encoder": "generator.py FakeArgs: alphabet 80 (IAM) + special_alphabet 49 (грецька)",
+ "paths": {
+  "generator.py → netconverter.encode": {
+   "level1": {
+    "C001": {
+     "status": "error",
+     "error": "KeyError: 'а'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C002": {
+     "status": "error",
+     "error": "KeyError: 'А'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C003": {
+     "status": "error",
+     "error": "KeyError: 'б'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C004": {
+     "status": "error",
+     "error": "KeyError: 'Б'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C005": {
+     "status": "error",
+     "error": "KeyError: 'в'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C006": {
+     "status": "error",
+     "error": "KeyError: 'В'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C007": {
+     "status": "error",
+     "error": "KeyError: 'г'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C008": {
+     "status": "error",
+     "error": "KeyError: 'Г'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C009": {
+     "status": "error",
+     "error": "KeyError: 'ґ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C010": {
+     "status": "error",
+     "error": "KeyError: 'Ґ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C011": {
+     "status": "error",
+     "error": "KeyError: 'д'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C012": {
+     "status": "error",
+     "error": "KeyError: 'Д'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C013": {
+     "status": "error",
+     "error": "KeyError: 'е'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C014": {
+     "status": "error",
+     "error": "KeyError: 'Е'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C015": {
+     "status": "error",
+     "error": "KeyError: 'є'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C016": {
+     "status": "error",
+     "error": "KeyError: 'Є'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C017": {
+     "status": "error",
+     "error": "KeyError: 'ж'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C018": {
+     "status": "error",
+     "error": "KeyError: 'Ж'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C019": {
+     "status": "error",
+     "error": "KeyError: 'з'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C020": {
+     "status": "error",
+     "error": "KeyError: 'З'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C021": {
+     "status": "error",
+     "error": "KeyError: 'и'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C022": {
+     "status": "error",
+     "error": "KeyError: 'И'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C023": {
+     "status": "error",
+     "error": "KeyError: 'і'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C024": {
+     "status": "error",
+     "error": "KeyError: 'І'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C025": {
+     "status": "error",
+     "error": "KeyError: 'ї'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C026": {
+     "status": "error",
+     "error": "KeyError: 'Ї'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C027": {
+     "status": "error",
+     "error": "KeyError: 'й'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C028": {
+     "status": "error",
+     "error": "KeyError: 'Й'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C029": {
+     "status": "error",
+     "error": "KeyError: 'к'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C030": {
+     "status": "error",
+     "error": "KeyError: 'К'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C031": {
+     "status": "error",
+     "error": "KeyError: 'л'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C032": {
+     "status": "error",
+     "error": "KeyError: 'Л'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C033": {
+     "status": "error",
+     "error": "KeyError: 'м'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C034": {
+     "status": "error",
+     "error": "KeyError: 'М'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C035": {
+     "status": "error",
+     "error": "KeyError: 'н'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C036": {
+     "status": "error",
+     "error": "KeyError: 'Н'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C037": {
+     "status": "error",
+     "error": "KeyError: 'о'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C038": {
+     "status": "error",
+     "error": "KeyError: 'О'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C039": {
+     "status": "error",
+     "error": "KeyError: 'п'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C040": {
+     "status": "error",
+     "error": "KeyError: 'П'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C041": {
+     "status": "error",
+     "error": "KeyError: 'р'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C042": {
+     "status": "error",
+     "error": "KeyError: 'Р'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C043": {
+     "status": "error",
+     "error": "KeyError: 'с'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C044": {
+     "status": "error",
+     "error": "KeyError: 'С'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C045": {
+     "status": "error",
+     "error": "KeyError: 'т'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C046": {
+     "status": "error",
+     "error": "KeyError: 'Т'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C047": {
+     "status": "error",
+     "error": "KeyError: 'у'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C048": {
+     "status": "error",
+     "error": "KeyError: 'У'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C049": {
+     "status": "error",
+     "error": "KeyError: 'ф'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C050": {
+     "status": "error",
+     "error": "KeyError: 'Ф'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C051": {
+     "status": "error",
+     "error": "KeyError: 'х'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C052": {
+     "status": "error",
+     "error": "KeyError: 'Х'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C053": {
+     "status": "error",
+     "error": "KeyError: 'ц'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C054": {
+     "status": "error",
+     "error": "KeyError: 'Ц'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C055": {
+     "status": "error",
+     "error": "KeyError: 'ч'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C056": {
+     "status": "error",
+     "error": "KeyError: 'Ч'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C057": {
+     "status": "error",
+     "error": "KeyError: 'ш'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C058": {
+     "status": "error",
+     "error": "KeyError: 'Ш'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C059": {
+     "status": "error",
+     "error": "KeyError: 'щ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C060": {
+     "status": "error",
+     "error": "KeyError: 'Щ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C061": {
+     "status": "error",
+     "error": "KeyError: 'ь'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C062": {
+     "status": "error",
+     "error": "KeyError: 'Ь'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C063": {
+     "status": "error",
+     "error": "KeyError: 'ю'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C064": {
+     "status": "error",
+     "error": "KeyError: 'Ю'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C065": {
+     "status": "error",
+     "error": "KeyError: 'я'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C066": {
+     "status": "error",
+     "error": "KeyError: 'Я'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C067": {
+     "status": "error",
+     "error": "KeyError: 'ʼ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C068": {
+     "status": "error",
+     "error": "KeyError: '’'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C069": {
+     "status": "ok",
+     "output": "'"
+    },
+    "C070": {
+     "status": "ok",
+     "output": "."
+    },
+    "C071": {
+     "status": "ok",
+     "output": "?"
+    },
+    "C072": {
+     "status": "ok",
+     "output": "!"
+    },
+    "C073": {
+     "status": "ok",
+     "output": ","
+    },
+    "C074": {
+     "status": "ok",
+     "output": ";"
+    },
+    "C075": {
+     "status": "ok",
+     "output": ":"
+    },
+    "C076": {
+     "status": "error",
+     "error": "KeyError: '—'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C077": {
+     "status": "error",
+     "error": "KeyError: '–'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C078": {
+     "status": "error",
+     "error": "KeyError: '…'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C079": {
+     "status": "ok",
+     "output": "("
+    },
+    "C080": {
+     "status": "ok",
+     "output": ")"
+    },
+    "C081": {
+     "status": "error",
+     "error": "KeyError: '['",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C082": {
+     "status": "error",
+     "error": "KeyError: ']'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C083": {
+     "status": "error",
+     "error": "KeyError: '<'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C084": {
+     "status": "error",
+     "error": "KeyError: '>'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C085": {
+     "status": "error",
+     "error": "KeyError: '«'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C086": {
+     "status": "error",
+     "error": "KeyError: '»'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C087": {
+     "status": "error",
+     "error": "KeyError: '„'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C088": {
+     "status": "error",
+     "error": "KeyError: '“'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C089": {
+     "status": "error",
+     "error": "KeyError: '”'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C090": {
+     "status": "ok",
+     "output": "\""
+    },
+    "C091": {
+     "status": "ok",
+     "output": "-"
+    },
+    "C092": {
+     "status": "error",
+     "error": "KeyError: '‐'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C093": {
+     "status": "ok",
+     "output": "/"
+    },
+    "C094": {
+     "status": "error",
+     "error": "KeyError: 'ы'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C095": {
+     "status": "error",
+     "error": "KeyError: 'Ы'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C096": {
+     "status": "error",
+     "error": "KeyError: 'ъ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C097": {
+     "status": "error",
+     "error": "KeyError: 'Ъ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C098": {
+     "status": "error",
+     "error": "KeyError: 'ѣ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C099": {
+     "status": "error",
+     "error": "KeyError: 'Ѣ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C100": {
+     "status": "error",
+     "error": "KeyError: 'ѳ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C101": {
+     "status": "error",
+     "error": "KeyError: 'Ѳ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C102": {
+     "status": "error",
+     "error": "KeyError: 'ѵ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C103": {
+     "status": "error",
+     "error": "KeyError: 'Ѵ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C104": {
+     "status": "error",
+     "error": "KeyError: 'ё'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C105": {
+     "status": "error",
+     "error": "KeyError: 'Ё'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C106": {
+     "status": "error",
+     "error": "KeyError: 'э'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C107": {
+     "status": "error",
+     "error": "KeyError: 'Э'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C108": {
+     "status": "ok",
+     "output": "j"
+    },
+    "C109": {
+     "status": "ok",
+     "output": "J"
+    },
+    "C110": {
+     "status": "error",
+     "error": "KeyError: 'ѯ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C111": {
+     "status": "error",
+     "error": "KeyError: 'Ѯ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C112": {
+     "status": "error",
+     "error": "KeyError: 'ѱ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C113": {
+     "status": "error",
+     "error": "KeyError: 'Ѱ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C114": {
+     "status": "error",
+     "error": "KeyError: 'ꙋ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C115": {
+     "status": "error",
+     "error": "KeyError: 'Ꙋ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C116": {
+     "status": "error",
+     "error": "KeyError: 'ѧ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C117": {
+     "status": "error",
+     "error": "KeyError: 'Ѧ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C118": {
+     "status": "error",
+     "error": "KeyError: 'о'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C119": {
+     "status": "error",
+     "error": "KeyError: 'О'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C120": {
+     "status": "error",
+     "error": "KeyError: 'е'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C121": {
+     "status": "error",
+     "error": "KeyError: 'Е'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C122": {
+     "status": "error",
+     "error": "KeyError: 'у'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C123": {
+     "status": "error",
+     "error": "KeyError: 'У'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C124": {
+     "status": "error",
+     "error": "KeyError: 'и'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C125": {
+     "status": "error",
+     "error": "KeyError: 'И'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C126": {
+     "status": "error",
+     "error": "KeyError: 'а'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C127": {
+     "status": "error",
+     "error": "KeyError: 'А'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C128": {
+     "status": "error",
+     "error": "KeyError: 'а'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C129": {
+     "status": "error",
+     "error": "KeyError: 'А'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C130": {
+     "status": "ok",
+     "output": "g"
+    },
+    "C131": {
+     "status": "ok",
+     "output": "G"
+    }
+   },
+   "level2": {
+    "quick": {
+     "input": "ґєіїʼ ыъѣ",
+     "status": "error",
+     "error": "KeyError: 'ґ'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "pangram": {
+     "input": "Чуєш їх, доцю, га? Кумедна ж ти, прощайся без ґольфів!",
+     "status": "error",
+     "error": "KeyError: 'Ч'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "apostrophe_variants": {
+     "input": "пʼять мʼята п’ять м’ята п'ять м'ята",
+     "status": "error",
+     "error": "KeyError: 'п'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "punctuation_line": {
+     "input": "Він сказав: «Іди сюди — „зараз“ (не завтра)!» Що?! Ну… Ну... Добре, так; гаразд-гаразд [див. <…>] і/або “інше” „рукописне”.",
+     "status": "error",
+     "error": "KeyError: 'В'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "historical_line": {
+     "input": "сынъ свѣтъ ѳеодоръ ѵпостась ёго эхо jак ѱалтирь ꙋкраїна ѧкъ мо̂й до́бре",
+     "status": "error",
+     "error": "KeyError: 'с'",
+     "where": {
+      "ref": "models/OCR_network.py:265",
+      "code": "index = self.dict[char]"
+     }
+    }
+   }
+  },
+  "mytext.txt → models/model.py:410 → netconverter.encode": {
+   "level1": {
+    "C001": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C002": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C003": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C004": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C005": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C006": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C007": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C008": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C009": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C010": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C011": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C012": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C013": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C014": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C015": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C016": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C017": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C018": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C019": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C020": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C021": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C022": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C023": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C024": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C025": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C026": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C027": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C028": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C029": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C030": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C031": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C032": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C033": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C034": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C035": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C036": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C037": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C038": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C039": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C040": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C041": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C042": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C043": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C044": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C045": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C046": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C047": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C048": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C049": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C050": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C051": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C052": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C053": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C054": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C055": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C056": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C057": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C058": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C059": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C060": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C061": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C062": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C063": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C064": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C065": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C066": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C067": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C068": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C069": {
+     "status": "ok",
+     "output": "'"
+    },
+    "C070": {
+     "status": "ok",
+     "output": "."
+    },
+    "C071": {
+     "status": "ok",
+     "output": "?"
+    },
+    "C072": {
+     "status": "ok",
+     "output": "!"
+    },
+    "C073": {
+     "status": "ok",
+     "output": ","
+    },
+    "C074": {
+     "status": "ok",
+     "output": ";"
+    },
+    "C075": {
+     "status": "ok",
+     "output": ":"
+    },
+    "C076": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C077": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C078": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C079": {
+     "status": "ok",
+     "output": "("
+    },
+    "C080": {
+     "status": "ok",
+     "output": ")"
+    },
+    "C081": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C082": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C083": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C084": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C085": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C086": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C087": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C088": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C089": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C090": {
+     "status": "ok",
+     "output": "\""
+    },
+    "C091": {
+     "status": "ok",
+     "output": "-"
+    },
+    "C092": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C093": {
+     "status": "ok",
+     "output": "/"
+    },
+    "C094": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C095": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C096": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C097": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C098": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C099": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C100": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C101": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C102": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C103": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C104": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C105": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C106": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C107": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C108": {
+     "status": "ok",
+     "output": "j"
+    },
+    "C109": {
+     "status": "ok",
+     "output": "J"
+    },
+    "C110": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C111": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C112": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C113": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C114": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C115": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C116": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C117": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C118": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C119": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C120": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C121": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C122": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C123": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C124": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C125": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C126": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C127": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C128": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C129": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "C130": {
+     "status": "ok",
+     "output": "g"
+    },
+    "C131": {
+     "status": "ok",
+     "output": "G"
+    }
+   },
+   "level2": {
+    "quick": {
+     "input": "ґєіїʼ ыъѣ",
+     "status": "error",
+     "error": "RuntimeError: received an empty list of sequences",
+     "where": {
+      "ref": "models/OCR_network.py:270",
+      "code": "return torch.nn.utils.rnn.pad_sequence([torch.LongTensor(text) for text in results], batch_first=True), torch.IntTensor(length), None"
+     }
+    },
+    "pangram": {
+     "input": "Чуєш їх, доцю, га? Кумедна ж ти, прощайся без ґольфів!",
+     "output": ", , ? , !",
+     "lost": [
+      "Чуєш їх",
+      "доцю",
+      "га",
+      "Кумедна ж ти",
+      "прощайся без ґольфів"
+     ],
+     "changed": [],
+     "status": "lost",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "apostrophe_variants": {
+     "input": "пʼять мʼята п’ять м’ята п'ять м'ята",
+     "output": "' '",
+     "lost": [
+      "мʼята п’ять м’ята п",
+      "ять м'ята"
+     ],
+     "changed": [
+      [
+       "пʼять",
+       "'"
+      ]
+     ],
+     "status": "lossy",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "punctuation_line": {
+     "input": "Він сказав: «Іди сюди — „зараз“ (не завтра)!» Що?! Ну… Ну... Добре, так; гаразд-гаразд [див. <…>] і/або “інше” „рукописне”.",
+     "output": ": ( )! ?! ... , ; - . / .",
+     "lost": [
+      "Він сказав",
+      "сюди — „зараз“ (не завтра",
+      "»",
+      "Що",
+      "Ну… Ну",
+      "Добре",
+      "так",
+      "гаразд",
+      "гаразд",
+      "[див",
+      "і/або “інше” „рукописне”"
+     ],
+     "changed": [
+      [
+       "«Іди",
+       "("
+      ],
+      [
+       "<…>]",
+       "/"
+      ]
+     ],
+     "status": "lossy",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    },
+    "historical_line": {
+     "input": "сынъ свѣтъ ѳеодоръ ѵпостась ёго эхо jак ѱалтирь ꙋкраїна ѧкъ мо̂й до́бре",
+     "output": "j",
+     "lost": [
+      "сынъ свѣтъ ѳеодоръ ѵпостась ёго эхо ",
+      "ак ѱалтирь ꙋкраїна ѧкъ мо̂й до́бре"
+     ],
+     "changed": [],
+     "status": "lost",
+     "where": {
+      "ref": "models/model.py:410",
+      "code": "self.text = ''.join(c for c in self.text if c in (self.args.alphabet + self.args.special_alphabet))  # just to avoid problems with the font dataset"
+     }
+    }
+   }
+  }
+ },
+ "glyphs": {
+  "file": "files/unifont.pickle",
+  "n_symbols": 55659,
+  "entries": {
+   "C001": {
+    "status": "ok",
+    "missing": []
+   },
+   "C002": {
+    "status": "ok",
+    "missing": []
+   },
+   "C003": {
+    "status": "ok",
+    "missing": []
+   },
+   "C004": {
+    "status": "ok",
+    "missing": []
+   },
+   "C005": {
+    "status": "ok",
+    "missing": []
+   },
+   "C006": {
+    "status": "ok",
+    "missing": []
+   },
+   "C007": {
+    "status": "ok",
+    "missing": []
+   },
+   "C008": {
+    "status": "ok",
+    "missing": []
+   },
+   "C009": {
+    "status": "ok",
+    "missing": []
+   },
+   "C010": {
+    "status": "ok",
+    "missing": []
+   },
+   "C011": {
+    "status": "ok",
+    "missing": []
+   },
+   "C012": {
+    "status": "ok",
+    "missing": []
+   },
+   "C013": {
+    "status": "ok",
+    "missing": []
+   },
+   "C014": {
+    "status": "ok",
+    "missing": []
+   },
+   "C015": {
+    "status": "ok",
+    "missing": []
+   },
+   "C016": {
+    "status": "ok",
+    "missing": []
+   },
+   "C017": {
+    "status": "ok",
+    "missing": []
+   },
+   "C018": {
+    "status": "ok",
+    "missing": []
+   },
+   "C019": {
+    "status": "ok",
+    "missing": []
+   },
+   "C020": {
+    "status": "ok",
+    "missing": []
+   },
+   "C021": {
+    "status": "ok",
+    "missing": []
+   },
+   "C022": {
+    "status": "ok",
+    "missing": []
+   },
+   "C023": {
+    "status": "ok",
+    "missing": []
+   },
+   "C024": {
+    "status": "ok",
+    "missing": []
+   },
+   "C025": {
+    "status": "ok",
+    "missing": []
+   },
+   "C026": {
+    "status": "ok",
+    "missing": []
+   },
+   "C027": {
+    "status": "ok",
+    "missing": []
+   },
+   "C028": {
+    "status": "ok",
+    "missing": []
+   },
+   "C029": {
+    "status": "ok",
+    "missing": []
+   },
+   "C030": {
+    "status": "ok",
+    "missing": []
+   },
+   "C031": {
+    "status": "ok",
+    "missing": []
+   },
+   "C032": {
+    "status": "ok",
+    "missing": []
+   },
+   "C033": {
+    "status": "ok",
+    "missing": []
+   },
+   "C034": {
+    "status": "ok",
+    "missing": []
+   },
+   "C035": {
+    "status": "ok",
+    "missing": []
+   },
+   "C036": {
+    "status": "ok",
+    "missing": []
+   },
+   "C037": {
+    "status": "ok",
+    "missing": []
+   },
+   "C038": {
+    "status": "ok",
+    "missing": []
+   },
+   "C039": {
+    "status": "ok",
+    "missing": []
+   },
+   "C040": {
+    "status": "ok",
+    "missing": []
+   },
+   "C041": {
+    "status": "ok",
+    "missing": []
+   },
+   "C042": {
+    "status": "ok",
+    "missing": []
+   },
+   "C043": {
+    "status": "ok",
+    "missing": []
+   },
+   "C044": {
+    "status": "ok",
+    "missing": []
+   },
+   "C045": {
+    "status": "ok",
+    "missing": []
+   },
+   "C046": {
+    "status": "ok",
+    "missing": []
+   },
+   "C047": {
+    "status": "ok",
+    "missing": []
+   },
+   "C048": {
+    "status": "ok",
+    "missing": []
+   },
+   "C049": {
+    "status": "ok",
+    "missing": []
+   },
+   "C050": {
+    "status": "ok",
+    "missing": []
+   },
+   "C051": {
+    "status": "ok",
+    "missing": []
+   },
+   "C052": {
+    "status": "ok",
+    "missing": []
+   },
+   "C053": {
+    "status": "ok",
+    "missing": []
+   },
+   "C054": {
+    "status": "ok",
+    "missing": []
+   },
+   "C055": {
+    "status": "ok",
+    "missing": []
+   },
+   "C056": {
+    "status": "ok",
+    "missing": []
+   },
+   "C057": {
+    "status": "ok",
+    "missing": []
+   },
+   "C058": {
+    "status": "ok",
+    "missing": []
+   },
+   "C059": {
+    "status": "ok",
+    "missing": []
+   },
+   "C060": {
+    "status": "ok",
+    "missing": []
+   },
+   "C061": {
+    "status": "ok",
+    "missing": []
+   },
+   "C062": {
+    "status": "ok",
+    "missing": []
+   },
+   "C063": {
+    "status": "ok",
+    "missing": []
+   },
+   "C064": {
+    "status": "ok",
+    "missing": []
+   },
+   "C065": {
+    "status": "ok",
+    "missing": []
+   },
+   "C066": {
+    "status": "ok",
+    "missing": []
+   },
+   "C067": {
+    "status": "ok",
+    "missing": []
+   },
+   "C068": {
+    "status": "ok",
+    "missing": []
+   },
+   "C069": {
+    "status": "ok",
+    "missing": []
+   },
+   "C070": {
+    "status": "ok",
+    "missing": []
+   },
+   "C071": {
+    "status": "ok",
+    "missing": []
+   },
+   "C072": {
+    "status": "ok",
+    "missing": []
+   },
+   "C073": {
+    "status": "ok",
+    "missing": []
+   },
+   "C074": {
+    "status": "ok",
+    "missing": []
+   },
+   "C075": {
+    "status": "ok",
+    "missing": []
+   },
+   "C076": {
+    "status": "ok",
+    "missing": []
+   },
+   "C077": {
+    "status": "ok",
+    "missing": []
+   },
+   "C078": {
+    "status": "ok",
+    "missing": []
+   },
+   "C079": {
+    "status": "ok",
+    "missing": []
+   },
+   "C080": {
+    "status": "ok",
+    "missing": []
+   },
+   "C081": {
+    "status": "ok",
+    "missing": []
+   },
+   "C082": {
+    "status": "ok",
+    "missing": []
+   },
+   "C083": {
+    "status": "ok",
+    "missing": []
+   },
+   "C084": {
+    "status": "ok",
+    "missing": []
+   },
+   "C085": {
+    "status": "ok",
+    "missing": []
+   },
+   "C086": {
+    "status": "ok",
+    "missing": []
+   },
+   "C087": {
+    "status": "ok",
+    "missing": []
+   },
+   "C088": {
+    "status": "ok",
+    "missing": []
+   },
+   "C089": {
+    "status": "ok",
+    "missing": []
+   },
+   "C090": {
+    "status": "ok",
+    "missing": []
+   },
+   "C091": {
+    "status": "ok",
+    "missing": []
+   },
+   "C092": {
+    "status": "ok",
+    "missing": []
+   },
+   "C093": {
+    "status": "ok",
+    "missing": []
+   },
+   "C094": {
+    "status": "ok",
+    "missing": []
+   },
+   "C095": {
+    "status": "ok",
+    "missing": []
+   },
+   "C096": {
+    "status": "ok",
+    "missing": []
+   },
+   "C097": {
+    "status": "ok",
+    "missing": []
+   },
+   "C098": {
+    "status": "ok",
+    "missing": []
+   },
+   "C099": {
+    "status": "ok",
+    "missing": []
+   },
+   "C100": {
+    "status": "ok",
+    "missing": []
+   },
+   "C101": {
+    "status": "ok",
+    "missing": []
+   },
+   "C102": {
+    "status": "ok",
+    "missing": []
+   },
+   "C103": {
+    "status": "ok",
+    "missing": []
+   },
+   "C104": {
+    "status": "ok",
+    "missing": []
+   },
+   "C105": {
+    "status": "ok",
+    "missing": []
+   },
+   "C106": {
+    "status": "ok",
+    "missing": []
+   },
+   "C107": {
+    "status": "ok",
+    "missing": []
+   },
+   "C108": {
+    "status": "ok",
+    "missing": []
+   },
+   "C109": {
+    "status": "ok",
+    "missing": []
+   },
+   "C110": {
+    "status": "ok",
+    "missing": []
+   },
+   "C111": {
+    "status": "ok",
+    "missing": []
+   },
+   "C112": {
+    "status": "ok",
+    "missing": []
+   },
+   "C113": {
+    "status": "ok",
+    "missing": []
+   },
+   "C114": {
+    "status": "ok",
+    "missing": []
+   },
+   "C115": {
+    "status": "ok",
+    "missing": []
+   },
+   "C116": {
+    "status": "ok",
+    "missing": []
+   },
+   "C117": {
+    "status": "ok",
+    "missing": []
+   },
+   "C118": {
+    "status": "ok",
+    "missing": []
+   },
+   "C119": {
+    "status": "ok",
+    "missing": []
+   },
+   "C120": {
+    "status": "ok",
+    "missing": []
+   },
+   "C121": {
+    "status": "ok",
+    "missing": []
+   },
+   "C122": {
+    "status": "ok",
+    "missing": []
+   },
+   "C123": {
+    "status": "ok",
+    "missing": []
+   },
+   "C124": {
+    "status": "ok",
+    "missing": []
+   },
+   "C125": {
+    "status": "ok",
+    "missing": []
+   },
+   "C126": {
+    "status": "ok",
+    "missing": []
+   },
+   "C127": {
+    "status": "ok",
+    "missing": []
+   },
+   "C128": {
+    "status": "ok",
+    "missing": []
+   },
+   "C129": {
+    "status": "ok",
+    "missing": []
+   },
+   "C130": {
+    "status": "ok",
+    "missing": []
+   },
+   "C131": {
+    "status": "ok",
+    "missing": []
+   }
+  }
+ },
+ "status": "ok",
+ "method": "VATr",
+ "inventory_version": "0.3.0",
+ "environment": {
+  "python": "3.12.8",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "torch": "2.14.1",
+  "transformers": "5.20.2",
+  "numpy": "2.5.4"
+ },
+ "checked_at": "2026-10-23T15:38:25+00:00",
+ "source": "github aimagelab/VATr",
+ "revision": "183501e02113a3b4b636f2a2c5443771501c8f2b"
+}

@@ -1,0 +1,427 @@
+{
+ "google_fonts_commit": "e7db6ca603fd4862010383ff17ffd6cc4ffac1c0",
+ "criterion": "category = HANDWRITING і subsets ∋ cyrillic; додатково classifications ∋ HANDWRITING",
+ "n_families_total": 2040,
+ "n_handwriting_category": 356,
+ "n_handwriting_cyrillic": 15,
+ "handwriting_cyrillic": [
+  "Amatic SC",
+  "Bad Script",
+  "Caveat",
+  "Comforter",
+  "Comforter Brush",
+  "Great Vibes",
+  "Hachi Maru Pop",
+  "Klee One",
+  "LXGW WenKai TC",
+  "Marck Script",
+  "Neucha",
+  "Pacifico",
+  "Pangolin",
+  "Playpen Sans",
+  "Yomogi"
+ ],
+ "classifications_only_cyrillic": [
+  "Shantell Sans"
+ ],
+ "selected": [
+  {
+   "family": "Amatic SC",
+   "dir": "ofl/amaticsc",
+   "license_dir": "ofl",
+   "category": [
+    "HANDWRITING"
+   ],
+   "classifications": [
+    "DISPLAY"
+   ],
+   "subsets": [
+    "cyrillic",
+    "hebrew",
+    "latin",
+    "latin-ext",
+    "menu",
+    "vietnamese"
+   ],
+   "files": [
+    "AmaticSC-Regular.ttf",
+    "AmaticSC-Bold.ttf"
+   ],
+   "paths": [
+    "ofl/amaticsc/AmaticSC-Regular.ttf",
+    "ofl/amaticsc/AmaticSC-Bold.ttf"
+   ]
+  },
+  {
+   "family": "Bad Script",
+   "dir": "ofl/badscript",
+   "license_dir": "ofl",
+   "category": [
+    "HANDWRITING"
+   ],
+   "classifications": [],
+   "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "menu",
+    "vietnamese"
+   ],
+   "files": [
+    "BadScript-Regular.ttf"
+   ],
+   "paths": [
+    "ofl/badscript/BadScript-Regular.ttf"
+   ]
+  },
+  {
+   "family": "Caveat",
+   "dir": "ofl/caveat",
+   "license_dir": "ofl",
+   "category": [
+    "HANDWRITING"
+   ],
+   "classifications": [],
+   "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "menu"
+   ],
+   "files": [
+    "Caveat[wght].ttf"
+   ],
+   "paths": [
+    "ofl/caveat/Caveat[wght].ttf"
+   ]
+  },
+  {
+   "family": "Comforter",
+   "dir": "ofl/comforter",
+   "license_dir": "ofl",
+   "category": [
+    "HANDWRITING"
+   ],
+   "classifications": [
+    "DISPLAY",
+    "HANDWRITING"
+   ],
+   "subsets": [
+    "cyrillic",
+    "latin",
+    "latin-ext",
+    "menu",
+    "vietnamese"
+   ],
+   "files": [
+    "Comforter-Regular.ttf"
+   ],
+   "paths": [
+    "ofl/comforter/Comforter-Regular.ttf"
+   ]
+  },
+  {
+   "family": "Comforter Brush",
+   "dir": "ofl/comforterbrush",
+   "license_dir": "ofl",
+   "category": [
+    "HANDWRITING"
+   ],
+   "classifications": [
+    "DISPLAY",
+    "HANDWRITING"
+   ],
+   "subsets": [
+    "cyrillic",
+    "latin",
+    "latin-ext",
+    "menu",
+    "vietnamese"
+   ],
+   "files": [
+    "ComforterBrush-Regular.ttf"
+   ],
+   "paths": [
+    "ofl/comforterbrush/ComforterBrush-Regular.ttf"
+   ]
+  },
+  {
+   "family": "Great Vibes",
+   "dir": "ofl/greatvibes",
+   "license_dir": "ofl",
+   "category": [
+    "HANDWRITING"
+   ],
+   "classifications": [
+    "DISPLAY",
+    "HANDWRITING"
+   ],
+   "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "menu",
+    "vietnamese"
+   ],
+   "files": [
+    "GreatVibes-Regular.ttf"
+   ],
+   "paths": [
+    "ofl/greatvibes/GreatVibes-Regular.ttf"
+   ]
+  },
+  {
+   "family": "Hachi Maru Pop",
+   "dir": "ofl/hachimarupop",
+   "license_dir": "ofl",
+   "category": [
+    "HANDWRITING"
+   ],
+   "classifications": [
+    "DISPLAY",
+    "HANDWRITING"
+   ],
+   "subsets": [
+    "cyrillic",
+    "japanese",
+    "latin",
+    "latin-ext",
+    "menu"
+   ],
+   "files": [
+    "HachiMaruPop-Regular.ttf"
+   ],
+   "paths": [
+    "ofl/hachimarupop/HachiMaruPop-Regular.ttf"
+   ]
+  },
+  {
+   "family": "Klee One",
+   "dir": "ofl/kleeone",
+   "license_dir": "ofl",
+   "category": [
+    "HANDWRITING"
+   ],
+   "classifications": [],
+   "subsets": [
+    "cyrillic",
+    "greek-ext",
+    "japanese",
+    "latin",
+    "latin-ext",
+    "menu"
+   ],
+   "files": [
+    "KleeOne-Regular.ttf",
+    "KleeOne-SemiBold.ttf"
+   ],
+   "paths": [
+    "ofl/kleeone/KleeOne-Regular.ttf",
+    "ofl/kleeone/KleeOne-SemiBold.ttf"
+   ]
+  },
+  {
+   "family": "LXGW WenKai TC",
+   "dir": "ofl/lxgwwenkaitc",
+   "license_dir": "ofl",
+   "category": [
+    "HANDWRITING"
+   ],
+   "classifications": [
+    "HANDWRITING"
+   ],
+   "subsets": [
+    "chinese-traditional",
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "lisu",
+    "menu",
+    "vietnamese"
+   ],
+   "files": [
+    "LXGWWenKaiTC-Light.ttf",
+    "LXGWWenKaiTC-Regular.ttf",
+    "LXGWWenKaiTC-Bold.ttf"
+   ],
+   "paths": [
+    "ofl/lxgwwenkaitc/LXGWWenKaiTC-Light.ttf",
+    "ofl/lxgwwenkaitc/LXGWWenKaiTC-Regular.ttf",
+    "ofl/lxgwwenkaitc/LXGWWenKaiTC-Bold.ttf"
+   ]
+  },
+  {
+   "family": "Marck Script",
+   "dir": "ofl/marckscript",
+   "license_dir": "ofl",
+   "category": [
+    "HANDWRITING"
+   ],
+   "classifications": [
+    "DISPLAY",
+    "HANDWRITING"
+   ],
+   "subsets": [
+    "menu",
+    "cyrillic",
+    "latin",
+    "latin-ext"
+   ],
+   "files": [
+    "MarckScript-Regular.ttf"
+   ],
+   "paths": [
+    "ofl/marckscript/MarckScript-Regular.ttf"
+   ]
+  },
+  {
+   "family": "Neucha",
+   "dir": "ofl/neucha",
+   "license_dir": "ofl",
+   "category": [
+    "HANDWRITING"
+   ],
+   "classifications": [],
+   "subsets": [
+    "menu",
+    "cyrillic",
+    "latin"
+   ],
+   "files": [
+    "Neucha.ttf"
+   ],
+   "paths": [
+    "ofl/neucha/Neucha.ttf"
+   ]
+  },
+  {
+   "family": "Pacifico",
+   "dir": "ofl/pacifico",
+   "license_dir": "ofl",
+   "category": [
+    "HANDWRITING"
+   ],
+   "classifications": [],
+   "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "menu",
+    "vietnamese"
+   ],
+   "files": [
+    "Pacifico-Regular.ttf"
+   ],
+   "paths": [
+    "ofl/pacifico/Pacifico-Regular.ttf"
+   ]
+  },
+  {
+   "family": "Pangolin",
+   "dir": "ofl/pangolin",
+   "license_dir": "ofl",
+   "category": [
+    "HANDWRITING"
+   ],
+   "classifications": [],
+   "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "menu",
+    "vietnamese"
+   ],
+   "files": [
+    "Pangolin-Regular.ttf"
+   ],
+   "paths": [
+    "ofl/pangolin/Pangolin-Regular.ttf"
+   ]
+  },
+  {
+   "family": "Playpen Sans",
+   "dir": "ofl/playpensans",
+   "license_dir": "ofl",
+   "category": [
+    "HANDWRITING"
+   ],
+   "classifications": [],
+   "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "emoji",
+    "greek",
+    "latin",
+    "latin-ext",
+    "math",
+    "menu",
+    "vietnamese"
+   ],
+   "files": [
+    "PlaypenSans[wght].ttf"
+   ],
+   "paths": [
+    "ofl/playpensans/PlaypenSans[wght].ttf"
+   ]
+  },
+  {
+   "family": "Yomogi",
+   "dir": "ofl/yomogi",
+   "license_dir": "ofl",
+   "category": [
+    "HANDWRITING"
+   ],
+   "classifications": [],
+   "subsets": [
+    "cyrillic",
+    "japanese",
+    "latin",
+    "latin-ext",
+    "menu",
+    "vietnamese"
+   ],
+   "files": [
+    "Yomogi-Regular.ttf"
+   ],
+   "paths": [
+    "ofl/yomogi/Yomogi-Regular.ttf"
+   ]
+  },
+  {
+   "family": "Shantell Sans",
+   "dir": "ofl/shantellsans",
+   "license_dir": "ofl",
+   "category": [
+    "DISPLAY"
+   ],
+   "classifications": [
+    "HANDWRITING"
+   ],
+   "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "menu",
+    "vietnamese"
+   ],
+   "files": [
+    "ShantellSans[BNCE,INFM,SPAC,wght].ttf",
+    "ShantellSans-Italic[BNCE,INFM,SPAC,wght].ttf"
+   ],
+   "paths": [
+    "ofl/shantellsans/ShantellSans[BNCE,INFM,SPAC,wght].ttf",
+    "ofl/shantellsans/ShantellSans-Italic[BNCE,INFM,SPAC,wght].ttf"
+   ]
+  }
+ ]
+}

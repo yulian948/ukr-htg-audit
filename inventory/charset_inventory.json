@@ -1,0 +1,2457 @@
+{
+  "inventory_version": "0.3.0",
+  "built": "2026-10-23",
+  "unicode_version": "16.0.0",
+  "sources": {
+    "alphabet": "Сучасна українська абетка, 33 літери",
+    "apostrophe_punctuation": "Український правопис (2019): § 7, 138, 151 (апостроф); розд. V, § 155–168 (розділові знаки)",
+    "historical": [
+      "Німчук В. В., Пуряєва Н. В. (упор.) Історія українського правопису: XVI–XX століття. Хрестоматія. К.: Наукова думка, 2004. Електронна копія: Електронна бібліотека Інституту історії України НАН України, resource.history.org.ua/item/0007903",
+      "Вікіпедія: Кулішівка (латинська g; переглянуто 23.10.2026)"
+    ],
+    "key_handwritten_form": "Чинні прописи для 1 класу (обраний еталон)"
+  },
+  "groups": {
+    "alphabet": "33 літери в обох регістрах (66 знаків)",
+    "apostrophe": "Апостроф у трьох кодуваннях",
+    "punctuation": "Розділові знаки правопису 2019; role=alternative — поширені кодові заміни",
+    "historical": "status=core — названі в пропозиції; attested — засвідчені в системах XIX — поч. XX ст. (сторінки хрестоматії Німчука в note)"
+  },
+  "excluded_historical": {
+    "ѕ ѡ ѫ ѹ": "Гатцук 1861 перелічує їх серед вилучених із церковної абетки (с. 83); у системах XIX ст. не вживаються",
+    "ј (кирилична)": "Драгоманівка вживала латинську j (с. 161) — див. запис j",
+    "а̂ і̂": "Максимович: серед знаків для [і] не названі (с. 89)",
+    "надрядкові знаки Гатцука": "Система 1861 р. мала багато надрядкових знаків і не поширилася (с. 82); до інвентарю взято лише ꙋ і ѧ"
+  },
+  "test_strings": {
+    "quick": "ґєіїʼ ыъѣ",
+    "pangram": "Чуєш їх, доцю, га? Кумедна ж ти, прощайся без ґольфів!",
+    "apostrophe_variants": "пʼять мʼята п’ять м’ята п'ять м'ята",
+    "punctuation_line": "Він сказав: «Іди сюди — „зараз“ (не завтра)!» Що?! Ну… Ну... Добре, так; гаразд-гаразд [див. <…>] і/або “інше” „рукописне”.",
+    "historical_line": "сынъ свѣтъ ѳеодоръ ѵпостась ёго эхо jак ѱалтирь ꙋкраїна ѧкъ мо̂й до́бре",
+    "all_chars": "аАбБвВгГґҐдДеЕєЄжЖзЗиИіІїЇйЙкКлЛмМнНоОпПрРсСтТуУфФхХцЦчЧшШщЩьЬюЮяЯʼ’'.?!,;:—–…()[]<>«»„“”\"-‐/ыЫъЪѣѢѳѲѵѴёЁэЭjJѯѮѱѰꙋꙊѧѦо̂О̂е̂Е̂у̂У̂и̂И̂а́А́а̀А̀gG"
+  },
+  "entries": [
+    {
+      "char": "а",
+      "codepoints": [
+        "U+0430"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER A"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "А",
+      "alphabet_index": 1,
+      "key_handwritten_form": false,
+      "id": "C001"
+    },
+    {
+      "char": "А",
+      "codepoints": [
+        "U+0410"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER A"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "а",
+      "alphabet_index": 1,
+      "key_handwritten_form": false,
+      "id": "C002"
+    },
+    {
+      "char": "б",
+      "codepoints": [
+        "U+0431"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER BE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Б",
+      "alphabet_index": 2,
+      "key_handwritten_form": true,
+      "id": "C003"
+    },
+    {
+      "char": "Б",
+      "codepoints": [
+        "U+0411"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER BE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "б",
+      "alphabet_index": 2,
+      "key_handwritten_form": false,
+      "id": "C004"
+    },
+    {
+      "char": "в",
+      "codepoints": [
+        "U+0432"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER VE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "В",
+      "alphabet_index": 3,
+      "key_handwritten_form": true,
+      "id": "C005"
+    },
+    {
+      "char": "В",
+      "codepoints": [
+        "U+0412"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER VE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "в",
+      "alphabet_index": 3,
+      "key_handwritten_form": false,
+      "id": "C006"
+    },
+    {
+      "char": "г",
+      "codepoints": [
+        "U+0433"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER GHE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Г",
+      "alphabet_index": 4,
+      "key_handwritten_form": true,
+      "id": "C007"
+    },
+    {
+      "char": "Г",
+      "codepoints": [
+        "U+0413"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER GHE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "г",
+      "alphabet_index": 4,
+      "key_handwritten_form": false,
+      "id": "C008"
+    },
+    {
+      "char": "ґ",
+      "codepoints": [
+        "U+0491"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER GHE WITH UPTURN"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Ґ",
+      "alphabet_index": 5,
+      "key_handwritten_form": false,
+      "id": "C009"
+    },
+    {
+      "char": "Ґ",
+      "codepoints": [
+        "U+0490"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER GHE WITH UPTURN"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "ґ",
+      "alphabet_index": 5,
+      "key_handwritten_form": false,
+      "id": "C010"
+    },
+    {
+      "char": "д",
+      "codepoints": [
+        "U+0434"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER DE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Д",
+      "alphabet_index": 6,
+      "key_handwritten_form": true,
+      "id": "C011"
+    },
+    {
+      "char": "Д",
+      "codepoints": [
+        "U+0414"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER DE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "д",
+      "alphabet_index": 6,
+      "key_handwritten_form": false,
+      "id": "C012"
+    },
+    {
+      "char": "е",
+      "codepoints": [
+        "U+0435"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER IE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Е",
+      "alphabet_index": 7,
+      "key_handwritten_form": false,
+      "id": "C013"
+    },
+    {
+      "char": "Е",
+      "codepoints": [
+        "U+0415"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER IE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "е",
+      "alphabet_index": 7,
+      "key_handwritten_form": false,
+      "id": "C014"
+    },
+    {
+      "char": "є",
+      "codepoints": [
+        "U+0454"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER UKRAINIAN IE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Є",
+      "alphabet_index": 8,
+      "key_handwritten_form": false,
+      "id": "C015"
+    },
+    {
+      "char": "Є",
+      "codepoints": [
+        "U+0404"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER UKRAINIAN IE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "є",
+      "alphabet_index": 8,
+      "key_handwritten_form": false,
+      "id": "C016"
+    },
+    {
+      "char": "ж",
+      "codepoints": [
+        "U+0436"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER ZHE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Ж",
+      "alphabet_index": 9,
+      "key_handwritten_form": false,
+      "id": "C017"
+    },
+    {
+      "char": "Ж",
+      "codepoints": [
+        "U+0416"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER ZHE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "ж",
+      "alphabet_index": 9,
+      "key_handwritten_form": false,
+      "id": "C018"
+    },
+    {
+      "char": "з",
+      "codepoints": [
+        "U+0437"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER ZE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "З",
+      "alphabet_index": 10,
+      "key_handwritten_form": true,
+      "id": "C019"
+    },
+    {
+      "char": "З",
+      "codepoints": [
+        "U+0417"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER ZE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "з",
+      "alphabet_index": 10,
+      "key_handwritten_form": false,
+      "id": "C020"
+    },
+    {
+      "char": "и",
+      "codepoints": [
+        "U+0438"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER I"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "И",
+      "alphabet_index": 11,
+      "key_handwritten_form": true,
+      "id": "C021"
+    },
+    {
+      "char": "И",
+      "codepoints": [
+        "U+0418"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER I"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "и",
+      "alphabet_index": 11,
+      "key_handwritten_form": false,
+      "id": "C022"
+    },
+    {
+      "char": "і",
+      "codepoints": [
+        "U+0456"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "І",
+      "alphabet_index": 12,
+      "key_handwritten_form": false,
+      "id": "C023"
+    },
+    {
+      "char": "І",
+      "codepoints": [
+        "U+0406"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "і",
+      "alphabet_index": 12,
+      "key_handwritten_form": false,
+      "id": "C024"
+    },
+    {
+      "char": "ї",
+      "codepoints": [
+        "U+0457"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER YI"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": [
+        "U+0456",
+        "U+0308"
+      ],
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Ї",
+      "alphabet_index": 13,
+      "key_handwritten_form": false,
+      "id": "C025"
+    },
+    {
+      "char": "Ї",
+      "codepoints": [
+        "U+0407"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER YI"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": [
+        "U+0406",
+        "U+0308"
+      ],
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "ї",
+      "alphabet_index": 13,
+      "key_handwritten_form": false,
+      "id": "C026"
+    },
+    {
+      "char": "й",
+      "codepoints": [
+        "U+0439"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER SHORT I"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": [
+        "U+0438",
+        "U+0306"
+      ],
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Й",
+      "alphabet_index": 14,
+      "key_handwritten_form": false,
+      "id": "C027"
+    },
+    {
+      "char": "Й",
+      "codepoints": [
+        "U+0419"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER SHORT I"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": [
+        "U+0418",
+        "U+0306"
+      ],
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "й",
+      "alphabet_index": 14,
+      "key_handwritten_form": false,
+      "id": "C028"
+    },
+    {
+      "char": "к",
+      "codepoints": [
+        "U+043A"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER KA"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "К",
+      "alphabet_index": 15,
+      "key_handwritten_form": false,
+      "id": "C029"
+    },
+    {
+      "char": "К",
+      "codepoints": [
+        "U+041A"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER KA"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "к",
+      "alphabet_index": 15,
+      "key_handwritten_form": false,
+      "id": "C030"
+    },
+    {
+      "char": "л",
+      "codepoints": [
+        "U+043B"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER EL"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Л",
+      "alphabet_index": 16,
+      "key_handwritten_form": false,
+      "id": "C031"
+    },
+    {
+      "char": "Л",
+      "codepoints": [
+        "U+041B"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER EL"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "л",
+      "alphabet_index": 16,
+      "key_handwritten_form": false,
+      "id": "C032"
+    },
+    {
+      "char": "м",
+      "codepoints": [
+        "U+043C"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER EM"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "М",
+      "alphabet_index": 17,
+      "key_handwritten_form": false,
+      "id": "C033"
+    },
+    {
+      "char": "М",
+      "codepoints": [
+        "U+041C"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER EM"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "м",
+      "alphabet_index": 17,
+      "key_handwritten_form": false,
+      "id": "C034"
+    },
+    {
+      "char": "н",
+      "codepoints": [
+        "U+043D"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER EN"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Н",
+      "alphabet_index": 18,
+      "key_handwritten_form": false,
+      "id": "C035"
+    },
+    {
+      "char": "Н",
+      "codepoints": [
+        "U+041D"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER EN"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "н",
+      "alphabet_index": 18,
+      "key_handwritten_form": false,
+      "id": "C036"
+    },
+    {
+      "char": "о",
+      "codepoints": [
+        "U+043E"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER O"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "О",
+      "alphabet_index": 19,
+      "key_handwritten_form": false,
+      "id": "C037"
+    },
+    {
+      "char": "О",
+      "codepoints": [
+        "U+041E"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER O"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "о",
+      "alphabet_index": 19,
+      "key_handwritten_form": false,
+      "id": "C038"
+    },
+    {
+      "char": "п",
+      "codepoints": [
+        "U+043F"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER PE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "П",
+      "alphabet_index": 20,
+      "key_handwritten_form": true,
+      "id": "C039"
+    },
+    {
+      "char": "П",
+      "codepoints": [
+        "U+041F"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER PE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "п",
+      "alphabet_index": 20,
+      "key_handwritten_form": false,
+      "id": "C040"
+    },
+    {
+      "char": "р",
+      "codepoints": [
+        "U+0440"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER ER"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Р",
+      "alphabet_index": 21,
+      "key_handwritten_form": false,
+      "id": "C041"
+    },
+    {
+      "char": "Р",
+      "codepoints": [
+        "U+0420"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER ER"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "р",
+      "alphabet_index": 21,
+      "key_handwritten_form": false,
+      "id": "C042"
+    },
+    {
+      "char": "с",
+      "codepoints": [
+        "U+0441"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER ES"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "С",
+      "alphabet_index": 22,
+      "key_handwritten_form": false,
+      "id": "C043"
+    },
+    {
+      "char": "С",
+      "codepoints": [
+        "U+0421"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER ES"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "с",
+      "alphabet_index": 22,
+      "key_handwritten_form": false,
+      "id": "C044"
+    },
+    {
+      "char": "т",
+      "codepoints": [
+        "U+0442"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER TE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Т",
+      "alphabet_index": 23,
+      "key_handwritten_form": true,
+      "id": "C045"
+    },
+    {
+      "char": "Т",
+      "codepoints": [
+        "U+0422"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER TE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "т",
+      "alphabet_index": 23,
+      "key_handwritten_form": false,
+      "id": "C046"
+    },
+    {
+      "char": "у",
+      "codepoints": [
+        "U+0443"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER U"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "У",
+      "alphabet_index": 24,
+      "key_handwritten_form": false,
+      "id": "C047"
+    },
+    {
+      "char": "У",
+      "codepoints": [
+        "U+0423"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER U"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "у",
+      "alphabet_index": 24,
+      "key_handwritten_form": false,
+      "id": "C048"
+    },
+    {
+      "char": "ф",
+      "codepoints": [
+        "U+0444"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER EF"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Ф",
+      "alphabet_index": 25,
+      "key_handwritten_form": false,
+      "id": "C049"
+    },
+    {
+      "char": "Ф",
+      "codepoints": [
+        "U+0424"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER EF"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "ф",
+      "alphabet_index": 25,
+      "key_handwritten_form": false,
+      "id": "C050"
+    },
+    {
+      "char": "х",
+      "codepoints": [
+        "U+0445"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER HA"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Х",
+      "alphabet_index": 26,
+      "key_handwritten_form": false,
+      "id": "C051"
+    },
+    {
+      "char": "Х",
+      "codepoints": [
+        "U+0425"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER HA"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "х",
+      "alphabet_index": 26,
+      "key_handwritten_form": false,
+      "id": "C052"
+    },
+    {
+      "char": "ц",
+      "codepoints": [
+        "U+0446"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER TSE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Ц",
+      "alphabet_index": 27,
+      "key_handwritten_form": false,
+      "id": "C053"
+    },
+    {
+      "char": "Ц",
+      "codepoints": [
+        "U+0426"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER TSE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "ц",
+      "alphabet_index": 27,
+      "key_handwritten_form": false,
+      "id": "C054"
+    },
+    {
+      "char": "ч",
+      "codepoints": [
+        "U+0447"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER CHE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Ч",
+      "alphabet_index": 28,
+      "key_handwritten_form": false,
+      "id": "C055"
+    },
+    {
+      "char": "Ч",
+      "codepoints": [
+        "U+0427"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER CHE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "ч",
+      "alphabet_index": 28,
+      "key_handwritten_form": false,
+      "id": "C056"
+    },
+    {
+      "char": "ш",
+      "codepoints": [
+        "U+0448"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER SHA"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Ш",
+      "alphabet_index": 29,
+      "key_handwritten_form": true,
+      "id": "C057"
+    },
+    {
+      "char": "Ш",
+      "codepoints": [
+        "U+0428"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER SHA"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "ш",
+      "alphabet_index": 29,
+      "key_handwritten_form": false,
+      "id": "C058"
+    },
+    {
+      "char": "щ",
+      "codepoints": [
+        "U+0449"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER SHCHA"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Щ",
+      "alphabet_index": 30,
+      "key_handwritten_form": false,
+      "id": "C059"
+    },
+    {
+      "char": "Щ",
+      "codepoints": [
+        "U+0429"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER SHCHA"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "щ",
+      "alphabet_index": 30,
+      "key_handwritten_form": false,
+      "id": "C060"
+    },
+    {
+      "char": "ь",
+      "codepoints": [
+        "U+044C"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER SOFT SIGN"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Ь",
+      "alphabet_index": 31,
+      "key_handwritten_form": false,
+      "id": "C061"
+    },
+    {
+      "char": "Ь",
+      "codepoints": [
+        "U+042C"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER SOFT SIGN"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "ь",
+      "alphabet_index": 31,
+      "key_handwritten_form": false,
+      "id": "C062"
+    },
+    {
+      "char": "ю",
+      "codepoints": [
+        "U+044E"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER YU"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Ю",
+      "alphabet_index": 32,
+      "key_handwritten_form": false,
+      "id": "C063"
+    },
+    {
+      "char": "Ю",
+      "codepoints": [
+        "U+042E"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER YU"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "ю",
+      "alphabet_index": 32,
+      "key_handwritten_form": false,
+      "id": "C064"
+    },
+    {
+      "char": "я",
+      "codepoints": [
+        "U+044F"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER YA"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "lower",
+      "case_pair": "Я",
+      "alphabet_index": 33,
+      "key_handwritten_form": false,
+      "id": "C065"
+    },
+    {
+      "char": "Я",
+      "codepoints": [
+        "U+042F"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER YA"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "alphabet",
+      "case": "upper",
+      "case_pair": "я",
+      "alphabet_index": 33,
+      "key_handwritten_form": false,
+      "id": "C066"
+    },
+    {
+      "char": "ʼ",
+      "codepoints": [
+        "U+02BC"
+      ],
+      "unicode_names": [
+        "MODIFIER LETTER APOSTROPHE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "apostrophe",
+      "case": null,
+      "role": "primary",
+      "note": "Літера-модифікатор апостроф; рекомендоване кодування українського апострофа",
+      "id": "C067"
+    },
+    {
+      "char": "’",
+      "codepoints": [
+        "U+2019"
+      ],
+      "unicode_names": [
+        "RIGHT SINGLE QUOTATION MARK"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "apostrophe",
+      "case": null,
+      "role": "alternative",
+      "note": "Права одинарна лапка; типографська заміна апострофа",
+      "id": "C068"
+    },
+    {
+      "char": "'",
+      "codepoints": [
+        "U+0027"
+      ],
+      "unicode_names": [
+        "APOSTROPHE"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "apostrophe",
+      "case": null,
+      "role": "alternative",
+      "note": "Машинописний апостроф ASCII; клавіатурна заміна",
+      "id": "C069"
+    },
+    {
+      "char": ".",
+      "codepoints": [
+        "U+002E"
+      ],
+      "unicode_names": [
+        "FULL STOP"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "крапка",
+      "role": "primary",
+      "pravopys_section": "§ 155",
+      "note": null,
+      "id": "C070"
+    },
+    {
+      "char": "?",
+      "codepoints": [
+        "U+003F"
+      ],
+      "unicode_names": [
+        "QUESTION MARK"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "знак питання",
+      "role": "primary",
+      "pravopys_section": "§ 156",
+      "note": null,
+      "id": "C071"
+    },
+    {
+      "char": "!",
+      "codepoints": [
+        "U+0021"
+      ],
+      "unicode_names": [
+        "EXCLAMATION MARK"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "знак оклику",
+      "role": "primary",
+      "pravopys_section": "§ 157",
+      "note": null,
+      "id": "C072"
+    },
+    {
+      "char": ",",
+      "codepoints": [
+        "U+002C"
+      ],
+      "unicode_names": [
+        "COMMA"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "кома",
+      "role": "primary",
+      "pravopys_section": "§ 158",
+      "note": null,
+      "id": "C073"
+    },
+    {
+      "char": ";",
+      "codepoints": [
+        "U+003B"
+      ],
+      "unicode_names": [
+        "SEMICOLON"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "крапка з комою",
+      "role": "primary",
+      "pravopys_section": "§ 159",
+      "note": null,
+      "id": "C074"
+    },
+    {
+      "char": ":",
+      "codepoints": [
+        "U+003A"
+      ],
+      "unicode_names": [
+        "COLON"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "двокрапка",
+      "role": "primary",
+      "pravopys_section": "§ 160",
+      "note": null,
+      "id": "C075"
+    },
+    {
+      "char": "—",
+      "codepoints": [
+        "U+2014"
+      ],
+      "unicode_names": [
+        "EM DASH"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "тире",
+      "role": "primary",
+      "pravopys_section": "§ 161",
+      "note": "Довге тире: так набрано заголовок § 161 «ТИРЕ (—)»",
+      "id": "C076"
+    },
+    {
+      "char": "–",
+      "codepoints": [
+        "U+2013"
+      ],
+      "unicode_names": [
+        "EN DASH"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "тире",
+      "role": "alternative",
+      "pravopys_section": "§ 161",
+      "note": "Коротке тире: поширена типографська заміна; так набрано § 161 у змісті видання",
+      "id": "C077"
+    },
+    {
+      "char": "…",
+      "codepoints": [
+        "U+2026"
+      ],
+      "unicode_names": [
+        "HORIZONTAL ELLIPSIS"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "три крапки",
+      "role": "primary",
+      "pravopys_section": "§ 162",
+      "note": "Один знак U+2026; заголовок § 162 подає «(...)», тому варіант із трьох U+002E — у test_strings",
+      "id": "C078"
+    },
+    {
+      "char": "(",
+      "codepoints": [
+        "U+0028"
+      ],
+      "unicode_names": [
+        "LEFT PARENTHESIS"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "дужки круглі",
+      "role": "primary",
+      "pravopys_section": "§ 163",
+      "note": "Відкривна",
+      "id": "C079"
+    },
+    {
+      "char": ")",
+      "codepoints": [
+        "U+0029"
+      ],
+      "unicode_names": [
+        "RIGHT PARENTHESIS"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "дужки круглі",
+      "role": "primary",
+      "pravopys_section": "§ 163",
+      "note": "Закривна",
+      "id": "C080"
+    },
+    {
+      "char": "[",
+      "codepoints": [
+        "U+005B"
+      ],
+      "unicode_names": [
+        "LEFT SQUARE BRACKET"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "дужки квадратні",
+      "role": "primary",
+      "pravopys_section": "§ 163",
+      "note": "Відкривна",
+      "id": "C081"
+    },
+    {
+      "char": "]",
+      "codepoints": [
+        "U+005D"
+      ],
+      "unicode_names": [
+        "RIGHT SQUARE BRACKET"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "дужки квадратні",
+      "role": "primary",
+      "pravopys_section": "§ 163",
+      "note": "Закривна",
+      "id": "C082"
+    },
+    {
+      "char": "<",
+      "codepoints": [
+        "U+003C"
+      ],
+      "unicode_names": [
+        "LESS-THAN SIGN"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "дужки кутові",
+      "role": "primary",
+      "pravopys_section": "§ 163",
+      "note": "Відкривна; у правописі «кутові, або ламані (< >)», зокрема <…> для пропуску в цитаті",
+      "id": "C083"
+    },
+    {
+      "char": ">",
+      "codepoints": [
+        "U+003E"
+      ],
+      "unicode_names": [
+        "GREATER-THAN SIGN"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "дужки кутові",
+      "role": "primary",
+      "pravopys_section": "§ 163",
+      "note": "Закривна",
+      "id": "C084"
+    },
+    {
+      "char": "«",
+      "codepoints": [
+        "U+00AB"
+      ],
+      "unicode_names": [
+        "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "лапки",
+      "role": "primary",
+      "pravopys_section": "§ 164",
+      "note": "Відкривні «лапки-ялинки» — рекомендовані зовнішні",
+      "id": "C085"
+    },
+    {
+      "char": "»",
+      "codepoints": [
+        "U+00BB"
+      ],
+      "unicode_names": [
+        "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "лапки",
+      "role": "primary",
+      "pravopys_section": "§ 164",
+      "note": "Закривні «лапки-ялинки»",
+      "id": "C086"
+    },
+    {
+      "char": "„",
+      "codepoints": [
+        "U+201E"
+      ],
+      "unicode_names": [
+        "DOUBLE LOW-9 QUOTATION MARK"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "лапки",
+      "role": "primary",
+      "pravopys_section": "§ 164",
+      "note": "Відкривні в парах „ “ і „ ”",
+      "id": "C087"
+    },
+    {
+      "char": "“",
+      "codepoints": [
+        "U+201C"
+      ],
+      "unicode_names": [
+        "LEFT DOUBLE QUOTATION MARK"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "лапки",
+      "role": "primary",
+      "pravopys_section": "§ 164",
+      "note": "Відкривні в парі “ ”, закривні в парі „ “ — «лапки-лапки», рекомендовані внутрішні",
+      "id": "C088"
+    },
+    {
+      "char": "”",
+      "codepoints": [
+        "U+201D"
+      ],
+      "unicode_names": [
+        "RIGHT DOUBLE QUOTATION MARK"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "лапки",
+      "role": "primary",
+      "pravopys_section": "§ 164",
+      "note": "Закривні в парах “ ” і „ ”; форма „…” — традиційна в рукописних текстах (§ 164, п. 3)",
+      "id": "C089"
+    },
+    {
+      "char": "\"",
+      "codepoints": [
+        "U+0022"
+      ],
+      "unicode_names": [
+        "QUOTATION MARK"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "лапки",
+      "role": "alternative",
+      "pravopys_section": "§ 164",
+      "note": "Прямі лапки ASCII, клавіатурна заміна",
+      "id": "C090"
+    },
+    {
+      "char": "-",
+      "codepoints": [
+        "U+002D"
+      ],
+      "unicode_names": [
+        "HYPHEN-MINUS"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "дефіс",
+      "role": "primary",
+      "pravopys_section": "§ 37",
+      "note": "Як розділовий знак — у синтаксичних сполученнях (вступ до розд. V); U+002D — фактичне кодування",
+      "id": "C091"
+    },
+    {
+      "char": "‐",
+      "codepoints": [
+        "U+2010"
+      ],
+      "unicode_names": [
+        "HYPHEN"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "дефіс",
+      "role": "alternative",
+      "pravopys_section": "§ 37",
+      "note": "Типографський дефіс U+2010",
+      "id": "C092"
+    },
+    {
+      "char": "/",
+      "codepoints": [
+        "U+002F"
+      ],
+      "unicode_names": [
+        "SOLIDUS"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "punctuation",
+      "case": null,
+      "mark_name": "скісна риска",
+      "role": "primary",
+      "pravopys_section": "§ 165",
+      "note": "Розділовий знак (вступ до розд. V, § 165)",
+      "id": "C093"
+    },
+    {
+      "char": "ы",
+      "codepoints": [
+        "U+044B"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER YERU"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "Ы",
+      "status": "core",
+      "note": "Єри; абетки Шевченка 1861 (с. 69) і Куліша 1857 (с. 75), Павловський 1818 (с. 40)",
+      "id": "C094"
+    },
+    {
+      "char": "Ы",
+      "codepoints": [
+        "U+042B"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER YERU"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "ы",
+      "status": "core",
+      "note": "Єри; абетки Шевченка 1861 (с. 69) і Куліша 1857 (с. 75), Павловський 1818 (с. 40)",
+      "id": "C095"
+    },
+    {
+      "char": "ъ",
+      "codepoints": [
+        "U+044A"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER HARD SIGN"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "Ъ",
+      "status": "core",
+      "note": "Єр; абетки Шевченка 1861 (с. 69) і Куліша 1857 (с. 75), Павловський 1818 (с. 40)",
+      "id": "C096"
+    },
+    {
+      "char": "Ъ",
+      "codepoints": [
+        "U+042A"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER HARD SIGN"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "ъ",
+      "status": "core",
+      "note": "Єр; абетки Шевченка 1861 (с. 69) і Куліша 1857 (с. 75), Павловський 1818 (с. 40)",
+      "id": "C097"
+    },
+    {
+      "char": "ѣ",
+      "codepoints": [
+        "U+0463"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER YAT"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "Ѣ",
+      "status": "core",
+      "note": "Ять; абетки Шевченка і Куліша (с. 69, 75), Максимович (с. 89)",
+      "id": "C098"
+    },
+    {
+      "char": "Ѣ",
+      "codepoints": [
+        "U+0462"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER YAT"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "ѣ",
+      "status": "core",
+      "note": "Ять; абетки Шевченка і Куліша (с. 69, 75), Максимович (с. 89)",
+      "id": "C099"
+    },
+    {
+      "char": "ѳ",
+      "codepoints": [
+        "U+0473"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER FITA"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "Ѳ",
+      "status": "core",
+      "note": "Фіта; абетки Шевченка 1861 (с. 69) і Куліша 1857 (с. 75)",
+      "id": "C100"
+    },
+    {
+      "char": "Ѳ",
+      "codepoints": [
+        "U+0472"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER FITA"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "ѳ",
+      "status": "core",
+      "note": "Фіта; абетки Шевченка 1861 (с. 69) і Куліша 1857 (с. 75)",
+      "id": "C101"
+    },
+    {
+      "char": "ѵ",
+      "codepoints": [
+        "U+0475"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER IZHITSA"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "Ѵ",
+      "status": "core",
+      "note": "Іжиця; абетки Шевченка і Куліша (с. 69, 75); Павловський: ще вживана на письмі (с. 40)",
+      "id": "C102"
+    },
+    {
+      "char": "Ѵ",
+      "codepoints": [
+        "U+0474"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER IZHITSA"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "ѵ",
+      "status": "core",
+      "note": "Іжиця; абетки Шевченка і Куліша (с. 69, 75); Павловський: ще вживана на письмі (с. 40)",
+      "id": "C103"
+    },
+    {
+      "char": "ё",
+      "codepoints": [
+        "U+0451"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER IO"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": [
+        "U+0435",
+        "U+0308"
+      ],
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "Ё",
+      "status": "attested",
+      "note": "Куліш, «Граматка» 1857: «сёго», «Ёго» (с. 75); слобожанський правопис (прим. упорядника, с. 68)",
+      "id": "C104"
+    },
+    {
+      "char": "Ё",
+      "codepoints": [
+        "U+0401"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER IO"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": [
+        "U+0415",
+        "U+0308"
+      ],
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "ё",
+      "status": "attested",
+      "note": "Куліш, «Граматка» 1857: «сёго», «Ёго» (с. 75); слобожанський правопис (прим. упорядника, с. 68)",
+      "id": "C105"
+    },
+    {
+      "char": "э",
+      "codepoints": [
+        "U+044D"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER E"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "Э",
+      "status": "attested",
+      "note": "Абетки Шевченка 1861 (с. 69) і Куліша 1857 (с. 75)",
+      "id": "C106"
+    },
+    {
+      "char": "Э",
+      "codepoints": [
+        "U+042D"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER E"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "э",
+      "status": "attested",
+      "note": "Абетки Шевченка 1861 (с. 69) і Куліша 1857 (с. 75)",
+      "id": "C107"
+    },
+    {
+      "char": "j",
+      "codepoints": [
+        "U+006A"
+      ],
+      "unicode_names": [
+        "LATIN SMALL LETTER J"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "J",
+      "status": "attested",
+      "note": "Драгоманівка: латинська j для йотованих — ja, je, jy, ji (с. 161)",
+      "id": "C108"
+    },
+    {
+      "char": "J",
+      "codepoints": [
+        "U+004A"
+      ],
+      "unicode_names": [
+        "LATIN CAPITAL LETTER J"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "j",
+      "status": "attested",
+      "note": "Драгоманівка: латинська j для йотованих — ja, je, jy, ji (с. 161)",
+      "id": "C109"
+    },
+    {
+      "char": "ѯ",
+      "codepoints": [
+        "U+046F"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER KSI"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "Ѯ",
+      "status": "attested",
+      "note": "Павловський 1818: «употребляютъ буквы Кси, Пси, Ижицу» (с. 40)",
+      "id": "C110"
+    },
+    {
+      "char": "Ѯ",
+      "codepoints": [
+        "U+046E"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER KSI"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "ѯ",
+      "status": "attested",
+      "note": "Павловський 1818: «употребляютъ буквы Кси, Пси, Ижицу» (с. 40)",
+      "id": "C111"
+    },
+    {
+      "char": "ѱ",
+      "codepoints": [
+        "U+0471"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER PSI"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "Ѱ",
+      "status": "attested",
+      "note": "Павловський 1818: «употребляютъ буквы Кси, Пси, Ижицу» (с. 40)",
+      "id": "C112"
+    },
+    {
+      "char": "Ѱ",
+      "codepoints": [
+        "U+0470"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER PSI"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "ѱ",
+      "status": "attested",
+      "note": "Павловський 1818: «употребляютъ буквы Кси, Пси, Ижицу» (с. 40)",
+      "id": "C113"
+    },
+    {
+      "char": "ꙋ",
+      "codepoints": [
+        "U+A64B"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER MONOGRAPH UK"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "Ꙋ",
+      "status": "attested",
+      "note": "Гатцук, «Українська абетка» 1861: ук-монограф на місці у (с. 83); система не поширилася",
+      "id": "C114"
+    },
+    {
+      "char": "Ꙋ",
+      "codepoints": [
+        "U+A64A"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER MONOGRAPH UK"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "ꙋ",
+      "status": "attested",
+      "note": "Гатцук, «Українська абетка» 1861: ук-монограф на місці у (с. 83); система не поширилася",
+      "id": "C115"
+    },
+    {
+      "char": "ѧ",
+      "codepoints": [
+        "U+0467"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER LITTLE YUS"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "Ѧ",
+      "status": "attested",
+      "note": "Гатцук 1861: юс малий на місці я (с. 83); система не поширилася",
+      "id": "C116"
+    },
+    {
+      "char": "Ѧ",
+      "codepoints": [
+        "U+0466"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER LITTLE YUS"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "ѧ",
+      "status": "attested",
+      "note": "Гатцук 1861: юс малий на місці я (с. 83); система не поширилася",
+      "id": "C117"
+    },
+    {
+      "char": "о̂",
+      "codepoints": [
+        "U+043E",
+        "U+0302"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER O",
+        "COMBINING CIRCUMFLEX ACCENT"
+      ],
+      "n_codepoints": 2,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "О̂",
+      "status": "attested",
+      "note": "Максимович: [і] з етимологічного о, «нôсъ» (с. 89)",
+      "id": "C118"
+    },
+    {
+      "char": "О̂",
+      "codepoints": [
+        "U+041E",
+        "U+0302"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER O",
+        "COMBINING CIRCUMFLEX ACCENT"
+      ],
+      "n_codepoints": 2,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "о̂",
+      "status": "attested",
+      "note": "Максимович: [і] з етимологічного о, «нôсъ» (с. 89)",
+      "id": "C119"
+    },
+    {
+      "char": "е̂",
+      "codepoints": [
+        "U+0435",
+        "U+0302"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER IE",
+        "COMBINING CIRCUMFLEX ACCENT"
+      ],
+      "n_codepoints": 2,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "Е̂",
+      "status": "attested",
+      "note": "Максимович: [і] з етимологічного е, «мêдъ» (с. 89)",
+      "id": "C120"
+    },
+    {
+      "char": "Е̂",
+      "codepoints": [
+        "U+0415",
+        "U+0302"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER IE",
+        "COMBINING CIRCUMFLEX ACCENT"
+      ],
+      "n_codepoints": 2,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "е̂",
+      "status": "attested",
+      "note": "Максимович: [і] з етимологічного е, «мêдъ» (с. 89)",
+      "id": "C121"
+    },
+    {
+      "char": "у̂",
+      "codepoints": [
+        "U+0443",
+        "U+0302"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER U",
+        "COMBINING CIRCUMFLEX ACCENT"
+      ],
+      "n_codepoints": 2,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "У̂",
+      "status": "attested",
+      "note": "Максимович: [і] з етимологічного у, «замŷжъ» (с. 89)",
+      "id": "C122"
+    },
+    {
+      "char": "У̂",
+      "codepoints": [
+        "U+0423",
+        "U+0302"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER U",
+        "COMBINING CIRCUMFLEX ACCENT"
+      ],
+      "n_codepoints": 2,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "у̂",
+      "status": "attested",
+      "note": "Максимович: [і] з етимологічного у, «замŷжъ» (с. 89)",
+      "id": "C123"
+    },
+    {
+      "char": "и̂",
+      "codepoints": [
+        "U+0438",
+        "U+0302"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER I",
+        "COMBINING CIRCUMFLEX ACCENT"
+      ],
+      "n_codepoints": 2,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "И̂",
+      "status": "attested",
+      "note": "Максимович: [і] з етимологічного и, «добрû» (с. 89)",
+      "id": "C124"
+    },
+    {
+      "char": "И̂",
+      "codepoints": [
+        "U+0418",
+        "U+0302"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER I",
+        "COMBINING CIRCUMFLEX ACCENT"
+      ],
+      "n_codepoints": 2,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "и̂",
+      "status": "attested",
+      "note": "Максимович: [і] з етимологічного и, «добрû» (с. 89)",
+      "id": "C125"
+    },
+    {
+      "char": "а́",
+      "codepoints": [
+        "U+0430",
+        "U+0301"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER A",
+        "COMBINING ACUTE ACCENT"
+      ],
+      "n_codepoints": 2,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "А́",
+      "status": "attested",
+      "note": "Наголос (акут, U+0301): Павловський 1818 (с. 40), Шевченко 1861 (с. 69), Куліш 1857 (с. 75)",
+      "id": "C126"
+    },
+    {
+      "char": "А́",
+      "codepoints": [
+        "U+0410",
+        "U+0301"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER A",
+        "COMBINING ACUTE ACCENT"
+      ],
+      "n_codepoints": 2,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "а́",
+      "status": "attested",
+      "note": "Наголос (акут, U+0301): Павловський 1818 (с. 40), Шевченко 1861 (с. 69), Куліш 1857 (с. 75)",
+      "id": "C127"
+    },
+    {
+      "char": "а̀",
+      "codepoints": [
+        "U+0430",
+        "U+0300"
+      ],
+      "unicode_names": [
+        "CYRILLIC SMALL LETTER A",
+        "COMBINING GRAVE ACCENT"
+      ],
+      "n_codepoints": 2,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "А̀",
+      "status": "attested",
+      "note": "Наголос (гравіс, U+0300): Шевченко, «Буквар» 1861 (с. 69)",
+      "id": "C128"
+    },
+    {
+      "char": "А̀",
+      "codepoints": [
+        "U+0410",
+        "U+0300"
+      ],
+      "unicode_names": [
+        "CYRILLIC CAPITAL LETTER A",
+        "COMBINING GRAVE ACCENT"
+      ],
+      "n_codepoints": 2,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "а̀",
+      "status": "attested",
+      "note": "Наголос (гравіс, U+0300): Шевченко, «Буквар» 1861 (с. 69)",
+      "id": "C129"
+    },
+    {
+      "char": "g",
+      "codepoints": [
+        "U+0067"
+      ],
+      "unicode_names": [
+        "LATIN SMALL LETTER G"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "lower",
+      "case_pair": "G",
+      "status": "attested",
+      "note": "Кулішівка 1856–57: латинська g на позначення ґ (Вікіпедія; у переглянутих сторінках хрестоматії не знайдено)",
+      "id": "C130"
+    },
+    {
+      "char": "G",
+      "codepoints": [
+        "U+0047"
+      ],
+      "unicode_names": [
+        "LATIN CAPITAL LETTER G"
+      ],
+      "n_codepoints": 1,
+      "nfc_equal": true,
+      "nfd_codepoints": null,
+      "group": "historical",
+      "case": "upper",
+      "case_pair": "g",
+      "status": "attested",
+      "note": "Кулішівка 1856–57: латинська g на позначення ґ (Вікіпедія; у переглянутих сторінках хрестоматії не знайдено)",
+      "id": "C131"
+    }
+  ]
+}

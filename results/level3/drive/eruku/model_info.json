@@ -1,0 +1,17 @@
+{
+ "weights": "Blowing-Up-Groundhogs/Eruku@13f4f7501f0f1d7270da08fded134c57d3635705",
+ "code": "AutoModel (trust_remote_code), generate_handwriting",
+ "settings": "cfg_scale 1.25 (картка моделі), max_new_tokens 64",
+ "deviations": [
+  "Стиль — наш рядок із 5 слів і його транскрипція",
+  "max_new_tokens 64 замість типових 512 (modeling_eruku.py, generate_handwriting): на кириличних словах модель не видає кінця генерації й доходить до межі (4088 px, ~141 с/зобр. на T4); 64 токени = 512 px, як у прикладі картки Emuru (max_new_tokens=64) — досить для одного слова; відрізано лише хвіст після 512 px"
+ ],
+ "model": "eruku",
+ "status": "loaded",
+ "device": "cuda",
+ "torch": "2.11.0+cu130",
+ "transformers": "4.53.0",
+ "diffusers": "0.34.0",
+ "python": "/content/venv_eruku/bin/python",
+ "started": "2026-10-24T18:17:03+00:00"
+}

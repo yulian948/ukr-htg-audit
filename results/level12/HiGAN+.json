@@ -1,0 +1,1056 @@
+{
+ "encoder": "lib/alphabet.py Alphabets['all']: 80 символів (IAM)",
+ "paths": {
+  "networks/model.py eval_style/eval_rand → strLabelConverter.encode": {
+   "level1": {
+    "C001": {
+     "status": "error",
+     "error": "KeyError: 'а'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C002": {
+     "status": "error",
+     "error": "KeyError: 'А'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C003": {
+     "status": "error",
+     "error": "KeyError: 'б'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C004": {
+     "status": "error",
+     "error": "KeyError: 'Б'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C005": {
+     "status": "error",
+     "error": "KeyError: 'в'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C006": {
+     "status": "error",
+     "error": "KeyError: 'В'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C007": {
+     "status": "error",
+     "error": "KeyError: 'г'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C008": {
+     "status": "error",
+     "error": "KeyError: 'Г'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C009": {
+     "status": "error",
+     "error": "KeyError: 'ґ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C010": {
+     "status": "error",
+     "error": "KeyError: 'Ґ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C011": {
+     "status": "error",
+     "error": "KeyError: 'д'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C012": {
+     "status": "error",
+     "error": "KeyError: 'Д'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C013": {
+     "status": "error",
+     "error": "KeyError: 'е'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C014": {
+     "status": "error",
+     "error": "KeyError: 'Е'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C015": {
+     "status": "error",
+     "error": "KeyError: 'є'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C016": {
+     "status": "error",
+     "error": "KeyError: 'Є'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C017": {
+     "status": "error",
+     "error": "KeyError: 'ж'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C018": {
+     "status": "error",
+     "error": "KeyError: 'Ж'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C019": {
+     "status": "error",
+     "error": "KeyError: 'з'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C020": {
+     "status": "error",
+     "error": "KeyError: 'З'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C021": {
+     "status": "error",
+     "error": "KeyError: 'и'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C022": {
+     "status": "error",
+     "error": "KeyError: 'И'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C023": {
+     "status": "error",
+     "error": "KeyError: 'і'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C024": {
+     "status": "error",
+     "error": "KeyError: 'І'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C025": {
+     "status": "error",
+     "error": "KeyError: 'ї'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C026": {
+     "status": "error",
+     "error": "KeyError: 'Ї'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C027": {
+     "status": "error",
+     "error": "KeyError: 'й'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C028": {
+     "status": "error",
+     "error": "KeyError: 'Й'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C029": {
+     "status": "error",
+     "error": "KeyError: 'к'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C030": {
+     "status": "error",
+     "error": "KeyError: 'К'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C031": {
+     "status": "error",
+     "error": "KeyError: 'л'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C032": {
+     "status": "error",
+     "error": "KeyError: 'Л'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C033": {
+     "status": "error",
+     "error": "KeyError: 'м'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C034": {
+     "status": "error",
+     "error": "KeyError: 'М'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C035": {
+     "status": "error",
+     "error": "KeyError: 'н'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C036": {
+     "status": "error",
+     "error": "KeyError: 'Н'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C037": {
+     "status": "error",
+     "error": "KeyError: 'о'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C038": {
+     "status": "error",
+     "error": "KeyError: 'О'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C039": {
+     "status": "error",
+     "error": "KeyError: 'п'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C040": {
+     "status": "error",
+     "error": "KeyError: 'П'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C041": {
+     "status": "error",
+     "error": "KeyError: 'р'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C042": {
+     "status": "error",
+     "error": "KeyError: 'Р'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C043": {
+     "status": "error",
+     "error": "KeyError: 'с'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C044": {
+     "status": "error",
+     "error": "KeyError: 'С'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C045": {
+     "status": "error",
+     "error": "KeyError: 'т'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C046": {
+     "status": "error",
+     "error": "KeyError: 'Т'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C047": {
+     "status": "error",
+     "error": "KeyError: 'у'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C048": {
+     "status": "error",
+     "error": "KeyError: 'У'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C049": {
+     "status": "error",
+     "error": "KeyError: 'ф'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C050": {
+     "status": "error",
+     "error": "KeyError: 'Ф'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C051": {
+     "status": "error",
+     "error": "KeyError: 'х'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C052": {
+     "status": "error",
+     "error": "KeyError: 'Х'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C053": {
+     "status": "error",
+     "error": "KeyError: 'ц'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C054": {
+     "status": "error",
+     "error": "KeyError: 'Ц'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C055": {
+     "status": "error",
+     "error": "KeyError: 'ч'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C056": {
+     "status": "error",
+     "error": "KeyError: 'Ч'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C057": {
+     "status": "error",
+     "error": "KeyError: 'ш'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C058": {
+     "status": "error",
+     "error": "KeyError: 'Ш'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C059": {
+     "status": "error",
+     "error": "KeyError: 'щ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C060": {
+     "status": "error",
+     "error": "KeyError: 'Щ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C061": {
+     "status": "error",
+     "error": "KeyError: 'ь'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C062": {
+     "status": "error",
+     "error": "KeyError: 'Ь'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C063": {
+     "status": "error",
+     "error": "KeyError: 'ю'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C064": {
+     "status": "error",
+     "error": "KeyError: 'Ю'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C065": {
+     "status": "error",
+     "error": "KeyError: 'я'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C066": {
+     "status": "error",
+     "error": "KeyError: 'Я'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C067": {
+     "status": "error",
+     "error": "KeyError: 'ʼ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C068": {
+     "status": "error",
+     "error": "KeyError: '’'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C069": {
+     "status": "ok",
+     "output": "'"
+    },
+    "C070": {
+     "status": "ok",
+     "output": "."
+    },
+    "C071": {
+     "status": "ok",
+     "output": "?"
+    },
+    "C072": {
+     "status": "ok",
+     "output": "!"
+    },
+    "C073": {
+     "status": "ok",
+     "output": ","
+    },
+    "C074": {
+     "status": "ok",
+     "output": ";"
+    },
+    "C075": {
+     "status": "ok",
+     "output": ":"
+    },
+    "C076": {
+     "status": "error",
+     "error": "KeyError: '—'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C077": {
+     "status": "error",
+     "error": "KeyError: '–'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C078": {
+     "status": "error",
+     "error": "KeyError: '…'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C079": {
+     "status": "ok",
+     "output": "("
+    },
+    "C080": {
+     "status": "ok",
+     "output": ")"
+    },
+    "C081": {
+     "status": "error",
+     "error": "KeyError: '['",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C082": {
+     "status": "error",
+     "error": "KeyError: ']'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C083": {
+     "status": "error",
+     "error": "KeyError: '<'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C084": {
+     "status": "error",
+     "error": "KeyError: '>'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C085": {
+     "status": "error",
+     "error": "KeyError: '«'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C086": {
+     "status": "error",
+     "error": "KeyError: '»'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C087": {
+     "status": "error",
+     "error": "KeyError: '„'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C088": {
+     "status": "error",
+     "error": "KeyError: '“'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C089": {
+     "status": "error",
+     "error": "KeyError: '”'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C090": {
+     "status": "ok",
+     "output": "\""
+    },
+    "C091": {
+     "status": "ok",
+     "output": "-"
+    },
+    "C092": {
+     "status": "error",
+     "error": "KeyError: '‐'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C093": {
+     "status": "ok",
+     "output": "/"
+    },
+    "C094": {
+     "status": "error",
+     "error": "KeyError: 'ы'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C095": {
+     "status": "error",
+     "error": "KeyError: 'Ы'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C096": {
+     "status": "error",
+     "error": "KeyError: 'ъ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C097": {
+     "status": "error",
+     "error": "KeyError: 'Ъ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C098": {
+     "status": "error",
+     "error": "KeyError: 'ѣ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C099": {
+     "status": "error",
+     "error": "KeyError: 'Ѣ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C100": {
+     "status": "error",
+     "error": "KeyError: 'ѳ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C101": {
+     "status": "error",
+     "error": "KeyError: 'Ѳ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C102": {
+     "status": "error",
+     "error": "KeyError: 'ѵ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C103": {
+     "status": "error",
+     "error": "KeyError: 'Ѵ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C104": {
+     "status": "error",
+     "error": "KeyError: 'ё'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C105": {
+     "status": "error",
+     "error": "KeyError: 'Ё'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C106": {
+     "status": "error",
+     "error": "KeyError: 'э'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C107": {
+     "status": "error",
+     "error": "KeyError: 'Э'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C108": {
+     "status": "ok",
+     "output": "j"
+    },
+    "C109": {
+     "status": "ok",
+     "output": "J"
+    },
+    "C110": {
+     "status": "error",
+     "error": "KeyError: 'ѯ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C111": {
+     "status": "error",
+     "error": "KeyError: 'Ѯ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C112": {
+     "status": "error",
+     "error": "KeyError: 'ѱ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C113": {
+     "status": "error",
+     "error": "KeyError: 'Ѱ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C114": {
+     "status": "error",
+     "error": "KeyError: 'ꙋ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C115": {
+     "status": "error",
+     "error": "KeyError: 'Ꙋ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C116": {
+     "status": "error",
+     "error": "KeyError: 'ѧ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C117": {
+     "status": "error",
+     "error": "KeyError: 'Ѧ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C118": {
+     "status": "error",
+     "error": "KeyError: 'о'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C119": {
+     "status": "error",
+     "error": "KeyError: 'О'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C120": {
+     "status": "error",
+     "error": "KeyError: 'е'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C121": {
+     "status": "error",
+     "error": "KeyError: 'Е'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C122": {
+     "status": "error",
+     "error": "KeyError: 'у'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C123": {
+     "status": "error",
+     "error": "KeyError: 'У'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C124": {
+     "status": "error",
+     "error": "KeyError: 'и'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C125": {
+     "status": "error",
+     "error": "KeyError: 'И'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C126": {
+     "status": "error",
+     "error": "KeyError: 'а'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C127": {
+     "status": "error",
+     "error": "KeyError: 'А'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C128": {
+     "status": "error",
+     "error": "KeyError: 'а'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C129": {
+     "status": "error",
+     "error": "KeyError: 'А'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "C130": {
+     "status": "ok",
+     "output": "g"
+    },
+    "C131": {
+     "status": "ok",
+     "output": "G"
+    }
+   },
+   "level2": {
+    "quick": {
+     "input": "ґєіїʼ ыъѣ",
+     "status": "error",
+     "error": "KeyError: 'ґ'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "pangram": {
+     "input": "Чуєш їх, доцю, га? Кумедна ж ти, прощайся без ґольфів!",
+     "status": "error",
+     "error": "KeyError: 'Ч'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "apostrophe_variants": {
+     "input": "пʼять мʼята п’ять м’ята п'ять м'ята",
+     "status": "error",
+     "error": "KeyError: 'п'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "punctuation_line": {
+     "input": "Він сказав: «Іди сюди — „зараз“ (не завтра)!» Що?! Ну… Ну... Добре, так; гаразд-гаразд [див. <…>] і/або “інше” „рукописне”.",
+     "status": "error",
+     "error": "KeyError: 'В'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    },
+    "historical_line": {
+     "input": "сынъ свѣтъ ѳеодоръ ѵпостась ёго эхо jак ѱалтирь ꙋкраїна ѧкъ мо̂й до́бре",
+     "status": "error",
+     "error": "KeyError: 'с'",
+     "where": {
+      "ref": "lib/alphabet.py:65",
+      "code": "index = self.dict[char]"
+     }
+    }
+   }
+  }
+ },
+ "notes": [
+  "word_capitalize (lib/alphabet.py:155) переводить першу літеру в ASCII через NFKD — лише для випадкових слів лексикону"
+ ],
+ "status": "ok",
+ "method": "HiGAN+",
+ "inventory_version": "0.3.0",
+ "environment": {
+  "python": "3.12.8",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "torch": "2.14.1",
+  "transformers": "5.20.2",
+  "numpy": "2.5.4"
+ },
+ "checked_at": "2026-10-23T15:33:32+00:00",
+ "source": "github ganji15/HiGANplus",
+ "revision": "5d37de733f79e2a72a79c0f66e1865329ff56b4e"
+}

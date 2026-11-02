@@ -1,0 +1,586 @@
+{
+ "encoder": "CANINE (google/canine-c): кодові точки Unicode; max_length=40 разом зі службовими токенами",
+ "paths": {
+  "train.py --train_mode sampling → Diffusion.sampling → CanineTokenizer": {
+   "level1": {
+    "C001": {
+     "status": "ok",
+     "output": "а"
+    },
+    "C002": {
+     "status": "ok",
+     "output": "А"
+    },
+    "C003": {
+     "status": "ok",
+     "output": "б"
+    },
+    "C004": {
+     "status": "ok",
+     "output": "Б"
+    },
+    "C005": {
+     "status": "ok",
+     "output": "в"
+    },
+    "C006": {
+     "status": "ok",
+     "output": "В"
+    },
+    "C007": {
+     "status": "ok",
+     "output": "г"
+    },
+    "C008": {
+     "status": "ok",
+     "output": "Г"
+    },
+    "C009": {
+     "status": "ok",
+     "output": "ґ"
+    },
+    "C010": {
+     "status": "ok",
+     "output": "Ґ"
+    },
+    "C011": {
+     "status": "ok",
+     "output": "д"
+    },
+    "C012": {
+     "status": "ok",
+     "output": "Д"
+    },
+    "C013": {
+     "status": "ok",
+     "output": "е"
+    },
+    "C014": {
+     "status": "ok",
+     "output": "Е"
+    },
+    "C015": {
+     "status": "ok",
+     "output": "є"
+    },
+    "C016": {
+     "status": "ok",
+     "output": "Є"
+    },
+    "C017": {
+     "status": "ok",
+     "output": "ж"
+    },
+    "C018": {
+     "status": "ok",
+     "output": "Ж"
+    },
+    "C019": {
+     "status": "ok",
+     "output": "з"
+    },
+    "C020": {
+     "status": "ok",
+     "output": "З"
+    },
+    "C021": {
+     "status": "ok",
+     "output": "и"
+    },
+    "C022": {
+     "status": "ok",
+     "output": "И"
+    },
+    "C023": {
+     "status": "ok",
+     "output": "і"
+    },
+    "C024": {
+     "status": "ok",
+     "output": "І"
+    },
+    "C025": {
+     "status": "ok",
+     "output": "ї"
+    },
+    "C026": {
+     "status": "ok",
+     "output": "Ї"
+    },
+    "C027": {
+     "status": "ok",
+     "output": "й"
+    },
+    "C028": {
+     "status": "ok",
+     "output": "Й"
+    },
+    "C029": {
+     "status": "ok",
+     "output": "к"
+    },
+    "C030": {
+     "status": "ok",
+     "output": "К"
+    },
+    "C031": {
+     "status": "ok",
+     "output": "л"
+    },
+    "C032": {
+     "status": "ok",
+     "output": "Л"
+    },
+    "C033": {
+     "status": "ok",
+     "output": "м"
+    },
+    "C034": {
+     "status": "ok",
+     "output": "М"
+    },
+    "C035": {
+     "status": "ok",
+     "output": "н"
+    },
+    "C036": {
+     "status": "ok",
+     "output": "Н"
+    },
+    "C037": {
+     "status": "ok",
+     "output": "о"
+    },
+    "C038": {
+     "status": "ok",
+     "output": "О"
+    },
+    "C039": {
+     "status": "ok",
+     "output": "п"
+    },
+    "C040": {
+     "status": "ok",
+     "output": "П"
+    },
+    "C041": {
+     "status": "ok",
+     "output": "р"
+    },
+    "C042": {
+     "status": "ok",
+     "output": "Р"
+    },
+    "C043": {
+     "status": "ok",
+     "output": "с"
+    },
+    "C044": {
+     "status": "ok",
+     "output": "С"
+    },
+    "C045": {
+     "status": "ok",
+     "output": "т"
+    },
+    "C046": {
+     "status": "ok",
+     "output": "Т"
+    },
+    "C047": {
+     "status": "ok",
+     "output": "у"
+    },
+    "C048": {
+     "status": "ok",
+     "output": "У"
+    },
+    "C049": {
+     "status": "ok",
+     "output": "ф"
+    },
+    "C050": {
+     "status": "ok",
+     "output": "Ф"
+    },
+    "C051": {
+     "status": "ok",
+     "output": "х"
+    },
+    "C052": {
+     "status": "ok",
+     "output": "Х"
+    },
+    "C053": {
+     "status": "ok",
+     "output": "ц"
+    },
+    "C054": {
+     "status": "ok",
+     "output": "Ц"
+    },
+    "C055": {
+     "status": "ok",
+     "output": "ч"
+    },
+    "C056": {
+     "status": "ok",
+     "output": "Ч"
+    },
+    "C057": {
+     "status": "ok",
+     "output": "ш"
+    },
+    "C058": {
+     "status": "ok",
+     "output": "Ш"
+    },
+    "C059": {
+     "status": "ok",
+     "output": "щ"
+    },
+    "C060": {
+     "status": "ok",
+     "output": "Щ"
+    },
+    "C061": {
+     "status": "ok",
+     "output": "ь"
+    },
+    "C062": {
+     "status": "ok",
+     "output": "Ь"
+    },
+    "C063": {
+     "status": "ok",
+     "output": "ю"
+    },
+    "C064": {
+     "status": "ok",
+     "output": "Ю"
+    },
+    "C065": {
+     "status": "ok",
+     "output": "я"
+    },
+    "C066": {
+     "status": "ok",
+     "output": "Я"
+    },
+    "C067": {
+     "status": "ok",
+     "output": "ʼ"
+    },
+    "C068": {
+     "status": "ok",
+     "output": "’"
+    },
+    "C069": {
+     "status": "ok",
+     "output": "'"
+    },
+    "C070": {
+     "status": "ok",
+     "output": "."
+    },
+    "C071": {
+     "status": "ok",
+     "output": "?"
+    },
+    "C072": {
+     "status": "ok",
+     "output": "!"
+    },
+    "C073": {
+     "status": "ok",
+     "output": ","
+    },
+    "C074": {
+     "status": "ok",
+     "output": ";"
+    },
+    "C075": {
+     "status": "ok",
+     "output": ":"
+    },
+    "C076": {
+     "status": "ok",
+     "output": "—"
+    },
+    "C077": {
+     "status": "ok",
+     "output": "–"
+    },
+    "C078": {
+     "status": "ok",
+     "output": "…"
+    },
+    "C079": {
+     "status": "ok",
+     "output": "("
+    },
+    "C080": {
+     "status": "ok",
+     "output": ")"
+    },
+    "C081": {
+     "status": "ok",
+     "output": "["
+    },
+    "C082": {
+     "status": "ok",
+     "output": "]"
+    },
+    "C083": {
+     "status": "ok",
+     "output": "<"
+    },
+    "C084": {
+     "status": "ok",
+     "output": ">"
+    },
+    "C085": {
+     "status": "ok",
+     "output": "«"
+    },
+    "C086": {
+     "status": "ok",
+     "output": "»"
+    },
+    "C087": {
+     "status": "ok",
+     "output": "„"
+    },
+    "C088": {
+     "status": "ok",
+     "output": "“"
+    },
+    "C089": {
+     "status": "ok",
+     "output": "”"
+    },
+    "C090": {
+     "status": "ok",
+     "output": "\""
+    },
+    "C091": {
+     "status": "ok",
+     "output": "-"
+    },
+    "C092": {
+     "status": "ok",
+     "output": "‐"
+    },
+    "C093": {
+     "status": "ok",
+     "output": "/"
+    },
+    "C094": {
+     "status": "ok",
+     "output": "ы"
+    },
+    "C095": {
+     "status": "ok",
+     "output": "Ы"
+    },
+    "C096": {
+     "status": "ok",
+     "output": "ъ"
+    },
+    "C097": {
+     "status": "ok",
+     "output": "Ъ"
+    },
+    "C098": {
+     "status": "ok",
+     "output": "ѣ"
+    },
+    "C099": {
+     "status": "ok",
+     "output": "Ѣ"
+    },
+    "C100": {
+     "status": "ok",
+     "output": "ѳ"
+    },
+    "C101": {
+     "status": "ok",
+     "output": "Ѳ"
+    },
+    "C102": {
+     "status": "ok",
+     "output": "ѵ"
+    },
+    "C103": {
+     "status": "ok",
+     "output": "Ѵ"
+    },
+    "C104": {
+     "status": "ok",
+     "output": "ё"
+    },
+    "C105": {
+     "status": "ok",
+     "output": "Ё"
+    },
+    "C106": {
+     "status": "ok",
+     "output": "э"
+    },
+    "C107": {
+     "status": "ok",
+     "output": "Э"
+    },
+    "C108": {
+     "status": "ok",
+     "output": "j"
+    },
+    "C109": {
+     "status": "ok",
+     "output": "J"
+    },
+    "C110": {
+     "status": "ok",
+     "output": "ѯ"
+    },
+    "C111": {
+     "status": "ok",
+     "output": "Ѯ"
+    },
+    "C112": {
+     "status": "ok",
+     "output": "ѱ"
+    },
+    "C113": {
+     "status": "ok",
+     "output": "Ѱ"
+    },
+    "C114": {
+     "status": "ok",
+     "output": "ꙋ"
+    },
+    "C115": {
+     "status": "ok",
+     "output": "Ꙋ"
+    },
+    "C116": {
+     "status": "ok",
+     "output": "ѧ"
+    },
+    "C117": {
+     "status": "ok",
+     "output": "Ѧ"
+    },
+    "C118": {
+     "status": "ok",
+     "output": "о̂"
+    },
+    "C119": {
+     "status": "ok",
+     "output": "О̂"
+    },
+    "C120": {
+     "status": "ok",
+     "output": "е̂"
+    },
+    "C121": {
+     "status": "ok",
+     "output": "Е̂"
+    },
+    "C122": {
+     "status": "ok",
+     "output": "у̂"
+    },
+    "C123": {
+     "status": "ok",
+     "output": "У̂"
+    },
+    "C124": {
+     "status": "ok",
+     "output": "и̂"
+    },
+    "C125": {
+     "status": "ok",
+     "output": "И̂"
+    },
+    "C126": {
+     "status": "ok",
+     "output": "а́"
+    },
+    "C127": {
+     "status": "ok",
+     "output": "А́"
+    },
+    "C128": {
+     "status": "ok",
+     "output": "а̀"
+    },
+    "C129": {
+     "status": "ok",
+     "output": "А̀"
+    },
+    "C130": {
+     "status": "ok",
+     "output": "g"
+    },
+    "C131": {
+     "status": "ok",
+     "output": "G"
+    }
+   },
+   "level2": {
+    "quick": {
+     "input": "ґєіїʼ ыъѣ",
+     "output": "ґєіїʼ ыъѣ",
+     "lost": [],
+     "changed": [],
+     "status": "ok"
+    },
+    "pangram": {
+     "input": "Чуєш їх, доцю, га? Кумедна ж ти, прощайся без ґольфів!",
+     "output": "Чуєш їх, доцю, га? Кумедна ж ти, прощайся без ґольфів!",
+     "lost": [],
+     "changed": [],
+     "status": "ok"
+    },
+    "apostrophe_variants": {
+     "input": "пʼять мʼята п’ять м’ята п'ять м'ята",
+     "output": "пʼять мʼята п’ять м’ята п'ять м'ята",
+     "lost": [],
+     "changed": [],
+     "status": "ok"
+    },
+    "punctuation_line": {
+     "input": "Він сказав: «Іди сюди — „зараз“ (не завтра)!» Що?! Ну… Ну... Добре, так; гаразд-гаразд [див. <…>] і/або “інше” „рукописне”.",
+     "output": "Він сказав: «Іди сюди — „зараз“ (не завтра)!» Що?! Ну… Ну... Добре, так; гаразд-гаразд [див. <…>] і/або “інше” „рукописне”.",
+     "lost": [],
+     "changed": [],
+     "status": "ok"
+    },
+    "historical_line": {
+     "input": "сынъ свѣтъ ѳеодоръ ѵпостась ёго эхо jак ѱалтирь ꙋкраїна ѧкъ мо̂й до́бре",
+     "output": "сынъ свѣтъ ѳеодоръ ѵпостась ёго эхо jак ѱалтирь ꙋкраїна ѧкъ мо̂й до́бре",
+     "lost": [],
+     "changed": [],
+     "status": "ok"
+    }
+   }
+  }
+ },
+ "notes": [
+  "Слова, довші за 38 кодових точок, обрізаються (truncation=True, train.py:263)"
+ ],
+ "status": "ok",
+ "method": "DiffusionPen",
+ "inventory_version": "0.3.0",
+ "environment": {
+  "python": "3.12.8",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "torch": "2.14.1",
+  "transformers": "5.20.2",
+  "numpy": "2.5.4"
+ },
+ "checked_at": "2026-10-23T15:38:32+00:00",
+ "source": "github koninik/DiffusionPen",
+ "revision": "059e2f2bcb7372231038719e955597917c1a8783"
+}

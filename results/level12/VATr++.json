@@ -1,0 +1,1629 @@
+{
+ "encoder": "util/misc.py FakeArgs: alphabet 80 (IAM) + special_alphabet 49",
+ "paths": {
+  "generate.py → generate/writer.py:70 → netconverter.encode": {
+   "level1": {
+    "C001": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C002": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C003": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C004": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C005": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C006": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C007": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C008": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C009": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C010": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C011": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C012": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C013": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C014": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C015": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C016": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C017": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C018": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C019": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C020": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C021": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C022": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C023": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C024": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C025": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C026": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C027": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C028": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C029": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C030": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C031": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C032": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C033": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C034": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C035": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C036": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C037": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C038": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C039": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C040": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C041": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C042": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C043": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C044": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C045": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C046": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C047": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C048": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C049": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C050": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C051": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C052": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C053": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C054": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C055": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C056": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C057": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C058": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C059": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C060": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C061": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C062": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C063": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C064": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C065": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C066": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C067": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C068": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C069": {
+     "status": "ok",
+     "output": "'"
+    },
+    "C070": {
+     "status": "ok",
+     "output": "."
+    },
+    "C071": {
+     "status": "ok",
+     "output": "?"
+    },
+    "C072": {
+     "status": "ok",
+     "output": "!"
+    },
+    "C073": {
+     "status": "ok",
+     "output": ","
+    },
+    "C074": {
+     "status": "ok",
+     "output": ";"
+    },
+    "C075": {
+     "status": "ok",
+     "output": ":"
+    },
+    "C076": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C077": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C078": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C079": {
+     "status": "ok",
+     "output": "("
+    },
+    "C080": {
+     "status": "ok",
+     "output": ")"
+    },
+    "C081": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C082": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C083": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C084": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C085": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C086": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C087": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C088": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C089": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C090": {
+     "status": "ok",
+     "output": "\""
+    },
+    "C091": {
+     "status": "ok",
+     "output": "-"
+    },
+    "C092": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C093": {
+     "status": "ok",
+     "output": "/"
+    },
+    "C094": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C095": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C096": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C097": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C098": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C099": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C100": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C101": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C102": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C103": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C104": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C105": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C106": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C107": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C108": {
+     "status": "ok",
+     "output": "j"
+    },
+    "C109": {
+     "status": "ok",
+     "output": "J"
+    },
+    "C110": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C111": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C112": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C113": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C114": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C115": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C116": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C117": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C118": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C119": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C120": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C121": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C122": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C123": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C124": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C125": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C126": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C127": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C128": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C129": {
+     "status": "lost",
+     "output": "",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "C130": {
+     "status": "ok",
+     "output": "g"
+    },
+    "C131": {
+     "status": "ok",
+     "output": "G"
+    }
+   },
+   "level2": {
+    "quick": {
+     "input": "ґєіїʼ ыъѣ",
+     "status": "error",
+     "error": "RuntimeError: received an empty list of sequences",
+     "where": {
+      "ref": "models/OCR_network.py:157",
+      "code": "return torch.nn.utils.rnn.pad_sequence([torch.LongTensor(text) for text in results], batch_first=True), torch.IntTensor(length), None"
+     }
+    },
+    "pangram": {
+     "input": "Чуєш їх, доцю, га? Кумедна ж ти, прощайся без ґольфів!",
+     "output": ", , ? , !",
+     "lost": [
+      "Чуєш їх",
+      "доцю",
+      "га",
+      "Кумедна ж ти",
+      "прощайся без ґольфів"
+     ],
+     "changed": [],
+     "status": "lost",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "apostrophe_variants": {
+     "input": "пʼять мʼята п’ять м’ята п'ять м'ята",
+     "output": "' '",
+     "lost": [
+      "мʼята п’ять м’ята п",
+      "ять м'ята"
+     ],
+     "changed": [
+      [
+       "пʼять",
+       "'"
+      ]
+     ],
+     "status": "lossy",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "punctuation_line": {
+     "input": "Він сказав: «Іди сюди — „зараз“ (не завтра)!» Що?! Ну… Ну... Добре, так; гаразд-гаразд [див. <…>] і/або “інше” „рукописне”.",
+     "output": ": ( )! ?! ... , ; - . / .",
+     "lost": [
+      "Він сказав",
+      "сюди — „зараз“ (не завтра",
+      "»",
+      "Що",
+      "Ну… Ну",
+      "Добре",
+      "так",
+      "гаразд",
+      "гаразд",
+      "[див",
+      "і/або “інше” „рукописне”"
+     ],
+     "changed": [
+      [
+       "«Іди",
+       "("
+      ],
+      [
+       "<…>]",
+       "/"
+      ]
+     ],
+     "status": "lossy",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    },
+    "historical_line": {
+     "input": "сынъ свѣтъ ѳеодоръ ѵпостась ёго эхо jак ѱалтирь ꙋкраїна ѧкъ мо̂й до́бре",
+     "output": "j",
+     "lost": [
+      "сынъ свѣтъ ѳеодоръ ѵпостась ёго эхо ",
+      "ак ѱалтирь ꙋкраїна ѧкъ мо̂й до́бре"
+     ],
+     "changed": [],
+     "status": "lost",
+     "where": {
+      "ref": "generate/writer.py:70",
+      "code": "text = \"\".join([c for c in text if c in self.model.args.alphabet])"
+     }
+    }
+   }
+  }
+ },
+ "glyphs": {
+  "file": "blowing-up-groundhogs/vatrpp: files/unifont.pickle",
+  "n_symbols": 55659,
+  "entries": {
+   "C001": {
+    "status": "ok",
+    "missing": []
+   },
+   "C002": {
+    "status": "ok",
+    "missing": []
+   },
+   "C003": {
+    "status": "ok",
+    "missing": []
+   },
+   "C004": {
+    "status": "ok",
+    "missing": []
+   },
+   "C005": {
+    "status": "ok",
+    "missing": []
+   },
+   "C006": {
+    "status": "ok",
+    "missing": []
+   },
+   "C007": {
+    "status": "ok",
+    "missing": []
+   },
+   "C008": {
+    "status": "ok",
+    "missing": []
+   },
+   "C009": {
+    "status": "ok",
+    "missing": []
+   },
+   "C010": {
+    "status": "ok",
+    "missing": []
+   },
+   "C011": {
+    "status": "ok",
+    "missing": []
+   },
+   "C012": {
+    "status": "ok",
+    "missing": []
+   },
+   "C013": {
+    "status": "ok",
+    "missing": []
+   },
+   "C014": {
+    "status": "ok",
+    "missing": []
+   },
+   "C015": {
+    "status": "ok",
+    "missing": []
+   },
+   "C016": {
+    "status": "ok",
+    "missing": []
+   },
+   "C017": {
+    "status": "ok",
+    "missing": []
+   },
+   "C018": {
+    "status": "ok",
+    "missing": []
+   },
+   "C019": {
+    "status": "ok",
+    "missing": []
+   },
+   "C020": {
+    "status": "ok",
+    "missing": []
+   },
+   "C021": {
+    "status": "ok",
+    "missing": []
+   },
+   "C022": {
+    "status": "ok",
+    "missing": []
+   },
+   "C023": {
+    "status": "ok",
+    "missing": []
+   },
+   "C024": {
+    "status": "ok",
+    "missing": []
+   },
+   "C025": {
+    "status": "ok",
+    "missing": []
+   },
+   "C026": {
+    "status": "ok",
+    "missing": []
+   },
+   "C027": {
+    "status": "ok",
+    "missing": []
+   },
+   "C028": {
+    "status": "ok",
+    "missing": []
+   },
+   "C029": {
+    "status": "ok",
+    "missing": []
+   },
+   "C030": {
+    "status": "ok",
+    "missing": []
+   },
+   "C031": {
+    "status": "ok",
+    "missing": []
+   },
+   "C032": {
+    "status": "ok",
+    "missing": []
+   },
+   "C033": {
+    "status": "ok",
+    "missing": []
+   },
+   "C034": {
+    "status": "ok",
+    "missing": []
+   },
+   "C035": {
+    "status": "ok",
+    "missing": []
+   },
+   "C036": {
+    "status": "ok",
+    "missing": []
+   },
+   "C037": {
+    "status": "ok",
+    "missing": []
+   },
+   "C038": {
+    "status": "ok",
+    "missing": []
+   },
+   "C039": {
+    "status": "ok",
+    "missing": []
+   },
+   "C040": {
+    "status": "ok",
+    "missing": []
+   },
+   "C041": {
+    "status": "ok",
+    "missing": []
+   },
+   "C042": {
+    "status": "ok",
+    "missing": []
+   },
+   "C043": {
+    "status": "ok",
+    "missing": []
+   },
+   "C044": {
+    "status": "ok",
+    "missing": []
+   },
+   "C045": {
+    "status": "ok",
+    "missing": []
+   },
+   "C046": {
+    "status": "ok",
+    "missing": []
+   },
+   "C047": {
+    "status": "ok",
+    "missing": []
+   },
+   "C048": {
+    "status": "ok",
+    "missing": []
+   },
+   "C049": {
+    "status": "ok",
+    "missing": []
+   },
+   "C050": {
+    "status": "ok",
+    "missing": []
+   },
+   "C051": {
+    "status": "ok",
+    "missing": []
+   },
+   "C052": {
+    "status": "ok",
+    "missing": []
+   },
+   "C053": {
+    "status": "ok",
+    "missing": []
+   },
+   "C054": {
+    "status": "ok",
+    "missing": []
+   },
+   "C055": {
+    "status": "ok",
+    "missing": []
+   },
+   "C056": {
+    "status": "ok",
+    "missing": []
+   },
+   "C057": {
+    "status": "ok",
+    "missing": []
+   },
+   "C058": {
+    "status": "ok",
+    "missing": []
+   },
+   "C059": {
+    "status": "ok",
+    "missing": []
+   },
+   "C060": {
+    "status": "ok",
+    "missing": []
+   },
+   "C061": {
+    "status": "ok",
+    "missing": []
+   },
+   "C062": {
+    "status": "ok",
+    "missing": []
+   },
+   "C063": {
+    "status": "ok",
+    "missing": []
+   },
+   "C064": {
+    "status": "ok",
+    "missing": []
+   },
+   "C065": {
+    "status": "ok",
+    "missing": []
+   },
+   "C066": {
+    "status": "ok",
+    "missing": []
+   },
+   "C067": {
+    "status": "ok",
+    "missing": []
+   },
+   "C068": {
+    "status": "ok",
+    "missing": []
+   },
+   "C069": {
+    "status": "ok",
+    "missing": []
+   },
+   "C070": {
+    "status": "ok",
+    "missing": []
+   },
+   "C071": {
+    "status": "ok",
+    "missing": []
+   },
+   "C072": {
+    "status": "ok",
+    "missing": []
+   },
+   "C073": {
+    "status": "ok",
+    "missing": []
+   },
+   "C074": {
+    "status": "ok",
+    "missing": []
+   },
+   "C075": {
+    "status": "ok",
+    "missing": []
+   },
+   "C076": {
+    "status": "ok",
+    "missing": []
+   },
+   "C077": {
+    "status": "ok",
+    "missing": []
+   },
+   "C078": {
+    "status": "ok",
+    "missing": []
+   },
+   "C079": {
+    "status": "ok",
+    "missing": []
+   },
+   "C080": {
+    "status": "ok",
+    "missing": []
+   },
+   "C081": {
+    "status": "ok",
+    "missing": []
+   },
+   "C082": {
+    "status": "ok",
+    "missing": []
+   },
+   "C083": {
+    "status": "ok",
+    "missing": []
+   },
+   "C084": {
+    "status": "ok",
+    "missing": []
+   },
+   "C085": {
+    "status": "ok",
+    "missing": []
+   },
+   "C086": {
+    "status": "ok",
+    "missing": []
+   },
+   "C087": {
+    "status": "ok",
+    "missing": []
+   },
+   "C088": {
+    "status": "ok",
+    "missing": []
+   },
+   "C089": {
+    "status": "ok",
+    "missing": []
+   },
+   "C090": {
+    "status": "ok",
+    "missing": []
+   },
+   "C091": {
+    "status": "ok",
+    "missing": []
+   },
+   "C092": {
+    "status": "ok",
+    "missing": []
+   },
+   "C093": {
+    "status": "ok",
+    "missing": []
+   },
+   "C094": {
+    "status": "ok",
+    "missing": []
+   },
+   "C095": {
+    "status": "ok",
+    "missing": []
+   },
+   "C096": {
+    "status": "ok",
+    "missing": []
+   },
+   "C097": {
+    "status": "ok",
+    "missing": []
+   },
+   "C098": {
+    "status": "ok",
+    "missing": []
+   },
+   "C099": {
+    "status": "ok",
+    "missing": []
+   },
+   "C100": {
+    "status": "ok",
+    "missing": []
+   },
+   "C101": {
+    "status": "ok",
+    "missing": []
+   },
+   "C102": {
+    "status": "ok",
+    "missing": []
+   },
+   "C103": {
+    "status": "ok",
+    "missing": []
+   },
+   "C104": {
+    "status": "ok",
+    "missing": []
+   },
+   "C105": {
+    "status": "ok",
+    "missing": []
+   },
+   "C106": {
+    "status": "ok",
+    "missing": []
+   },
+   "C107": {
+    "status": "ok",
+    "missing": []
+   },
+   "C108": {
+    "status": "ok",
+    "missing": []
+   },
+   "C109": {
+    "status": "ok",
+    "missing": []
+   },
+   "C110": {
+    "status": "ok",
+    "missing": []
+   },
+   "C111": {
+    "status": "ok",
+    "missing": []
+   },
+   "C112": {
+    "status": "ok",
+    "missing": []
+   },
+   "C113": {
+    "status": "ok",
+    "missing": []
+   },
+   "C114": {
+    "status": "ok",
+    "missing": []
+   },
+   "C115": {
+    "status": "ok",
+    "missing": []
+   },
+   "C116": {
+    "status": "ok",
+    "missing": []
+   },
+   "C117": {
+    "status": "ok",
+    "missing": []
+   },
+   "C118": {
+    "status": "ok",
+    "missing": []
+   },
+   "C119": {
+    "status": "ok",
+    "missing": []
+   },
+   "C120": {
+    "status": "ok",
+    "missing": []
+   },
+   "C121": {
+    "status": "ok",
+    "missing": []
+   },
+   "C122": {
+    "status": "ok",
+    "missing": []
+   },
+   "C123": {
+    "status": "ok",
+    "missing": []
+   },
+   "C124": {
+    "status": "ok",
+    "missing": []
+   },
+   "C125": {
+    "status": "ok",
+    "missing": []
+   },
+   "C126": {
+    "status": "ok",
+    "missing": []
+   },
+   "C127": {
+    "status": "ok",
+    "missing": []
+   },
+   "C128": {
+    "status": "ok",
+    "missing": []
+   },
+   "C129": {
+    "status": "ok",
+    "missing": []
+   },
+   "C130": {
+    "status": "ok",
+    "missing": []
+   },
+   "C131": {
+    "status": "ok",
+    "missing": []
+   }
+  }
+ },
+ "status": "ok",
+ "method": "VATr++",
+ "inventory_version": "0.3.0",
+ "environment": {
+  "python": "3.12.8",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "torch": "2.14.1",
+  "transformers": "5.20.2",
+  "numpy": "2.5.4"
+ },
+ "checked_at": "2026-10-23T15:38:25+00:00",
+ "source": "github EDM-Research/VATr-pp",
+ "revision": "a32d6fd39d74fecbc3c99dcbcfc397c17fc9fc32"
+}
