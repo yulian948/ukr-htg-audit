@@ -10,7 +10,7 @@
 3. **Впізнавана літера** — чи читається згенероване зображення як потрібна літера (сліпа оцінка).
 4. **Форма за прописами** — чи відповідає форма літери шкільним прописам (для шрифтів).
 
-*English summary.* Reproducible audit of Ukrainian handwritten text generation: at which of four levels
+*English summary.* Audit of Ukrainian handwritten text generation: at which of four levels
 (encoding, text pipeline, recognisable letter, copybook letter form) eleven HTG implementations and 59
 handwriting fonts lose characters of modern Ukrainian and historical Cyrillic script. All versions are pinned;
 scripts point to the file and line of code where a character is lost.
