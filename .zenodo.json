@@ -1,0 +1,30 @@
+{
+  "title": "ukr-htg-audit: аудит генерації українського рукописного тексту",
+  "upload_type": "software",
+  "description": "<p>Код, зафіксовані версії й повні результати дослідження &laquo;Аудит методів генерації українського рукописного тексту та рукописних шрифтів&raquo; (Н. Е. Кунанець, Ю. Р. Баранецький).</p>\n<p>Аудит перевіряє, на якому з чотирьох рівнів одинадцять реалізацій методів генерації рукописного тексту (HTG) і 59 рукописних шрифтів утрачають символи сучасного українського та історичного письма:</p>\n<ol>\n<li><strong>Кодування</strong> &mdash; чи приймає модель символ (алфавіт, токенізатор).</li>\n<li><strong>Конвеєр</strong> &mdash; чи не вилучає символ код підготовки тексту.</li>\n<li><strong>Впізнавана літера</strong> &mdash; чи читається згенероване зображення як потрібна літера (сліпа оцінка).</li>\n<li><strong>Форма за прописами</strong> &mdash; чи відповідає форма літери шкільним прописам (для шрифтів).</li>\n</ol>\n<p><em>English summary.</em> Audit of Ukrainian handwritten text generation: at which of four levels (encoding, text pipeline, recognisable letter, copybook letter form) eleven HTG implementations and 59 handwriting fonts lose characters of modern Ukrainian and historical Cyrillic script. All versions are pinned; scripts point to the file and line of code where a character is lost.</p>",
+  "creators": [
+    {
+      "name": "Baranetskyi, Yulian",
+      "affiliation": "Lviv Polytechnic National University",
+      "orcid": "0009-0008-5545-0865"
+    },
+    {
+      "name": "Kunanets, Nataliia",
+      "affiliation": "Lviv Polytechnic National University",
+      "orcid": "0000-0003-3007-2462"
+    }
+  ],
+  "keywords": [
+    "handwritten text recognition",
+    "synthetic training data",
+    "historical manuscripts",
+    "digital archiving",
+    "Ukrainian script",
+    "historical orthography",
+    "handwritten text generation",
+    "handwriting fonts"
+  ],
+  "language": "ukr",
+  "license": "MIT",
+  "access_right": "open"
+}
